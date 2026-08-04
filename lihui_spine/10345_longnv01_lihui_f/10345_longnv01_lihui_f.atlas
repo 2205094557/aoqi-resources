@@ -1,0 +1,48 @@
+
+10345_longnv01_lihui_f.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaiming0
+  rotate: false
+  xy: 387, 14
+  size: 102, 92
+  orig: 102, 92
+  offset: 0, 0
+  index: -1
+gaiming1
+  rotate: false
+  xy: 566, 50
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+gaiming10a
+  rotate: false
+  xy: 491, 31
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+gaiming11a
+  rotate: true
+  xy: 2, 108
+  size: 122, 1007
+  orig: 122, 1007
+  offset: 0, 0
+  index: -1
+gaiming6
+  rotate: true
+  xy: 2, 2
+  size: 104, 259
+  orig: 104, 259
+  offset: 0, 0
+  index: -1
+gaiming8
+  rotate: true
+  xy: 263, 2
+  size: 104, 122
+  orig: 104, 122
+  offset: 0, 0
+  index: -1

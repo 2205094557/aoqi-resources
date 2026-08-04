@@ -1,0 +1,62 @@
+
+15030_anmimengli01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc220
+  rotate: true
+  xy: 2, 2
+  size: 24, 68
+  orig: 24, 68
+  offset: 0, 0
+  index: -1
+xc221
+  rotate: false
+  xy: 532, 179
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+xc222
+  rotate: true
+  xy: 199, 31
+  size: 14, 57
+  orig: 14, 57
+  offset: 0, 0
+  index: -1
+xc223
+  rotate: false
+  xy: 1960, 1913
+  size: 82, 130
+  orig: 82, 130
+  offset: 0, 0
+  index: -1
+xc224
+  rotate: true
+  xy: 367, 48
+  size: 142, 163
+  orig: 142, 163
+  offset: 0, 0
+  index: -1
+xc225
+  rotate: false
+  xy: 199, 47
+  size: 166, 143
+  orig: 166, 143
+  offset: 0, 0
+  index: -1
+xc226
+  rotate: true
+  xy: 2, 28
+  size: 162, 195
+  orig: 162, 195
+  offset: 0, 0
+  index: -1
+xc227
+  rotate: false
+  xy: 2, 192
+  size: 1956, 1851
+  orig: 1956, 1851
+  offset: 0, 0
+  index: -1
