@@ -1,0 +1,97 @@
+
+17027_yuanqibojiaqiu02_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hou_10
+  rotate: false
+  xy: 933, 348
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+hou_11
+  rotate: false
+  xy: 1039, 331
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+hou_12
+  rotate: false
+  xy: 2, 604
+  size: 961, 297
+  orig: 961, 297
+  offset: 0, 0
+  index: -1
+hou_13
+  rotate: false
+  xy: 2, 903
+  size: 1325, 1124
+  orig: 1325, 1124
+  offset: 0, 0
+  index: -1
+hou_14
+  rotate: true
+  xy: 1329, 845
+  size: 1182, 685
+  orig: 1182, 685
+  offset: 0, 0
+  index: -1
+hou_15
+  rotate: false
+  xy: 1291, 161
+  size: 482, 682
+  orig: 482, 682
+  offset: 0, 0
+  index: -1
+hou_3
+  rotate: true
+  xy: 933, 2
+  size: 157, 863
+  orig: 157, 863
+  offset: 0, 0
+  index: -1
+hou_4
+  rotate: true
+  xy: 1291, 850
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+hou_5
+  rotate: false
+  xy: 933, 247
+  size: 65, 99
+  orig: 65, 99
+  offset: 0, 0
+  index: -1
+hou_6
+  rotate: true
+  xy: 1000, 303
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+hou_7
+  rotate: true
+  xy: 1033, 269
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+hou_8
+  rotate: true
+  xy: 2, 67
+  size: 535, 929
+  orig: 535, 929
+  offset: 0, 0
+  index: -1
+hou_9
+  rotate: true
+  xy: 965, 437
+  size: 464, 324
+  orig: 464, 324
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+17027_yuanqibojiaqiu02_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qian_0
+  rotate: false
+  xy: 1601, 1108
+  size: 110, 283
+  orig: 110, 283
+  offset: 0, 0
+  index: -1
+qian_1
+  rotate: false
+  xy: 1139, 639
+  size: 145, 168
+  orig: 145, 168
+  offset: 0, 0
+  index: -1
+qian_10
+  rotate: false
+  xy: 596, 17
+  size: 291, 148
+  orig: 291, 148
+  offset: 0, 0
+  index: -1
+qian_11
+  rotate: false
+  xy: 1815, 1539
+  size: 194, 254
+  orig: 194, 254
+  offset: 0, 0
+  index: -1
+qian_12
+  rotate: false
+  xy: 685, 1236
+  size: 439, 794
+  orig: 439, 794
+  offset: 0, 0
+  index: -1
+qian_13
+  rotate: false
+  xy: 1684, 1620
+  size: 129, 410
+  orig: 129, 410
+  offset: 0, 0
+  index: -1
+qian_14
+  rotate: true
+  xy: 596, 167
+  size: 643, 484
+  orig: 643, 484
+  offset: 0, 0
+  index: -1
+qian_15
+  rotate: true
+  xy: 1177, 809
+  size: 582, 422
+  orig: 582, 422
+  offset: 0, 0
+  index: -1
+qian_16
+  rotate: true
+  xy: 1815, 1795
+  size: 235, 226
+  orig: 235, 226
+  offset: 0, 0
+  index: -1
+qian_17
+  rotate: false
+  xy: 2, 863
+  size: 681, 1167
+  orig: 681, 1167
+  offset: 0, 0
+  index: -1
+qian_2
+  rotate: false
+  xy: 1082, 522
+  size: 55, 288
+  orig: 55, 288
+  offset: 0, 0
+  index: -1
+qian_3
+  rotate: false
+  xy: 1601, 811
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+qian_4
+  rotate: false
+  xy: 889, 2
+  size: 190, 163
+  orig: 190, 163
+  offset: 0, 0
+  index: -1
+qian_5
+  rotate: false
+  xy: 1601, 894
+  size: 142, 212
+  orig: 142, 212
+  offset: 0, 0
+  index: -1
+qian_6
+  rotate: true
+  xy: 2, 3
+  size: 858, 592
+  orig: 858, 592
+  offset: 0, 0
+  index: -1
+qian_7
+  rotate: false
+  xy: 1126, 1393
+  size: 556, 637
+  orig: 556, 637
+  offset: 0, 0
+  index: -1
+qian_8
+  rotate: false
+  xy: 685, 812
+  size: 490, 422
+  orig: 490, 422
+  offset: 0, 0
+  index: -1
+qian_9
+  rotate: true
+  xy: 1684, 1435
+  size: 183, 101
+  orig: 183, 101
+  offset: 0, 0
+  index: -1

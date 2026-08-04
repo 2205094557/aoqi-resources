@@ -1,0 +1,33 @@
+{
+"skeleton": { "hash": "WMwyBUzEThbAPUD+cYLb7x+UQh8", "spine": "3.6.53", "width": 1315.25, "height": 1257.75, "images": "./images/" },
+"bones": [
+	{ "name": "root", "scaleX": 0.25, "scaleY": 0.25 },
+	{ "name": "hou", "parent": "root", "length": 1071.15, "y": -2398.88, "color": "004bffff" }
+],
+"slots": [
+	{ "name": "cccxc124", "bone": "hou", "attachment": "ssxc20" }
+],
+"skins": {
+	"default": {
+		"cccxc124": {
+			"ssxc20": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 2653.06, 2234.7, -2607.94, 2234.7, -2607.94, 7265.7, 2653.06, 7265.7 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 5261,
+				"height": 5031
+			}
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"drawOrder": [
+			{ "time": 5.3 }
+		]
+	}
+}
+}
