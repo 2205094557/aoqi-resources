@@ -1,0 +1,111 @@
+
+14026_tonglingnuoya_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ggxc0
+  rotate: false
+  xy: 1073, 309
+  size: 538, 508
+  orig: 538, 508
+  offset: 0, 0
+  index: -1
+ggxc1
+  rotate: true
+  xy: 2, 143
+  size: 131, 280
+  orig: 131, 280
+  offset: 0, 0
+  index: -1
+ggxc10
+  rotate: true
+  xy: 1613, 203
+  size: 614, 378
+  orig: 614, 378
+  offset: 0, 0
+  index: -1
+ggxc11
+  rotate: false
+  xy: 1776, 1694
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+ggxc12
+  rotate: false
+  xy: 2, 276
+  size: 1069, 625
+  orig: 1069, 625
+  offset: 0, 0
+  index: -1
+ggxc13
+  rotate: false
+  xy: 1776, 1862
+  size: 244, 184
+  orig: 244, 184
+  offset: 0, 0
+  index: -1
+ggxc14
+  rotate: false
+  xy: 1776, 1762
+  size: 182, 98
+  orig: 182, 98
+  offset: 0, 0
+  index: -1
+ggxc15
+  rotate: false
+  xy: 1073, 280
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+ggxc16
+  rotate: false
+  xy: 2, 2
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+ggxc2
+  rotate: false
+  xy: 2, 903
+  size: 1169, 1143
+  orig: 1169, 1143
+  offset: 0, 0
+  index: -1
+ggxc3
+  rotate: false
+  xy: 1173, 819
+  size: 640, 469
+  orig: 640, 469
+  offset: 0, 0
+  index: -1
+ggxc4
+  rotate: false
+  xy: 1073, 862
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+ggxc7
+  rotate: false
+  xy: 284, 189
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+ggxc8
+  rotate: false
+  xy: 2, 34
+  size: 128, 107
+  orig: 128, 107
+  offset: 0, 0
+  index: -1
+ggxc9
+  rotate: false
+  xy: 1173, 1290
+  size: 601, 756
+  orig: 601, 756
+  offset: 0, 0
+  index: -1
