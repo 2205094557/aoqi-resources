@@ -1,0 +1,69 @@
+
+80007_moling_lihui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LS01
+  rotate: false
+  xy: 600, 49
+  size: 222, 214
+  orig: 222, 214
+  offset: 0, 0
+  index: -1
+LS03
+  rotate: false
+  xy: 837, 427
+  size: 147, 170
+  orig: 147, 170
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 596, 979
+  orig: 596, 979
+  offset: 0, 0
+  index: -1
+fing01
+  rotate: false
+  xy: 898, 843
+  size: 71, 138
+  orig: 71, 138
+  offset: 0, 0
+  index: -1
+fing02
+  rotate: false
+  xy: 837, 323
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+fing03
+  rotate: false
+  xy: 898, 630
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+fing04
+  rotate: true
+  xy: 898, 724
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 600, 265
+  size: 235, 332
+  orig: 235, 332
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 600, 599
+  size: 296, 382
+  orig: 296, 382
+  offset: 0, 0
+  index: -1

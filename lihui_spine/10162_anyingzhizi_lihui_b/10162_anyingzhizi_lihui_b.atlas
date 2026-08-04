@@ -1,0 +1,62 @@
+
+10162_anyingzhizi_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao00035
+  rotate: false
+  xy: 1113, 222
+  size: 475, 164
+  orig: 475, 164
+  offset: 0, 0
+  index: -1
+texiao033
+  rotate: false
+  xy: 1737, 589
+  size: 203, 539
+  orig: 203, 539
+  offset: 0, 0
+  index: -1
+texiao32
+  rotate: true
+  xy: 1737, 1130
+  size: 848, 252
+  orig: 848, 252
+  offset: 0, 0
+  index: -1
+texiao33
+  rotate: false
+  xy: 1113, 92
+  size: 496, 128
+  orig: 496, 128
+  offset: 0, 0
+  index: -1
+texiao34
+  rotate: false
+  xy: 1942, 682
+  size: 74, 446
+  orig: 74, 446
+  offset: 0, 0
+  index: -1
+texiao35
+  rotate: false
+  xy: 2, 2
+  size: 810, 191
+  orig: 810, 191
+  offset: 0, 0
+  index: -1
+texiao36
+  rotate: false
+  xy: 2, 195
+  size: 1109, 191
+  orig: 1109, 191
+  offset: 0, 0
+  index: -1
+yueliang
+  rotate: false
+  xy: 2, 388
+  size: 1733, 1590
+  orig: 1733, 1590
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+10162_anyingzhizi_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianfu1
+  rotate: true
+  xy: 1936, 1390
+  size: 335, 88
+  orig: 335, 88
+  offset: 0, 0
+  index: -1
+bianfu2
+  rotate: true
+  xy: 1772, 833
+  size: 118, 144
+  orig: 118, 144
+  offset: 0, 0
+  index: -1
+bianfu3
+  rotate: false
+  xy: 1015, 145
+  size: 233, 164
+  orig: 233, 164
+  offset: 0, 0
+  index: -1
+bianfu4
+  rotate: false
+  xy: 1558, 621
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+bianfu5
+  rotate: true
+  xy: 1272, 500
+  size: 235, 140
+  orig: 235, 140
+  offset: 0, 0
+  index: -1
+bianfu6
+  rotate: true
+  xy: 1186, 350
+  size: 191, 67
+  orig: 191, 67
+  offset: 0, 0
+  index: -1
+texiao0035
+  rotate: false
+  xy: 534, 125
+  size: 425, 610
+  orig: 425, 610
+  offset: 0, 0
+  index: -1
+texiao028
+  rotate: false
+  xy: 534, 1727
+  size: 1510, 310
+  orig: 1510, 310
+  offset: 0, 0
+  index: -1
+texiao035
+  rotate: true
+  xy: 961, 144
+  size: 591, 52
+  orig: 591, 52
+  offset: 0, 0
+  index: -1
+texiao28
+  rotate: false
+  xy: 534, 1307
+  size: 1400, 418
+  orig: 1400, 418
+  offset: 0, 0
+  index: -1
+texiao29
+  rotate: true
+  xy: 534, 737
+  size: 214, 853
+  orig: 214, 853
+  offset: 0, 0
+  index: -1
+texiao30
+  rotate: false
+  xy: 534, 953
+  size: 1412, 352
+  orig: 1412, 352
+  offset: 0, 0
+  index: -1
+texiao31
+  rotate: false
+  xy: 2, 108
+  size: 530, 1929
+  orig: 530, 1929
+  offset: 0, 0
+  index: -1
+yumao1
+  rotate: true
+  xy: 2, 2
+  size: 104, 352
+  orig: 104, 352
+  offset: 0, 0
+  index: -1
+yumao10
+  rotate: false
+  xy: 534, 44
+  size: 320, 79
+  orig: 320, 79
+  offset: 0, 0
+  index: -1
+yumao2
+  rotate: false
+  xy: 1414, 563
+  size: 142, 182
+  orig: 142, 182
+  offset: 0, 0
+  index: -1
+yumao3
+  rotate: false
+  xy: 1255, 383
+  size: 110, 115
+  orig: 110, 115
+  offset: 0, 0
+  index: -1
+yumao4
+  rotate: false
+  xy: 1015, 311
+  size: 169, 230
+  orig: 169, 230
+  offset: 0, 0
+  index: -1
+yumao5
+  rotate: false
+  xy: 1389, 827
+  size: 381, 124
+  orig: 381, 124
+  offset: 0, 0
+  index: -1
+yumao6
+  rotate: false
+  xy: 1389, 747
+  size: 342, 78
+  orig: 342, 78
+  offset: 0, 0
+  index: -1
+yumao7
+  rotate: false
+  xy: 356, 20
+  size: 172, 86
+  orig: 172, 86
+  offset: 0, 0
+  index: -1
+yumao8
+  rotate: false
+  xy: 1414, 497
+  size: 149, 64
+  orig: 149, 64
+  offset: 0, 0
+  index: -1
+yumao9
+  rotate: false
+  xy: 1015, 543
+  size: 255, 192
+  orig: 255, 192
+  offset: 0, 0
+  index: -1
