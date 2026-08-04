@@ -1,0 +1,55 @@
+
+17022_chuangzhengli_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc0
+  rotate: true
+  xy: 571, 86
+  size: 175, 351
+  orig: 175, 351
+  offset: 0, 0
+  index: -1
+xc1
+  rotate: true
+  xy: 1515, 450
+  size: 360, 493
+  orig: 360, 493
+  offset: 0, 0
+  index: -1
+xc2
+  rotate: false
+  xy: 1110, 264
+  size: 403, 546
+  orig: 403, 546
+  offset: 0, 0
+  index: -1
+xc3
+  rotate: true
+  xy: 1110, 812
+  size: 624, 668
+  orig: 624, 668
+  offset: 0, 0
+  index: -1
+xc4
+  rotate: false
+  xy: 571, 263
+  size: 537, 1173
+  orig: 537, 1173
+  offset: 0, 0
+  index: -1
+xc5
+  rotate: true
+  xy: 2, 2
+  size: 1434, 567
+  orig: 1434, 567
+  offset: 0, 0
+  index: -1
+xc6
+  rotate: false
+  xy: 2, 1438
+  size: 1909, 603
+  orig: 1909, 603
+  offset: 0, 0
+  index: -1

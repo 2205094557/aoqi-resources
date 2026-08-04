@@ -1,0 +1,230 @@
+
+10101_yueyingwang_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizuoa
+  rotate: false
+  xy: 1043, 827
+  size: 476, 1214
+  orig: 476, 1214
+  offset: 0, 0
+  index: -1
+shitou1
+  rotate: false
+  xy: 1178, 316
+  size: 313, 118
+  orig: 313, 118
+  offset: 0, 0
+  index: -1
+shitou10
+  rotate: false
+  xy: 1895, 1386
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+shitou11
+  rotate: true
+  xy: 1435, 198
+  size: 116, 56
+  orig: 116, 56
+  offset: 0, 0
+  index: -1
+shitou12
+  rotate: false
+  xy: 1145, 162
+  size: 288, 152
+  orig: 288, 152
+  offset: 0, 0
+  index: -1
+shitou13
+  rotate: true
+  xy: 1595, 585
+  size: 202, 121
+  orig: 202, 121
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: false
+  xy: 1741, 834
+  size: 113, 74
+  orig: 113, 74
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: true
+  xy: 975, 220
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+shitou4
+  rotate: false
+  xy: 1178, 436
+  size: 260, 276
+  orig: 260, 276
+  offset: 0, 0
+  index: -1
+shitou5
+  rotate: false
+  xy: 475, 16
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+shitou6
+  rotate: false
+  xy: 1874, 924
+  size: 34, 89
+  orig: 34, 89
+  offset: 0, 0
+  index: -1
+shitou7
+  rotate: true
+  xy: 1992, 1385
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+shitou8a
+  rotate: true
+  xy: 1444, 751
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+shitou9
+  rotate: false
+  xy: 975, 358
+  size: 201, 354
+  orig: 201, 354
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 975, 714
+  size: 467, 111
+  orig: 467, 111
+  offset: 0, 0
+  index: -1
+texiao10a
+  rotate: true
+  xy: 1741, 910
+  size: 453, 131
+  orig: 453, 131
+  offset: 0, 0
+  index: -1
+texiao11
+  rotate: true
+  xy: 1521, 1365
+  size: 676, 372
+  orig: 676, 372
+  offset: 0, 0
+  index: -1
+texiao12
+  rotate: true
+  xy: 2, 97
+  size: 121, 633
+  orig: 121, 633
+  offset: 0, 0
+  index: -1
+texiao13
+  rotate: false
+  xy: 1440, 460
+  size: 57, 252
+  orig: 57, 252
+  offset: 0, 0
+  index: -1
+texiao14
+  rotate: true
+  xy: 975, 882
+  size: 171, 37
+  orig: 171, 37
+  offset: 0, 0
+  index: -1
+texiao15
+  rotate: true
+  xy: 1499, 509
+  size: 278, 94
+  orig: 278, 94
+  offset: 0, 0
+  index: -1
+texiao16
+  rotate: false
+  xy: 637, 2
+  size: 339, 102
+  orig: 339, 102
+  offset: 0, 0
+  index: -1
+texiao17
+  rotate: false
+  xy: 1895, 1471
+  size: 121, 570
+  orig: 121, 570
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: true
+  xy: 2, 11
+  size: 84, 471
+  orig: 84, 471
+  offset: 0, 0
+  index: -1
+texiao4
+  rotate: false
+  xy: 1521, 789
+  size: 108, 574
+  orig: 108, 574
+  offset: 0, 0
+  index: -1
+texiao5a
+  rotate: false
+  xy: 1874, 1015
+  size: 71, 348
+  orig: 71, 348
+  offset: 0, 0
+  index: -1
+texiao6
+  rotate: false
+  xy: 637, 106
+  size: 337, 112
+  orig: 337, 112
+  offset: 0, 0
+  index: -1
+texiao8
+  rotate: true
+  xy: 1631, 812
+  size: 551, 108
+  orig: 551, 108
+  offset: 0, 0
+  index: -1
+texiao9
+  rotate: true
+  xy: 2018, 1862
+  size: 179, 28
+  orig: 179, 28
+  offset: 0, 0
+  index: -1
+tiana
+  rotate: false
+  xy: 2, 220
+  size: 971, 833
+  orig: 971, 833
+  offset: 0, 0
+  index: -1
+wua
+  rotate: false
+  xy: 975, 264
+  size: 168, 92
+  orig: 168, 92
+  offset: 0, 0
+  index: -1
+yueliang
+  rotate: false
+  xy: 2, 1055
+  size: 1039, 986
+  orig: 1039, 986
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+10330_aixi_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixi_0
+  rotate: true
+  xy: 959, 892
+  size: 128, 55
+  orig: 128, 55
+  offset: 0, 0
+  index: -1
+aixi_1
+  rotate: false
+  xy: 258, 396
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+aixi_10
+  rotate: false
+  xy: 258, 369
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+aixi_11
+  rotate: false
+  xy: 906, 682
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+aixi_12
+  rotate: false
+  xy: 619, 713
+  size: 335, 129
+  orig: 335, 129
+  offset: 0, 0
+  index: -1
+aixi_13
+  rotate: false
+  xy: 422, 606
+  size: 135, 31
+  orig: 135, 31
+  offset: 0, 0
+  index: -1
+aixi_14
+  rotate: false
+  xy: 133, 465
+  size: 212, 172
+  orig: 212, 172
+  offset: 0, 0
+  index: -1
+aixi_15
+  rotate: false
+  xy: 347, 475
+  size: 73, 162
+  orig: 73, 162
+  offset: 0, 0
+  index: -1
+aixi_16
+  rotate: false
+  xy: 2, 157
+  size: 129, 480
+  orig: 129, 480
+  offset: 0, 0
+  index: -1
+aixi_18
+  rotate: false
+  xy: 240, 286
+  size: 16, 177
+  orig: 16, 177
+  offset: 0, 0
+  index: -1
+aixi_19
+  rotate: false
+  xy: 2, 844
+  size: 955, 176
+  orig: 955, 176
+  offset: 0, 0
+  index: -1
+aixi_2
+  rotate: false
+  xy: 422, 578
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+aixi_20
+  rotate: false
+  xy: 2, 639
+  size: 615, 203
+  orig: 615, 203
+  offset: 0, 0
+  index: -1
+aixi_21
+  rotate: true
+  xy: 619, 653
+  size: 58, 285
+  orig: 58, 285
+  offset: 0, 0
+  index: -1
+aixi_3
+  rotate: true
+  xy: 959, 854
+  size: 36, 63
+  orig: 36, 63
+  offset: 0, 0
+  index: -1
+aixi_4
+  rotate: false
+  xy: 133, 183
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+aixi_5
+  rotate: false
+  xy: 2, 40
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+aixi_6
+  rotate: false
+  xy: 133, 266
+  size: 105, 197
+  orig: 105, 197
+  offset: 0, 0
+  index: -1
+aixi_7
+  rotate: false
+  xy: 2, 103
+  size: 127, 52
+  orig: 127, 52
+  offset: 0, 0
+  index: -1
+aixi_8
+  rotate: false
+  xy: 559, 606
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+aixi_9
+  rotate: false
+  xy: 193, 227
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+10101_yueyingwang_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lang1
+  rotate: false
+  xy: 364, 385
+  size: 583, 270
+  orig: 583, 270
+  offset: 0, 0
+  index: -1
+lang2
+  rotate: true
+  xy: 2, 3
+  size: 59, 151
+  orig: 59, 151
+  offset: 0, 0
+  index: -1
+lang3
+  rotate: false
+  xy: 827, 362
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+lang4
+  rotate: false
+  xy: 364, 230
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+lang5
+  rotate: true
+  xy: 403, 2
+  size: 257, 285
+  orig: 257, 285
+  offset: 0, 0
+  index: -1
+lang6
+  rotate: false
+  xy: 2, 64
+  size: 399, 128
+  orig: 399, 128
+  offset: 0, 0
+  index: -1
+lang7
+  rotate: false
+  xy: 364, 261
+  size: 461, 122
+  orig: 461, 122
+  offset: 0, 0
+  index: -1
+lang8a
+  rotate: false
+  xy: 364, 657
+  size: 526, 362
+  orig: 526, 362
+  offset: 0, 0
+  index: -1
+lang9a
+  rotate: false
+  xy: 2, 194
+  size: 360, 825
+  orig: 360, 825
+  offset: 0, 0
+  index: -1
+texiao20a
+  rotate: true
+  xy: 892, 698
+  size: 321, 88
+  orig: 321, 88
+  offset: 0, 0
+  index: -1

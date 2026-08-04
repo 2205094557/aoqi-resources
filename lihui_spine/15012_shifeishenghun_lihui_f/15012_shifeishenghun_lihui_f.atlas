@@ -1,0 +1,146 @@
+
+15012_shifeishenghun_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shifeishenhun_0
+  rotate: true
+  xy: 512, 2
+  size: 166, 298
+  orig: 166, 298
+  offset: 0, 0
+  index: -1
+shifeishenhun_1
+  rotate: false
+  xy: 512, 170
+  size: 318, 552
+  orig: 318, 552
+  offset: 0, 0
+  index: -1
+shifeishenhun_10
+  rotate: false
+  xy: 2, 54
+  size: 508, 592
+  orig: 508, 592
+  offset: 0, 0
+  index: -1
+shifeishenhun_11
+  rotate: false
+  xy: 1229, 878
+  size: 376, 781
+  orig: 376, 781
+  offset: 0, 0
+  index: -1
+shifeishenhun_12
+  rotate: false
+  xy: 1987, 1928
+  size: 38, 113
+  orig: 38, 113
+  offset: 0, 0
+  index: -1
+shifeishenhun_13
+  rotate: false
+  xy: 832, 165
+  size: 367, 536
+  orig: 367, 536
+  offset: 0, 0
+  index: -1
+shifeishenhun_14
+  rotate: true
+  xy: 448, 724
+  size: 911, 406
+  orig: 911, 406
+  offset: 0, 0
+  index: -1
+shifeishenhun_15
+  rotate: false
+  xy: 2, 1637
+  size: 1080, 404
+  orig: 1080, 404
+  offset: 0, 0
+  index: -1
+shifeishenhun_16
+  rotate: false
+  xy: 1084, 1661
+  size: 901, 380
+  orig: 901, 380
+  offset: 0, 0
+  index: -1
+shifeishenhun_17
+  rotate: false
+  xy: 1025, 806
+  size: 202, 829
+  orig: 202, 829
+  offset: 0, 0
+  index: -1
+shifeishenhun_18
+  rotate: true
+  xy: 1607, 851
+  size: 808, 207
+  orig: 808, 207
+  offset: 0, 0
+  index: -1
+shifeishenhun_19
+  rotate: false
+  xy: 2, 648
+  size: 444, 987
+  orig: 444, 987
+  offset: 0, 0
+  index: -1
+shifeishenhun_2
+  rotate: false
+  xy: 1816, 1062
+  size: 196, 597
+  orig: 196, 597
+  offset: 0, 0
+  index: -1
+shifeishenhun_3
+  rotate: false
+  xy: 1816, 837
+  size: 146, 223
+  orig: 146, 223
+  offset: 0, 0
+  index: -1
+shifeishenhun_4
+  rotate: false
+  xy: 1461, 610
+  size: 128, 266
+  orig: 128, 266
+  offset: 0, 0
+  index: -1
+shifeishenhun_5
+  rotate: true
+  xy: 812, 80
+  size: 83, 280
+  orig: 83, 280
+  offset: 0, 0
+  index: -1
+shifeishenhun_6
+  rotate: true
+  xy: 856, 703
+  size: 932, 167
+  orig: 932, 167
+  offset: 0, 0
+  index: -1
+shifeishenhun_7
+  rotate: true
+  xy: 1201, 166
+  size: 638, 92
+  orig: 638, 92
+  offset: 0, 0
+  index: -1
+shifeishenhun_8
+  rotate: false
+  xy: 1461, 373
+  size: 136, 235
+  orig: 136, 235
+  offset: 0, 0
+  index: -1
+shifeishenhun_9
+  rotate: true
+  xy: 1295, 337
+  size: 539, 164
+  orig: 539, 164
+  offset: 0, 0
+  index: -1

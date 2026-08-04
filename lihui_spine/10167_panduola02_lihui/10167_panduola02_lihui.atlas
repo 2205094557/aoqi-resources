@@ -1,0 +1,188 @@
+
+10167_panduola02_lihui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc0
+  rotate: false
+  xy: 971, 37
+  size: 422, 86
+  orig: 422, 86
+  offset: 0, 0
+  index: -1
+xc1
+  rotate: false
+  xy: 2, 369
+  size: 1450, 446
+  orig: 1450, 446
+  offset: 0, 0
+  index: -1
+xc10
+  rotate: false
+  xy: 1454, 728
+  size: 31, 87
+  orig: 31, 87
+  offset: 0, 0
+  index: -1
+xc11
+  rotate: false
+  xy: 971, 143
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+xc12
+  rotate: true
+  xy: 1454, 386
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+xc13
+  rotate: false
+  xy: 1395, 84
+  size: 81, 39
+  orig: 81, 39
+  offset: 0, 0
+  index: -1
+xc14
+  rotate: false
+  xy: 1672, 244
+  size: 219, 176
+  orig: 219, 176
+  offset: 0, 0
+  index: -1
+xc15
+  rotate: false
+  xy: 2, 817
+  size: 1488, 1229
+  orig: 1488, 1229
+  offset: 0, 0
+  index: -1
+xc16
+  rotate: true
+  xy: 637, 17
+  size: 30, 176
+  orig: 30, 176
+  offset: 0, 0
+  index: -1
+xc17
+  rotate: false
+  xy: 1908, 424
+  size: 53, 272
+  orig: 53, 272
+  offset: 0, 0
+  index: -1
+xc18
+  rotate: true
+  xy: 2, 14
+  size: 43, 318
+  orig: 43, 318
+  offset: 0, 0
+  index: -1
+xc19a
+  rotate: true
+  xy: 322, 2
+  size: 45, 313
+  orig: 45, 313
+  offset: 0, 0
+  index: -1
+xc2
+  rotate: false
+  xy: 1829, 1123
+  size: 217, 923
+  orig: 217, 923
+  offset: 0, 0
+  index: -1
+xc20
+  rotate: true
+  xy: 2, 59
+  size: 308, 492
+  orig: 308, 492
+  offset: 0, 0
+  index: -1
+xc21
+  rotate: true
+  xy: 1492, 698
+  size: 281, 434
+  orig: 281, 434
+  offset: 0, 0
+  index: -1
+xc22
+  rotate: true
+  xy: 496, 213
+  size: 154, 600
+  orig: 154, 600
+  offset: 0, 0
+  index: -1
+xc23
+  rotate: true
+  xy: 496, 49
+  size: 162, 473
+  orig: 162, 473
+  offset: 0, 0
+  index: -1
+xc24
+  rotate: true
+  xy: 1928, 865
+  size: 150, 111
+  orig: 150, 111
+  offset: 0, 0
+  index: -1
+xc25
+  rotate: false
+  xy: 1829, 1017
+  size: 169, 104
+  orig: 169, 104
+  offset: 0, 0
+  index: -1
+xc26
+  rotate: true
+  xy: 1491, 138
+  size: 299, 116
+  orig: 299, 116
+  offset: 0, 0
+  index: -1
+xc3
+  rotate: true
+  xy: 1609, 173
+  size: 264, 61
+  orig: 264, 61
+  offset: 0, 0
+  index: -1
+xc4
+  rotate: false
+  xy: 1492, 981
+  size: 335, 1065
+  orig: 335, 1065
+  offset: 0, 0
+  index: -1
+xc6
+  rotate: true
+  xy: 1721, 422
+  size: 274, 185
+  orig: 274, 185
+  offset: 0, 0
+  index: -1
+xc7
+  rotate: false
+  xy: 1098, 125
+  size: 391, 242
+  orig: 391, 242
+  offset: 0, 0
+  index: -1
+xc8
+  rotate: false
+  xy: 1672, 184
+  size: 204, 58
+  orig: 204, 58
+  offset: 0, 0
+  index: -1
+xc9
+  rotate: false
+  xy: 1454, 439
+  size: 265, 257
+  orig: 265, 257
+  offset: 0, 0
+  index: -1

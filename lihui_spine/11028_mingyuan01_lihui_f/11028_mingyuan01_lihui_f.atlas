@@ -1,0 +1,104 @@
+
+11028_mingyuan01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i0
+  rotate: false
+  xy: 1297, 128
+  size: 368, 403
+  orig: 368, 403
+  offset: 0, 0
+  index: -1
+i1
+  rotate: true
+  xy: 2, 2
+  size: 11, 49
+  orig: 11, 49
+  offset: 0, 0
+  index: -1
+i10
+  rotate: true
+  xy: 705, 181
+  size: 350, 590
+  orig: 350, 590
+  offset: 0, 0
+  index: -1
+i11
+  rotate: false
+  xy: 1685, 236
+  size: 298, 677
+  orig: 298, 677
+  offset: 0, 0
+  index: -1
+i2
+  rotate: true
+  xy: 2, 107
+  size: 454, 701
+  orig: 454, 701
+  offset: 0, 0
+  index: -1
+i3
+  rotate: true
+  xy: 1343, 587
+  size: 1436, 340
+  orig: 1436, 340
+  offset: 0, 0
+  index: -1
+i4
+  rotate: false
+  xy: 786, 28
+  size: 406, 151
+  orig: 406, 151
+  offset: 0, 0
+  index: -1
+i5
+  rotate: true
+  xy: 995, 533
+  size: 1490, 346
+  orig: 1490, 346
+  offset: 0, 0
+  index: -1
+i6
+  rotate: false
+  xy: 2, 563
+  size: 991, 1460
+  orig: 991, 1460
+  offset: 0, 0
+  index: -1
+i7
+  rotate: true
+  xy: 2, 15
+  size: 90, 782
+  orig: 90, 782
+  offset: 0, 0
+  index: -1
+i8
+  rotate: false
+  xy: 1685, 915
+  size: 280, 1108
+  orig: 280, 1108
+  offset: 0, 0
+  index: -1
+i82
+  rotate: true
+  xy: 1967, 1678
+  size: 345, 43
+  orig: 345, 43
+  offset: 0, 0
+  index: -1
+i83
+  rotate: false
+  xy: 1194, 85
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
+  index: -1
+i9
+  rotate: false
+  xy: 1667, 50
+  size: 302, 184
+  orig: 302, 184
+  offset: 0, 0
+  index: -1

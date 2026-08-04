@@ -1,0 +1,48 @@
+
+10185_yemoyan_lihui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji
+  rotate: true
+  xy: 1892, 1706
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+fennu
+  rotate: false
+  xy: 1795, 1649
+  size: 95, 74
+  orig: 95, 74
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: false
+  xy: 1795, 1803
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+moyan
+  rotate: false
+  xy: 2, 2
+  size: 1791, 1982
+  orig: 1791, 1982
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 1795, 1576
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+zhenjing
+  rotate: false
+  xy: 1795, 1725
+  size: 95, 76
+  orig: 95, 76
+  offset: 0, 0
+  index: -1

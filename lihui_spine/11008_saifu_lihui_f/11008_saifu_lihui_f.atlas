@@ -1,0 +1,111 @@
+
+11008_saifu_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc0
+  rotate: false
+  xy: 558, 66
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+xc1
+  rotate: false
+  xy: 1468, 784
+  size: 194, 55
+  orig: 194, 55
+  offset: 0, 0
+  index: -1
+xc10
+  rotate: false
+  xy: 536, 699
+  size: 345, 1334
+  orig: 345, 1334
+  offset: 0, 0
+  index: -1
+xc11
+  rotate: false
+  xy: 1177, 714
+  size: 289, 1319
+  orig: 289, 1319
+  offset: 0, 0
+  index: -1
+xc12
+  rotate: false
+  xy: 883, 715
+  size: 292, 1318
+  orig: 292, 1318
+  offset: 0, 0
+  index: -1
+xc13
+  rotate: false
+  xy: 1468, 841
+  size: 223, 1192
+  orig: 223, 1192
+  offset: 0, 0
+  index: -1
+xc14
+  rotate: true
+  xy: 2, 28
+  size: 634, 554
+  orig: 634, 554
+  offset: 0, 0
+  index: -1
+xc2
+  rotate: false
+  xy: 2, 664
+  size: 532, 1369
+  orig: 532, 1369
+  offset: 0, 0
+  index: -1
+xc3
+  rotate: false
+  xy: 1693, 768
+  size: 229, 448
+  orig: 229, 448
+  offset: 0, 0
+  index: -1
+xc4
+  rotate: false
+  xy: 1693, 1218
+  size: 206, 815
+  orig: 206, 815
+  offset: 0, 0
+  index: -1
+xc5
+  rotate: false
+  xy: 558, 128
+  size: 826, 151
+  orig: 826, 151
+  offset: 0, 0
+  index: -1
+xc6
+  rotate: true
+  xy: 1779, 2
+  size: 764, 160
+  orig: 764, 160
+  offset: 0, 0
+  index: -1
+xc7
+  rotate: false
+  xy: 1901, 1259
+  size: 145, 774
+  orig: 145, 774
+  offset: 0, 0
+  index: -1
+xc8
+  rotate: true
+  xy: 1333, 469
+  size: 243, 444
+  orig: 243, 444
+  offset: 0, 0
+  index: -1
+xc9
+  rotate: false
+  xy: 558, 281
+  size: 773, 416
+  orig: 773, 416
+  offset: 0, 0
+  index: -1

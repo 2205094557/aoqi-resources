@@ -1,0 +1,125 @@
+
+10320_yanmielongzun01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kulou1
+  rotate: false
+  xy: 1655, 1870
+  size: 258, 153
+  orig: 258, 153
+  offset: 0, 0
+  index: -1
+kulou10
+  rotate: false
+  xy: 838, 509
+  size: 165, 77
+  orig: 165, 77
+  offset: 0, 0
+  index: -1
+kulou11
+  rotate: false
+  xy: 1051, 1779
+  size: 291, 244
+  orig: 291, 244
+  offset: 0, 0
+  index: -1
+kulou12
+  rotate: false
+  xy: 753, 1578
+  size: 296, 445
+  orig: 296, 445
+  offset: 0, 0
+  index: -1
+kulou13
+  rotate: false
+  xy: 1051, 1633
+  size: 289, 144
+  orig: 289, 144
+  offset: 0, 0
+  index: -1
+kulou2
+  rotate: true
+  xy: 753, 21
+  size: 226, 154
+  orig: 226, 154
+  offset: 0, 0
+  index: -1
+kulou3
+  rotate: true
+  xy: 918, 1064
+  size: 184, 115
+  orig: 184, 115
+  offset: 0, 0
+  index: -1
+kulou4a
+  rotate: false
+  xy: 918, 1250
+  size: 99, 326
+  orig: 99, 326
+  offset: 0, 0
+  index: -1
+kulou5a
+  rotate: false
+  xy: 753, 249
+  size: 104, 235
+  orig: 104, 235
+  offset: 0, 0
+  index: -1
+kulou6
+  rotate: true
+  xy: 912, 886
+  size: 176, 139
+  orig: 176, 139
+  offset: 0, 0
+  index: -1
+kulou7
+  rotate: false
+  xy: 838, 588
+  size: 172, 205
+  orig: 172, 205
+  offset: 0, 0
+  index: -1
+kulou8a
+  rotate: true
+  xy: 753, 486
+  size: 307, 83
+  orig: 307, 83
+  offset: 0, 0
+  index: -1
+kulou9
+  rotate: false
+  xy: 1915, 1863
+  size: 125, 160
+  orig: 125, 160
+  offset: 0, 0
+  index: -1
+shitou4
+  rotate: false
+  xy: 753, 795
+  size: 157, 278
+  orig: 157, 278
+  offset: 0, 0
+  index: -1
+shitou6
+  rotate: true
+  xy: 1344, 1823
+  size: 200, 309
+  orig: 200, 309
+  offset: 0, 0
+  index: -1
+shitou7a
+  rotate: false
+  xy: 2, 2
+  size: 749, 2021
+  orig: 749, 2021
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: true
+  xy: 753, 1075
+  size: 501, 163
+  orig: 501, 163
+  offset: 0, 0
+  index: -1

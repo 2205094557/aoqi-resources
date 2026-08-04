@@ -1,0 +1,139 @@
+
+11008_saifu_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc141
+  rotate: false
+  xy: 1454, 246
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+xc142
+  rotate: false
+  xy: 1454, 290
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+xc143
+  rotate: true
+  xy: 31, 2
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+xc144
+  rotate: false
+  xy: 1407, 242
+  size: 45, 107
+  orig: 45, 107
+  offset: 0, 0
+  index: -1
+xc145
+  rotate: false
+  xy: 450, 309
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+xc146
+  rotate: true
+  xy: 1203, 351
+  size: 145, 318
+  orig: 145, 318
+  offset: 0, 0
+  index: -1
+xc147
+  rotate: false
+  xy: 2, 32
+  size: 340, 112
+  orig: 340, 112
+  offset: 0, 0
+  index: -1
+xc148
+  rotate: true
+  xy: 2, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+xc149
+  rotate: true
+  xy: 341, 174
+  size: 141, 82
+  orig: 141, 82
+  offset: 0, 0
+  index: -1
+xc150
+  rotate: false
+  xy: 816, 265
+  size: 242, 155
+  orig: 242, 155
+  offset: 0, 0
+  index: -1
+xc151
+  rotate: false
+  xy: 816, 422
+  size: 385, 74
+  orig: 385, 74
+  offset: 0, 0
+  index: -1
+xc152
+  rotate: false
+  xy: 1060, 224
+  size: 141, 196
+  orig: 141, 196
+  offset: 0, 0
+  index: -1
+xc153
+  rotate: true
+  xy: 1523, 323
+  size: 173, 260
+  orig: 173, 260
+  offset: 0, 0
+  index: -1
+xc154
+  rotate: true
+  xy: 2, 146
+  size: 169, 337
+  orig: 169, 337
+  offset: 0, 0
+  index: -1
+xc155
+  rotate: false
+  xy: 450, 359
+  size: 364, 137
+  orig: 364, 137
+  offset: 0, 0
+  index: -1
+xc156
+  rotate: false
+  xy: 2, 317
+  size: 446, 179
+  orig: 446, 179
+  offset: 0, 0
+  index: -1
+xc157
+  rotate: true
+  xy: 1203, 215
+  size: 134, 202
+  orig: 134, 202
+  offset: 0, 0
+  index: -1
+xc158
+  rotate: false
+  xy: 1785, 282
+  size: 244, 214
+  orig: 244, 214
+  offset: 0, 0
+  index: -1
+xc159
+  rotate: false
+  xy: 2, 498
+  size: 2030, 1548
+  orig: 2030, 1548
+  offset: 0, 0
+  index: -1

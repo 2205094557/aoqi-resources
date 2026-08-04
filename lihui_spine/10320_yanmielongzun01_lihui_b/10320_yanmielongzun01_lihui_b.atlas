@@ -1,0 +1,139 @@
+
+10320_yanmielongzun01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizuo
+  rotate: false
+  xy: 2, 1104
+  size: 1648, 925
+  orig: 1648, 925
+  offset: 0, 0
+  index: -1
+guanga
+  rotate: true
+  xy: 1240, 86
+  size: 153, 77
+  orig: 153, 77
+  offset: 0, 0
+  index: -1
+shitou1
+  rotate: false
+  xy: 1021, 71
+  size: 217, 168
+  orig: 217, 168
+  offset: 0, 0
+  index: -1
+shitou10
+  rotate: true
+  xy: 1775, 228
+  size: 219, 163
+  orig: 219, 163
+  offset: 0, 0
+  index: -1
+shitou11
+  rotate: false
+  xy: 716, 301
+  size: 368, 209
+  orig: 368, 209
+  offset: 0, 0
+  index: -1
+shitou12
+  rotate: false
+  xy: 808, 70
+  size: 211, 229
+  orig: 211, 229
+  offset: 0, 0
+  index: -1
+shitou13a
+  rotate: true
+  xy: 1652, 1170
+  size: 859, 193
+  orig: 859, 193
+  offset: 0, 0
+  index: -1
+shitou14a
+  rotate: true
+  xy: 1847, 1496
+  size: 355, 49
+  orig: 355, 49
+  offset: 0, 0
+  index: -1
+shitou15b
+  rotate: false
+  xy: 2, 779
+  size: 1335, 323
+  orig: 1335, 323
+  offset: 0, 0
+  index: -1
+shitou16
+  rotate: true
+  xy: 1847, 1853
+  size: 176, 199
+  orig: 176, 199
+  offset: 0, 0
+  index: -1
+shitou17
+  rotate: true
+  xy: 1389, 449
+  size: 342, 465
+  orig: 342, 465
+  offset: 0, 0
+  index: -1
+shitou18a
+  rotate: true
+  xy: 716, 512
+  size: 265, 671
+  orig: 265, 671
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: true
+  xy: 1898, 1639
+  size: 212, 109
+  orig: 212, 109
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: false
+  xy: 1775, 146
+  size: 134, 80
+  orig: 134, 80
+  offset: 0, 0
+  index: -1
+shitou8
+  rotate: true
+  xy: 1339, 793
+  size: 309, 423
+  orig: 309, 423
+  offset: 0, 0
+  index: -1
+shitou9
+  rotate: false
+  xy: 1086, 241
+  size: 272, 269
+  orig: 272, 269
+  offset: 0, 0
+  index: -1
+texiao16a
+  rotate: true
+  xy: 2, 2
+  size: 236, 804
+  orig: 236, 804
+  offset: 0, 0
+  index: -1
+texiao19
+  rotate: false
+  xy: 2, 240
+  size: 712, 537
+  orig: 712, 537
+  offset: 0, 0
+  index: -1
+texiao21a
+  rotate: false
+  xy: 1360, 59
+  size: 413, 388
+  orig: 413, 388
+  offset: 0, 0
+  index: -1

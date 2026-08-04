@@ -1,0 +1,90 @@
+
+15021_fanasi01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0
+  rotate: false
+  xy: 1148, 844
+  size: 598, 598
+  orig: 598, 598
+  offset: 0, 0
+  index: -1
+a12
+  rotate: true
+  xy: 2, 36
+  size: 318, 883
+  orig: 318, 883
+  offset: 0, 0
+  index: -1
+a13
+  rotate: true
+  xy: 1148, 224
+  size: 259, 622
+  orig: 259, 622
+  offset: 0, 0
+  index: -1
+a15
+  rotate: true
+  xy: 1772, 204
+  size: 279, 127
+  orig: 279, 127
+  offset: 0, 0
+  index: -1
+a16
+  rotate: true
+  xy: 1148, 485
+  size: 357, 675
+  orig: 357, 675
+  offset: 0, 0
+  index: -1
+a17
+  rotate: false
+  xy: 2, 2
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+a18
+  rotate: false
+  xy: 1748, 975
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+a19
+  rotate: true
+  xy: 1748, 1007
+  size: 435, 176
+  orig: 435, 176
+  offset: 0, 0
+  index: -1
+a20
+  rotate: false
+  xy: 2, 356
+  size: 1144, 1683
+  orig: 1144, 1683
+  offset: 0, 0
+  index: -1
+a21
+  rotate: false
+  xy: 1881, 1506
+  size: 136, 533
+  orig: 136, 533
+  offset: 0, 0
+  index: -1
+a22
+  rotate: true
+  xy: 887, 78
+  size: 276, 161
+  orig: 276, 161
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 1148, 1444
+  size: 731, 595
+  orig: 731, 595
+  offset: 0, 0
+  index: -1

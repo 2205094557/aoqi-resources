@@ -1,0 +1,76 @@
+
+10167_panduola02_lihui_b.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc27
+  rotate: true
+  xy: 81, 2
+  size: 3, 57
+  orig: 3, 57
+  offset: 0, 0
+  index: -1
+xc28
+  rotate: true
+  xy: 2, 2
+  size: 3, 77
+  orig: 3, 77
+  offset: 0, 0
+  index: -1
+xc29
+  rotate: true
+  xy: 2, 7
+  size: 17, 104
+  orig: 17, 104
+  offset: 0, 0
+  index: -1
+xc30
+  rotate: true
+  xy: 1004, 936
+  size: 86, 18
+  orig: 86, 18
+  offset: 0, 0
+  index: -1
+xc31
+  rotate: false
+  xy: 166, 162
+  size: 248, 48
+  orig: 248, 48
+  offset: 0, 0
+  index: -1
+xc32
+  rotate: false
+  xy: 166, 116
+  size: 235, 44
+  orig: 235, 44
+  offset: 0, 0
+  index: -1
+xc33
+  rotate: false
+  xy: 166, 86
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+xc34
+  rotate: true
+  xy: 416, 182
+  size: 28, 93
+  orig: 28, 93
+  offset: 0, 0
+  index: -1
+xc35
+  rotate: false
+  xy: 2, 26
+  size: 162, 184
+  orig: 162, 184
+  offset: 0, 0
+  index: -1
+xc36
+  rotate: false
+  xy: 2, 212
+  size: 1000, 810
+  orig: 1000, 810
+  offset: 0, 0
+  index: -1

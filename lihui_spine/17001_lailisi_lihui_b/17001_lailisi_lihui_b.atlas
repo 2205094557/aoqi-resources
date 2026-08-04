@@ -1,0 +1,146 @@
+
+17001_lailisi_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoc0
+  rotate: false
+  xy: 236, 30
+  size: 194, 60
+  orig: 194, 60
+  offset: 0, 0
+  index: -1
+xiaoc1
+  rotate: true
+  xy: 1960, 928
+  size: 147, 64
+  orig: 147, 64
+  offset: 0, 0
+  index: -1
+xiaoc131
+  rotate: true
+  xy: 1959, 701
+  size: 126, 46
+  orig: 126, 46
+  offset: 0, 0
+  index: -1
+xiaoc132
+  rotate: false
+  xy: 1710, 105
+  size: 173, 41
+  orig: 173, 41
+  offset: 0, 0
+  index: -1
+xiaoc133
+  rotate: false
+  xy: 447, 139
+  size: 185, 75
+  orig: 185, 75
+  offset: 0, 0
+  index: -1
+xiaoc134
+  rotate: true
+  xy: 447, 99
+  size: 38, 135
+  orig: 38, 135
+  offset: 0, 0
+  index: -1
+xiaoc135a
+  rotate: false
+  xy: 1710, 148
+  size: 184, 311
+  orig: 184, 311
+  offset: 0, 0
+  index: -1
+xiaoc136
+  rotate: false
+  xy: 1787, 1077
+  size: 247, 370
+  orig: 247, 370
+  offset: 0, 0
+  index: -1
+xiaoc137
+  rotate: true
+  xy: 1238, 89
+  size: 370, 470
+  orig: 370, 470
+  offset: 0, 0
+  index: -1
+xiaoc138
+  rotate: true
+  xy: 1787, 1449
+  size: 596, 224
+  orig: 596, 224
+  offset: 0, 0
+  index: -1
+xiaoc139
+  rotate: false
+  xy: 2, 216
+  size: 681, 243
+  orig: 681, 243
+  offset: 0, 0
+  index: -1
+xiaoc140
+  rotate: true
+  xy: 1960, 829
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+xiaoc141
+  rotate: true
+  xy: 2, 92
+  size: 122, 443
+  orig: 122, 443
+  offset: 0, 0
+  index: -1
+xiaoc142
+  rotate: true
+  xy: 685, 244
+  size: 215, 551
+  orig: 215, 551
+  offset: 0, 0
+  index: -1
+xiaoc143
+  rotate: true
+  xy: 1787, 642
+  size: 433, 100
+  orig: 433, 100
+  offset: 0, 0
+  index: -1
+xiaoc144
+  rotate: false
+  xy: 2, 2
+  size: 232, 88
+  orig: 232, 88
+  offset: 0, 0
+  index: -1
+xiaoc145
+  rotate: false
+  xy: 2, 461
+  size: 1783, 1584
+  orig: 1783, 1584
+  offset: 0, 0
+  index: -1
+xiaoc2
+  rotate: true
+  xy: 1889, 836
+  size: 239, 69
+  orig: 239, 69
+  offset: 0, 0
+  index: -1
+xiaoc5
+  rotate: true
+  xy: 1889, 654
+  size: 180, 68
+  orig: 180, 68
+  offset: 0, 0
+  index: -1
+xiaoc6
+  rotate: false
+  xy: 1787, 523
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1

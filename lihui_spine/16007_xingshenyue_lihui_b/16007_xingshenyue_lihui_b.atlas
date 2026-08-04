@@ -1,0 +1,34 @@
+
+16007_xingshenyue_lihui_b.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitou1
+  rotate: false
+  xy: 903, 414
+  size: 27, 82
+  orig: 27, 82
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: true
+  xy: 903, 383
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: false
+  xy: 932, 468
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: true
+  xy: 2, 2
+  size: 494, 899
+  orig: 494, 899
+  offset: 0, 0
+  index: -1

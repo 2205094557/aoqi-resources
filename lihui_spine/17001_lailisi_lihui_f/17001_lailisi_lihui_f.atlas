@@ -1,0 +1,27 @@
+
+17001_lailisi_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoc3
+  rotate: true
+  xy: 1063, 502
+  size: 1520, 953
+  orig: 1520, 953
+  offset: 0, 0
+  index: -1
+xiaoc4
+  rotate: false
+  xy: 2, 2
+  size: 813, 535
+  orig: 813, 535
+  offset: 0, 0
+  index: -1
+xiaoc7
+  rotate: false
+  xy: 2, 539
+  size: 1059, 1483
+  orig: 1059, 1483
+  offset: 0, 0
+  index: -1
