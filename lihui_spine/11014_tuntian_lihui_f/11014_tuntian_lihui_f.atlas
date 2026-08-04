@@ -1,0 +1,223 @@
+
+11014_tuntian_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huang1
+  rotate: false
+  xy: 931, 162
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+huang2
+  rotate: true
+  xy: 1089, 337
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+huang3
+  rotate: true
+  xy: 146, 37
+  size: 39, 95
+  orig: 39, 95
+  offset: 0, 0
+  index: -1
+huang4
+  rotate: true
+  xy: 1976, 933
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+huang5
+  rotate: false
+  xy: 2, 1222
+  size: 1590, 480
+  orig: 1590, 480
+  offset: 0, 0
+  index: -1
+huang6
+  rotate: true
+  xy: 2, 633
+  size: 68, 1590
+  orig: 68, 1590
+  offset: 0, 0
+  index: -1
+qiu1
+  rotate: false
+  xy: 1769, 869
+  size: 205, 206
+  orig: 205, 206
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: true
+  xy: 1594, 1346
+  size: 356, 352
+  orig: 356, 352
+  offset: 0, 0
+  index: -1
+qiu3
+  rotate: true
+  xy: 1288, 720
+  size: 500, 479
+  orig: 500, 479
+  offset: 0, 0
+  index: -1
+qiu4
+  rotate: false
+  xy: 523, 28
+  size: 406, 378
+  orig: 406, 378
+  offset: 0, 0
+  index: -1
+qiu5
+  rotate: true
+  xy: 1769, 1077
+  size: 267, 245
+  orig: 267, 245
+  offset: 0, 0
+  index: -1
+qiu6
+  rotate: true
+  xy: 1760, 1742
+  size: 303, 278
+  orig: 303, 278
+  offset: 0, 0
+  index: -1
+shitou1
+  rotate: true
+  xy: 2, 2
+  size: 74, 142
+  orig: 74, 142
+  offset: 0, 0
+  index: -1
+shitou10
+  rotate: false
+  xy: 1594, 1266
+  size: 131, 78
+  orig: 131, 78
+  offset: 0, 0
+  index: -1
+shitou11
+  rotate: false
+  xy: 146, 3
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+shitou12
+  rotate: true
+  xy: 1976, 972
+  size: 103, 30
+  orig: 103, 30
+  offset: 0, 0
+  index: -1
+shitou13
+  rotate: false
+  xy: 1760, 1707
+  size: 113, 33
+  orig: 113, 33
+  offset: 0, 0
+  index: -1
+shitou14
+  rotate: false
+  xy: 2, 1704
+  size: 1756, 341
+  orig: 1756, 341
+  offset: 0, 0
+  index: -1
+shitou15
+  rotate: false
+  xy: 2, 703
+  size: 1284, 517
+  orig: 1284, 517
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: false
+  xy: 1769, 737
+  size: 63, 130
+  orig: 63, 130
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: false
+  xy: 243, 47
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+shitou4
+  rotate: true
+  xy: 1594, 1234
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+shitou5
+  rotate: false
+  xy: 1875, 1718
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+shitou6
+  rotate: false
+  xy: 1834, 821
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+shitou7
+  rotate: true
+  xy: 1727, 1294
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+shitou8
+  rotate: false
+  xy: 931, 207
+  size: 108, 45
+  orig: 108, 45
+  offset: 0, 0
+  index: -1
+shitou9
+  rotate: false
+  xy: 1041, 230
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 931, 254
+  size: 156, 152
+  orig: 156, 152
+  offset: 0, 0
+  index: -1
+texiao5
+  rotate: false
+  xy: 2, 78
+  size: 519, 328
+  orig: 519, 328
+  offset: 0, 0
+  index: -1
+texiao6
+  rotate: false
+  xy: 1129, 203
+  size: 738, 428
+  orig: 738, 428
+  offset: 0, 0
+  index: -1
+texiao7
+  rotate: false
+  xy: 2, 408
+  size: 1125, 223
+  orig: 1125, 223
+  offset: 0, 0
+  index: -1
