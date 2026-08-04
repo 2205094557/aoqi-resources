@@ -1,0 +1,41 @@
+
+10328_xinxiya01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 700, 674
+  size: 337, 185
+  orig: 337, 185
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 299
+  size: 696, 560
+  orig: 696, 560
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 108
+  size: 486, 189
+  orig: 486, 189
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 2
+  size: 215, 104
+  orig: 215, 104
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 861
+  size: 2002, 1010
+  orig: 2002, 1010
+  offset: 0, 0
+  index: -1
