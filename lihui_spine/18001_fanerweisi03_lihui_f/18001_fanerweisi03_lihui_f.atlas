@@ -1,0 +1,251 @@
+
+18001_fanerweisi03_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e0
+  rotate: true
+  xy: 1861, 584
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 267, 10
+  size: 111, 60
+  orig: 111, 60
+  offset: 0, 0
+  index: -1
+e10
+  rotate: false
+  xy: 387, 886
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+e11
+  rotate: false
+  xy: 2, 907
+  size: 655, 1132
+  orig: 655, 1132
+  offset: 0, 0
+  index: -1
+e12
+  rotate: false
+  xy: 659, 1646
+  size: 1198, 393
+  orig: 1198, 393
+  offset: 0, 0
+  index: -1
+e13
+  rotate: false
+  xy: 659, 1116
+  size: 971, 528
+  orig: 971, 528
+  offset: 0, 0
+  index: -1
+e14
+  rotate: true
+  xy: 2, 72
+  size: 833, 383
+  orig: 833, 383
+  offset: 0, 0
+  index: -1
+e15
+  rotate: false
+  xy: 659, 859
+  size: 1050, 255
+  orig: 1050, 255
+  offset: 0, 0
+  index: -1
+e16
+  rotate: false
+  xy: 1143, 525
+  size: 522, 332
+  orig: 522, 332
+  offset: 0, 0
+  index: -1
+e17
+  rotate: false
+  xy: 1143, 275
+  size: 453, 248
+  orig: 453, 248
+  offset: 0, 0
+  index: -1
+e18
+  rotate: true
+  xy: 1894, 923
+  size: 257, 152
+  orig: 257, 152
+  offset: 0, 0
+  index: -1
+e19
+  rotate: false
+  xy: 824, 249
+  size: 317, 608
+  orig: 317, 608
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 827, 94
+  size: 215, 153
+  orig: 215, 153
+  offset: 0, 0
+  index: -1
+e20
+  rotate: true
+  xy: 387, 10
+  size: 162, 438
+  orig: 162, 438
+  offset: 0, 0
+  index: -1
+e21
+  rotate: false
+  xy: 1861, 1182
+  size: 143, 465
+  orig: 143, 465
+  offset: 0, 0
+  index: -1
+e22
+  rotate: false
+  xy: 1859, 1649
+  size: 182, 390
+  orig: 182, 390
+  offset: 0, 0
+  index: -1
+e23
+  rotate: false
+  xy: 1939, 679
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+e24
+  rotate: false
+  xy: 1861, 643
+  size: 76, 121
+  orig: 76, 121
+  offset: 0, 0
+  index: -1
+e25
+  rotate: false
+  xy: 1598, 106
+  size: 145, 417
+  orig: 145, 417
+  offset: 0, 0
+  index: -1
+e26
+  rotate: true
+  xy: 827, 2
+  size: 90, 201
+  orig: 90, 201
+  offset: 0, 0
+  index: -1
+e27
+  rotate: false
+  xy: 387, 174
+  size: 435, 683
+  orig: 435, 683
+  offset: 0, 0
+  index: -1
+e28
+  rotate: false
+  xy: 1632, 1173
+  size: 227, 471
+  orig: 227, 471
+  offset: 0, 0
+  index: -1
+e29
+  rotate: true
+  xy: 1143, 71
+  size: 202, 445
+  orig: 202, 445
+  offset: 0, 0
+  index: -1
+e3
+  rotate: false
+  xy: 1745, 94
+  size: 153, 118
+  orig: 153, 118
+  offset: 0, 0
+  index: -1
+e30
+  rotate: false
+  xy: 1894, 766
+  size: 121, 155
+  orig: 121, 155
+  offset: 0, 0
+  index: -1
+e31
+  rotate: true
+  xy: 1667, 557
+  size: 242, 192
+  orig: 242, 192
+  offset: 0, 0
+  index: -1
+e32
+  rotate: false
+  xy: 150, 7
+  size: 115, 63
+  orig: 115, 63
+  offset: 0, 0
+  index: -1
+e33
+  rotate: true
+  xy: 1745, 214
+  size: 341, 141
+  orig: 341, 141
+  offset: 0, 0
+  index: -1
+e36
+  rotate: true
+  xy: 1711, 801
+  size: 370, 181
+  orig: 370, 181
+  offset: 0, 0
+  index: -1
+e4
+  rotate: true
+  xy: 1044, 89
+  size: 158, 82
+  orig: 158, 82
+  offset: 0, 0
+  index: -1
+e5
+  rotate: false
+  xy: 1632, 1120
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+e6
+  rotate: false
+  xy: 2, 4
+  size: 146, 66
+  orig: 146, 66
+  offset: 0, 0
+  index: -1
+e7
+  rotate: false
+  xy: 1667, 836
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+e8
+  rotate: false
+  xy: 2006, 1619
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+e9
+  rotate: true
+  xy: 1861, 766
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1

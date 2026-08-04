@@ -1,0 +1,104 @@
+
+17008_zhuzaimiya01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+miya_0
+  rotate: false
+  xy: 2, 358
+  size: 2017, 1687
+  orig: 2017, 1687
+  offset: 0, 0
+  index: -1
+miya_1
+  rotate: false
+  xy: 1190, 212
+  size: 283, 144
+  orig: 283, 144
+  offset: 0, 0
+  index: -1
+miya_10
+  rotate: true
+  xy: 1063, 91
+  size: 103, 119
+  orig: 103, 119
+  offset: 0, 0
+  index: -1
+miya_11
+  rotate: false
+  xy: 1475, 215
+  size: 211, 141
+  orig: 211, 141
+  offset: 0, 0
+  index: -1
+miya_12
+  rotate: false
+  xy: 2, 2
+  size: 86, 52
+  orig: 86, 52
+  offset: 0, 0
+  index: -1
+miya_13
+  rotate: true
+  xy: 168, 9
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+miya_2
+  rotate: false
+  xy: 620, 90
+  size: 296, 266
+  orig: 296, 266
+  offset: 0, 0
+  index: -1
+miya_3
+  rotate: false
+  xy: 2, 56
+  size: 319, 300
+  orig: 319, 300
+  offset: 0, 0
+  index: -1
+miya_4
+  rotate: false
+  xy: 323, 70
+  size: 295, 286
+  orig: 295, 286
+  offset: 0, 0
+  index: -1
+miya_5
+  rotate: false
+  xy: 90, 5
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+miya_6
+  rotate: false
+  xy: 1688, 218
+  size: 167, 138
+  orig: 167, 138
+  offset: 0, 0
+  index: -1
+miya_7
+  rotate: false
+  xy: 918, 79
+  size: 143, 115
+  orig: 143, 115
+  offset: 0, 0
+  index: -1
+miya_8
+  rotate: false
+  xy: 918, 196
+  size: 270, 160
+  orig: 270, 160
+  offset: 0, 0
+  index: -1
+miya_9
+  rotate: true
+  xy: 1857, 235
+  size: 121, 157
+  orig: 121, 157
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+13013_kunlun01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kunlun0
+  rotate: false
+  xy: 593, 1077
+  size: 757, 950
+  orig: 757, 950
+  offset: 0, 0
+  index: -1
+kunlun149
+  rotate: true
+  xy: 1185, 902
+  size: 173, 44
+  orig: 173, 44
+  offset: 0, 0
+  index: -1
+kunlun150
+  rotate: false
+  xy: 1689, 1930
+  size: 254, 97
+  orig: 254, 97
+  offset: 0, 0
+  index: -1
+kunlun151
+  rotate: false
+  xy: 998, 230
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+kunlun152
+  rotate: false
+  xy: 1064, 379
+  size: 41, 185
+  orig: 41, 185
+  offset: 0, 0
+  index: -1
+kunlun153
+  rotate: true
+  xy: 593, 299
+  size: 776, 469
+  orig: 776, 469
+  offset: 0, 0
+  index: -1
+kunlun159
+  rotate: false
+  xy: 1352, 1291
+  size: 101, 380
+  orig: 101, 380
+  offset: 0, 0
+  index: -1
+kunlun160
+  rotate: false
+  xy: 1352, 1673
+  size: 335, 354
+  orig: 335, 354
+  offset: 0, 0
+  index: -1
+kunlun161
+  rotate: false
+  xy: 1064, 566
+  size: 119, 509
+  orig: 119, 509
+  offset: 0, 0
+  index: -1
+kunlun162
+  rotate: false
+  xy: 593, 179
+  size: 403, 118
+  orig: 403, 118
+  offset: 0, 0
+  index: -1
+kunlun163
+  rotate: false
+  xy: 2, 2
+  size: 589, 2025
+  orig: 589, 2025
+  offset: 0, 0
+  index: -1
+kunlun167
+  rotate: false
+  xy: 593, 141
+  size: 121, 36
+  orig: 121, 36
+  offset: 0, 0
+  index: -1
+kunlun169
+  rotate: false
+  xy: 1352, 1270
+  size: 78, 19
+  orig: 78, 19
+  offset: 0, 0
+  index: -1
+kunlun170
+  rotate: false
+  xy: 1455, 1598
+  size: 24, 73
+  orig: 24, 73
+  offset: 0, 0
+  index: -1

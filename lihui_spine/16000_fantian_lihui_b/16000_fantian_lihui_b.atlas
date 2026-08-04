@@ -1,0 +1,83 @@
+
+16000_fantian_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing1
+  rotate: false
+  xy: 1109, 948
+  size: 772, 1049
+  orig: 772, 1049
+  offset: 0, 0
+  index: -1
+fazhou5
+  rotate: true
+  xy: 610, 110
+  size: 599, 250
+  orig: 599, 250
+  offset: 0, 0
+  index: -1
+fazhou6
+  rotate: true
+  xy: 862, 146
+  size: 563, 238
+  orig: 563, 238
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 103
+  size: 606, 606
+  orig: 606, 606
+  offset: 0, 0
+  index: -1
+mingyunzhiyan1
+  rotate: false
+  xy: 1102, 127
+  size: 365, 329
+  orig: 365, 329
+  offset: 0, 0
+  index: -1
+mingyunzhiyan2
+  rotate: false
+  xy: 2, 711
+  size: 1105, 1286
+  orig: 1105, 1286
+  offset: 0, 0
+  index: -1
+texiao10
+  rotate: false
+  xy: 1102, 458
+  size: 516, 215
+  orig: 516, 215
+  offset: 0, 0
+  index: -1
+texiao11
+  rotate: true
+  xy: 2, 2
+  size: 99, 174
+  orig: 99, 174
+  offset: 0, 0
+  index: -1
+texiao12
+  rotate: false
+  xy: 1883, 1728
+  size: 150, 269
+  orig: 150, 269
+  offset: 0, 0
+  index: -1
+texiao8
+  rotate: true
+  xy: 1620, 623
+  size: 323, 296
+  orig: 323, 296
+  offset: 0, 0
+  index: -1
+texiao9
+  rotate: false
+  xy: 1109, 675
+  size: 509, 271
+  orig: 509, 271
+  offset: 0, 0
+  index: -1

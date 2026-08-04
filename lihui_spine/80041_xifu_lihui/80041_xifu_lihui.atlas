@@ -1,0 +1,55 @@
+
+80041_xifu_lihui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 2, 180
+  size: 89, 98
+  orig: 89, 98
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 221, 312
+  size: 103, 44
+  orig: 103, 44
+  offset: 0, 0
+  index: -1
+fengkuang
+  rotate: false
+  xy: 2, 280
+  size: 126, 76
+  orig: 126, 76
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 130, 277
+  size: 79, 89
+  orig: 79, 89
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: false
+  xy: 2, 91
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 2, 2
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+xifu
+  rotate: false
+  xy: 2, 358
+  size: 2034, 1656
+  orig: 2034, 1656
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+80044_beisha_lihui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 1237, 2042
+  orig: 1237, 2042
+  offset: 0, 0
+  index: -1
+beishang
+  rotate: false
+  xy: 1333, 1919
+  size: 108, 125
+  orig: 108, 125
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1443, 1920
+  size: 109, 124
+  orig: 109, 124
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: false
+  xy: 1241, 1900
+  size: 90, 144
+  orig: 90, 144
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 1554, 1928
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+16000_fantian01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc123
+  rotate: false
+  xy: 1648, 1808
+  size: 136, 229
+  orig: 136, 229
+  offset: 0, 0
+  index: -1
+xc124
+  rotate: true
+  xy: 2, 26
+  size: 71, 228
+  orig: 71, 228
+  offset: 0, 0
+  index: -1
+xc125
+  rotate: false
+  xy: 453, 509
+  size: 177, 50
+  orig: 177, 50
+  offset: 0, 0
+  index: -1
+xc126
+  rotate: true
+  xy: 2, 2
+  size: 22, 70
+  orig: 22, 70
+  offset: 0, 0
+  index: -1
+xc127
+  rotate: false
+  xy: 1786, 1980
+  size: 92, 57
+  orig: 92, 57
+  offset: 0, 0
+  index: -1
+xc128
+  rotate: false
+  xy: 2, 99
+  size: 449, 460
+  orig: 449, 460
+  offset: 0, 0
+  index: -1
+xc129
+  rotate: true
+  xy: 232, 78
+  size: 19, 72
+  orig: 19, 72
+  offset: 0, 0
+  index: -1
+xc130
+  rotate: false
+  xy: 2, 561
+  size: 1644, 1476
+  orig: 1644, 1476
+  offset: 0, 0
+  index: -1
+xc24
+  rotate: false
+  xy: 1648, 1634
+  size: 40, 172
+  orig: 40, 172
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+16000_fantian_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuzhou3
+  rotate: true
+  xy: 1424, 2
+  size: 903, 240
+  orig: 903, 240
+  offset: 0, 0
+  index: -1
+fuzhou4
+  rotate: false
+  xy: 2, 40
+  size: 784, 153
+  orig: 784, 153
+  offset: 0, 0
+  index: -1
+shizhu
+  rotate: true
+  xy: 2, 195
+  size: 710, 1420
+  orig: 710, 1420
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 2, 907
+  size: 1982, 1124
+  orig: 1982, 1124
+  offset: 0, 0
+  index: -1
+texiao5
+  rotate: false
+  xy: 1666, 601
+  size: 74, 304
+  orig: 74, 304
+  offset: 0, 0
+  index: -1

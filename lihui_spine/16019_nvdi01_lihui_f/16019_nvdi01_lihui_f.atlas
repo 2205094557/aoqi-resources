@@ -1,0 +1,146 @@
+
+16019_nvdi01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0
+  rotate: true
+  xy: 567, 483
+  size: 464, 1071
+  orig: 464, 1071
+  offset: 0, 0
+  index: -1
+a1
+  rotate: true
+  xy: 1234, 59
+  size: 172, 377
+  orig: 172, 377
+  offset: 0, 0
+  index: -1
+a10
+  rotate: true
+  xy: 1589, 300
+  size: 123, 355
+  orig: 123, 355
+  offset: 0, 0
+  index: -1
+a12
+  rotate: false
+  xy: 1919, 615
+  size: 95, 427
+  orig: 95, 427
+  offset: 0, 0
+  index: -1
+a13
+  rotate: false
+  xy: 1233, 1044
+  size: 717, 998
+  orig: 717, 998
+  offset: 0, 0
+  index: -1
+a14
+  rotate: true
+  xy: 2, 2
+  size: 63, 103
+  orig: 63, 103
+  offset: 0, 0
+  index: -1
+a15
+  rotate: true
+  xy: 1613, 160
+  size: 138, 290
+  orig: 138, 290
+  offset: 0, 0
+  index: -1
+a16
+  rotate: false
+  xy: 1613, 132
+  size: 121, 26
+  orig: 121, 26
+  offset: 0, 0
+  index: -1
+a17
+  rotate: false
+  xy: 567, 38
+  size: 665, 443
+  orig: 665, 443
+  offset: 0, 0
+  index: -1
+a18
+  rotate: true
+  xy: 2, 67
+  size: 367, 538
+  orig: 367, 538
+  offset: 0, 0
+  index: -1
+a19
+  rotate: false
+  xy: 1797, 576
+  size: 120, 466
+  orig: 120, 466
+  offset: 0, 0
+  index: -1
+a20
+  rotate: false
+  xy: 1952, 1377
+  size: 37, 120
+  orig: 37, 120
+  offset: 0, 0
+  index: -1
+a21
+  rotate: false
+  xy: 2, 436
+  size: 563, 1606
+  orig: 563, 1606
+  offset: 0, 0
+  index: -1
+a22
+  rotate: false
+  xy: 1234, 233
+  size: 353, 248
+  orig: 353, 248
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 567, 949
+  size: 664, 1093
+  orig: 664, 1093
+  offset: 0, 0
+  index: -1
+a5
+  rotate: true
+  xy: 1640, 425
+  size: 124, 325
+  orig: 124, 325
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 1233, 962
+  size: 297, 80
+  orig: 297, 80
+  offset: 0, 0
+  index: -1
+a7
+  rotate: true
+  xy: 1952, 1499
+  size: 264, 72
+  orig: 264, 72
+  offset: 0, 0
+  index: -1
+a8
+  rotate: true
+  xy: 1640, 551
+  size: 491, 155
+  orig: 491, 155
+  offset: 0, 0
+  index: -1
+a9
+  rotate: true
+  xy: 1952, 1765
+  size: 277, 92
+  orig: 277, 92
+  offset: 0, 0
+  index: -1

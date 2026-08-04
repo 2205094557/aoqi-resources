@@ -1,0 +1,181 @@
+
+18001_fanerweisi_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc0
+  rotate: true
+  xy: 150, 24
+  size: 68, 274
+  orig: 68, 274
+  offset: 0, 0
+  index: -1
+xc1
+  rotate: false
+  xy: 2, 413
+  size: 346, 609
+  orig: 346, 609
+  offset: 0, 0
+  index: -1
+xc10
+  rotate: false
+  xy: 671, 2
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+xc11
+  rotate: false
+  xy: 903, 68
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+xc12
+  rotate: true
+  xy: 983, 741
+  size: 98, 29
+  orig: 98, 29
+  offset: 0, 0
+  index: -1
+xc13
+  rotate: true
+  xy: 882, 325
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+xc14
+  rotate: false
+  xy: 642, 164
+  size: 182, 41
+  orig: 182, 41
+  offset: 0, 0
+  index: -1
+xc15
+  rotate: true
+  xy: 983, 691
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+xc16
+  rotate: false
+  xy: 825, 60
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+xc17
+  rotate: true
+  xy: 983, 841
+  size: 123, 29
+  orig: 123, 29
+  offset: 0, 0
+  index: -1
+xc18
+  rotate: true
+  xy: 826, 95
+  size: 110, 132
+  orig: 110, 132
+  offset: 0, 0
+  index: -1
+xc19
+  rotate: true
+  xy: 671, 59
+  size: 103, 152
+  orig: 103, 152
+  offset: 0, 0
+  index: -1
+xc2
+  rotate: true
+  xy: 350, 761
+  size: 261, 631
+  orig: 261, 631
+  offset: 0, 0
+  index: -1
+xc20
+  rotate: false
+  xy: 642, 207
+  size: 318, 95
+  orig: 318, 95
+  offset: 0, 0
+  index: -1
+xc21
+  rotate: false
+  xy: 150, 304
+  size: 730, 97
+  orig: 730, 97
+  offset: 0, 0
+  index: -1
+xc22
+  rotate: false
+  xy: 150, 94
+  size: 518, 63
+  orig: 518, 63
+  offset: 0, 0
+  index: -1
+xc23
+  rotate: true
+  xy: 2, 3
+  size: 408, 146
+  orig: 408, 146
+  offset: 0, 0
+  index: -1
+xc24
+  rotate: false
+  xy: 150, 159
+  size: 490, 143
+  orig: 490, 143
+  offset: 0, 0
+  index: -1
+xc3
+  rotate: false
+  xy: 928, 544
+  size: 53, 215
+  orig: 53, 215
+  offset: 0, 0
+  index: -1
+xc4
+  rotate: true
+  xy: 350, 403
+  size: 163, 574
+  orig: 163, 574
+  offset: 0, 0
+  index: -1
+xc5
+  rotate: false
+  xy: 350, 568
+  size: 576, 191
+  orig: 576, 191
+  offset: 0, 0
+  index: -1
+xc6
+  rotate: true
+  xy: 426, 36
+  size: 56, 243
+  orig: 56, 243
+  offset: 0, 0
+  index: -1
+xc7
+  rotate: false
+  xy: 882, 306
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+xc8
+  rotate: false
+  xy: 983, 966
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+xc9
+  rotate: true
+  xy: 150, 403
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
