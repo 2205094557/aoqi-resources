@@ -1,0 +1,118 @@
+
+13009_shenyaoaruisi_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lxc2
+  rotate: true
+  xy: 1882, 259
+  size: 181, 161
+  orig: 181, 161
+  offset: 0, 0
+  index: -1
+lxc7
+  rotate: false
+  xy: 1770, 706
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+lxc9
+  rotate: false
+  xy: 1882, 193
+  size: 159, 64
+  orig: 159, 64
+  offset: 0, 0
+  index: -1
+syars0
+  rotate: true
+  xy: 1882, 442
+  size: 262, 159
+  orig: 262, 159
+  offset: 0, 0
+  index: -1
+syars1
+  rotate: true
+  xy: 1882, 123
+  size: 68, 151
+  orig: 68, 151
+  offset: 0, 0
+  index: -1
+syars138
+  rotate: false
+  xy: 1923, 989
+  size: 54, 191
+  orig: 54, 191
+  offset: 0, 0
+  index: -1
+syars141
+  rotate: true
+  xy: 494, 2
+  size: 80, 283
+  orig: 80, 283
+  offset: 0, 0
+  index: -1
+syars143
+  rotate: true
+  xy: 1770, 834
+  size: 346, 151
+  orig: 346, 151
+  offset: 0, 0
+  index: -1
+syars151
+  rotate: true
+  xy: 1529, 73
+  size: 625, 351
+  orig: 625, 351
+  offset: 0, 0
+  index: -1
+syars152
+  rotate: false
+  xy: 2, 4
+  size: 490, 78
+  orig: 490, 78
+  offset: 0, 0
+  index: -1
+syars17
+  rotate: false
+  xy: 2, 700
+  size: 1766, 1321
+  orig: 1766, 1321
+  offset: 0, 0
+  index: -1
+syars2
+  rotate: true
+  xy: 1770, 1182
+  size: 839, 229
+  orig: 839, 229
+  offset: 0, 0
+  index: -1
+syars3
+  rotate: false
+  xy: 943, 7
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+syars4
+  rotate: false
+  xy: 779, 14
+  size: 162, 68
+  orig: 162, 68
+  offset: 0, 0
+  index: -1
+syars5
+  rotate: false
+  xy: 1094, 131
+  size: 433, 567
+  orig: 433, 567
+  offset: 0, 0
+  index: -1
+syars6
+  rotate: false
+  xy: 2, 84
+  size: 1090, 614
+  orig: 1090, 614
+  offset: 0, 0
+  index: -1

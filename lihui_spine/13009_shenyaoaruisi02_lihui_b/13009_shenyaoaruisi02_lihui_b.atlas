@@ -1,0 +1,41 @@
+
+13009_shenyaoaruisi02_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_05
+  rotate: false
+  xy: 2, 473
+  size: 1905, 1556
+  orig: 1905, 1556
+  offset: 0, 0
+  index: -1
+hd01
+  rotate: false
+  xy: 1198, 207
+  size: 271, 264
+  orig: 271, 264
+  offset: 0, 0
+  index: -1
+x0
+  rotate: false
+  xy: 1909, 1968
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+x02
+  rotate: false
+  xy: 1198, 149
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+yan_06
+  rotate: false
+  xy: 2, 2
+  size: 1194, 469
+  orig: 1194, 469
+  offset: 0, 0
+  index: -1

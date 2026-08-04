@@ -1,0 +1,111 @@
+
+11012_teshamu_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian1
+  rotate: false
+  xy: 590, 535
+  size: 327, 1202
+  orig: 327, 1202
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: true
+  xy: 919, 1146
+  size: 591, 274
+  orig: 591, 274
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: true
+  xy: 393, 53
+  size: 180, 97
+  orig: 180, 97
+  offset: 0, 0
+  index: -1
+wuqi3
+  rotate: true
+  xy: 495, 713
+  size: 169, 87
+  orig: 169, 87
+  offset: 0, 0
+  index: -1
+wuqi4
+  rotate: true
+  xy: 495, 531
+  size: 180, 84
+  orig: 180, 84
+  offset: 0, 0
+  index: -1
+wuqi5
+  rotate: false
+  xy: 2, 1112
+  size: 586, 625
+  orig: 586, 625
+  offset: 0, 0
+  index: -1
+wuqi6
+  rotate: true
+  xy: 1654, 122
+  size: 998, 324
+  orig: 998, 324
+  offset: 0, 0
+  index: -1
+wuqi7
+  rotate: true
+  xy: 581, 2
+  size: 531, 1014
+  orig: 531, 1014
+  offset: 0, 0
+  index: -1
+xindian1
+  rotate: false
+  xy: 919, 640
+  size: 733, 480
+  orig: 733, 480
+  offset: 0, 0
+  index: -1
+xindian2
+  rotate: false
+  xy: 1325, 1122
+  size: 677, 906
+  orig: 677, 906
+  offset: 0, 0
+  index: -1
+yunwu1
+  rotate: false
+  xy: 2, 1739
+  size: 1321, 289
+  orig: 1321, 289
+  offset: 0, 0
+  index: -1
+yunwu2
+  rotate: true
+  xy: 495, 884
+  size: 226, 89
+  orig: 226, 89
+  offset: 0, 0
+  index: -1
+yunwu3
+  rotate: true
+  xy: 393, 235
+  size: 875, 100
+  orig: 875, 100
+  offset: 0, 0
+  index: -1
+yunwu4
+  rotate: true
+  xy: 212, 34
+  size: 1076, 179
+  orig: 1076, 179
+  offset: 0, 0
+  index: -1
+yunwu5
+  rotate: true
+  xy: 2, 34
+  size: 1076, 208
+  orig: 1076, 208
+  offset: 0, 0
+  index: -1
