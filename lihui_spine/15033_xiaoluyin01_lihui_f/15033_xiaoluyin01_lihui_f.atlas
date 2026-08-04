@@ -1,0 +1,146 @@
+
+15033_xiaoluyin01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ds
+  rotate: false
+  xy: 2, 529
+  size: 618, 574
+  orig: 618, 574
+  offset: 0, 0
+  index: -1
+ggxc21_1
+  rotate: true
+  xy: 1744, 1148
+  size: 208, 163
+  orig: 208, 163
+  offset: 0, 0
+  index: -1
+xc0
+  rotate: false
+  xy: 2, 1105
+  size: 1740, 937
+  orig: 1740, 937
+  offset: 0, 0
+  index: -1
+xc10
+  rotate: true
+  xy: 303, 96
+  size: 20, 157
+  orig: 20, 157
+  offset: 0, 0
+  index: -1
+xc11
+  rotate: false
+  xy: 2, 118
+  size: 693, 409
+  orig: 693, 409
+  offset: 0, 0
+  index: -1
+xc12
+  rotate: false
+  xy: 1744, 1358
+  size: 189, 684
+  orig: 189, 684
+  offset: 0, 0
+  index: -1
+xc13
+  rotate: false
+  xy: 697, 162
+  size: 149, 372
+  orig: 149, 372
+  offset: 0, 0
+  index: -1
+xc14
+  rotate: true
+  xy: 622, 536
+  size: 154, 488
+  orig: 154, 488
+  offset: 0, 0
+  index: -1
+xc18
+  rotate: true
+  xy: 848, 175
+  size: 161, 140
+  orig: 161, 140
+  offset: 0, 0
+  index: -1
+xc19
+  rotate: false
+  xy: 1112, 563
+  size: 267, 127
+  orig: 267, 127
+  offset: 0, 0
+  index: -1
+xc20
+  rotate: true
+  xy: 1397, 744
+  size: 359, 255
+  orig: 359, 255
+  offset: 0, 0
+  index: -1
+xc21
+  rotate: false
+  xy: 848, 338
+  size: 155, 196
+  orig: 155, 196
+  offset: 0, 0
+  index: -1
+xc22
+  rotate: true
+  xy: 622, 692
+  size: 411, 773
+  orig: 411, 773
+  offset: 0, 0
+  index: -1
+xc3
+  rotate: true
+  xy: 2, 2
+  size: 114, 299
+  orig: 114, 299
+  offset: 0, 0
+  index: -1
+xc4
+  rotate: false
+  xy: 1744, 1131
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+xc5
+  rotate: false
+  xy: 697, 143
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+xc6
+  rotate: false
+  xy: 1935, 1843
+  size: 62, 199
+  orig: 62, 199
+  offset: 0, 0
+  index: -1
+xc7
+  rotate: false
+  xy: 1397, 713
+  size: 169, 29
+  orig: 169, 29
+  offset: 0, 0
+  index: -1
+xc8
+  rotate: false
+  xy: 1112, 540
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+xc9
+  rotate: true
+  xy: 1654, 986
+  size: 117, 76
+  orig: 117, 76
+  offset: 0, 0
+  index: -1

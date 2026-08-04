@@ -1,0 +1,111 @@
+
+15033_xiaoluyin02_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0
+  rotate: false
+  xy: 1848, 1458
+  size: 63, 576
+  orig: 63, 576
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 2, 46
+  size: 606, 608
+  orig: 606, 608
+  offset: 0, 0
+  index: -1
+a11
+  rotate: true
+  xy: 1041, 627
+  size: 174, 180
+  orig: 174, 180
+  offset: 0, 0
+  index: -1
+a12
+  rotate: false
+  xy: 1408, 999
+  size: 210, 215
+  orig: 210, 215
+  offset: 0, 0
+  index: -1
+a13
+  rotate: false
+  xy: 1389, 643
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: -1
+a14
+  rotate: true
+  xy: 1408, 793
+  size: 204, 216
+  orig: 204, 216
+  offset: 0, 0
+  index: -1
+a15
+  rotate: false
+  xy: 1223, 631
+  size: 164, 170
+  orig: 164, 170
+  offset: 0, 0
+  index: -1
+a18
+  rotate: false
+  xy: 1041, 1216
+  size: 721, 818
+  orig: 721, 818
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 2, 2
+  size: 42, 318
+  orig: 42, 318
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 1041, 803
+  size: 365, 411
+  orig: 365, 411
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 1764, 735
+  size: 82, 1299
+  orig: 82, 1299
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 610, 248
+  size: 391, 406
+  orig: 391, 406
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 2, 656
+  size: 1037, 1378
+  orig: 1037, 1378
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 1913, 1883
+  size: 98, 151
+  orig: 98, 151
+  offset: 0, 0
+  index: -1
+a8
+  rotate: false
+  xy: 610, 76
+  size: 282, 170
+  orig: 282, 170
+  offset: 0, 0
+  index: -1

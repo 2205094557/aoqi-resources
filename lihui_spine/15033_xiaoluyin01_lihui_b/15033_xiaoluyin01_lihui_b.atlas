@@ -1,0 +1,27 @@
+
+15033_xiaoluyin01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc1
+  rotate: false
+  xy: 1504, 1948
+  size: 122, 91
+  orig: 122, 91
+  offset: 0, 0
+  index: -1
+xc2
+  rotate: false
+  xy: 2, 2
+  size: 227, 137
+  orig: 227, 137
+  offset: 0, 0
+  index: -1
+xc94
+  rotate: false
+  xy: 2, 141
+  size: 1500, 1898
+  orig: 1500, 1898
+  offset: 0, 0
+  index: -1
