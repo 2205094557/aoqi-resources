@@ -1,0 +1,380 @@
+{
+ "version": 1,
+ "cats": [
+  "haibao_spine",
+  "lihui_spine",
+  "view_spine"
+ ],
+ "combos": [
+  {
+   "key": "1046_haibao_jiu",
+   "cat": "haibao_spine",
+   "cn": "一叶舟轻",
+   "py": "haibao_jiu",
+   "layers": [
+    {
+     "name": "1046_haibao_jiu_b",
+     "cat": "haibao_spine",
+     "skel": "1046_haibao_jiu_b.skel",
+     "atlas": "1046_haibao_jiu_b.atlas",
+     "png": "1046_haibao_jiu_b.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "1046_haibao_jiu_b.skel",
+       66276
+      ],
+      [
+       "1046_haibao_jiu_b.atlas",
+       2477
+      ],
+      [
+       "1046_haibao_jiu_b.png",
+       2386445
+      ]
+     ]
+    },
+    {
+     "name": "1046_haibao_jiu",
+     "cat": "haibao_spine",
+     "skel": "1046_haibao_jiu.skel",
+     "atlas": "1046_haibao_jiu.atlas",
+     "png": "1046_haibao_jiu.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "1046_haibao_jiu.skel",
+       417030
+      ],
+      [
+       "1046_haibao_jiu.atlas",
+       20349
+      ],
+      [
+       "1046_haibao_jiu.png",
+       2791243
+      ]
+     ]
+    },
+    {
+     "name": "1046_haibao_jiu_f",
+     "cat": "haibao_spine",
+     "skel": "1046_haibao_jiu_f.skel",
+     "atlas": "1046_haibao_jiu_f.atlas",
+     "png": "1046_haibao_jiu_f.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "1046_haibao_jiu_f.skel",
+       113791
+      ],
+      [
+       "1046_haibao_jiu_f.atlas",
+       8990
+      ],
+      [
+       "1046_haibao_jiu_f.png",
+       2538315
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "key": "17026_yuanqiyunjieshenglong01_lihui",
+   "cat": "lihui_spine",
+   "cn": "万刃殁锋·殒劫圣龙",
+   "py": "yuanqiyunjieshenglong",
+   "layers": [
+    {
+     "name": "17026_yuanqiyunjieshenglong01_lihui_b",
+     "cat": "lihui_spine",
+     "skel": "17026_yuanqiyunjieshenglong01_lihui_b.skel",
+     "atlas": "17026_yuanqiyunjieshenglong01_lihui_b.atlas",
+     "png": "17026_yuanqiyunjieshenglong01_lihui_b.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "17026_yuanqiyunjieshenglong01_lihui_b.skel",
+       21108
+      ],
+      [
+       "17026_yuanqiyunjieshenglong01_lihui_b.atlas",
+       4358
+      ],
+      [
+       "17026_yuanqiyunjieshenglong01_lihui_b.png",
+       1958944
+      ]
+     ]
+    },
+    {
+     "name": "17026_yuanqiyunjieshenglong01_lihui",
+     "cat": "lihui_spine",
+     "skel": "17026_yuanqiyunjieshenglong01_lihui.skel",
+     "atlas": "17026_yuanqiyunjieshenglong01_lihui.atlas",
+     "png": "17026_yuanqiyunjieshenglong01_lihui.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "17026_yuanqiyunjieshenglong01_lihui.skel",
+       263715
+      ],
+      [
+       "17026_yuanqiyunjieshenglong01_lihui.atlas",
+       14283
+      ],
+      [
+       "17026_yuanqiyunjieshenglong01_lihui.png",
+       2385302
+      ]
+     ]
+    },
+    {
+     "name": "17026_yuanqiyunjieshenglong01_lihui_f",
+     "cat": "lihui_spine",
+     "skel": "17026_yuanqiyunjieshenglong01_lihui_f.skel",
+     "atlas": "17026_yuanqiyunjieshenglong01_lihui_f.atlas",
+     "png": "17026_yuanqiyunjieshenglong01_lihui_f.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "17026_yuanqiyunjieshenglong01_lihui_f.skel",
+       6295
+      ],
+      [
+       "17026_yuanqiyunjieshenglong01_lihui_f.atlas",
+       2167
+      ],
+      [
+       "17026_yuanqiyunjieshenglong01_lihui_f.png",
+       470954
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "key": "17026_yuanqiyunjieshenglong_lihui",
+   "cat": "lihui_spine",
+   "cn": "万刃殁锋·殒劫圣龙",
+   "py": "yuanqiyunjieshenglong",
+   "layers": [
+    {
+     "name": "17026_yuanqiyunjieshenglong_lihui_b",
+     "cat": "lihui_spine",
+     "skel": "17026_yuanqiyunjieshenglong_lihui_b.skel",
+     "atlas": "17026_yuanqiyunjieshenglong_lihui_b.atlas",
+     "png": "17026_yuanqiyunjieshenglong_lihui_b.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "17026_yuanqiyunjieshenglong_lihui_b.skel",
+       19829
+      ],
+      [
+       "17026_yuanqiyunjieshenglong_lihui_b.atlas",
+       4824
+      ],
+      [
+       "17026_yuanqiyunjieshenglong_lihui_b.png",
+       2326209
+      ]
+     ]
+    },
+    {
+     "name": "17026_yuanqiyunjieshenglong_lihui",
+     "cat": "lihui_spine",
+     "skel": "17026_yuanqiyunjieshenglong_lihui.skel",
+     "atlas": "17026_yuanqiyunjieshenglong_lihui.atlas",
+     "png": "17026_yuanqiyunjieshenglong_lihui.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "17026_yuanqiyunjieshenglong_lihui.skel",
+       70205
+      ],
+      [
+       "17026_yuanqiyunjieshenglong_lihui.atlas",
+       9350
+      ],
+      [
+       "17026_yuanqiyunjieshenglong_lihui.png",
+       2287448
+      ]
+     ]
+    },
+    {
+     "name": "17026_yuanqiyunjieshenglong_lihui_f",
+     "cat": "lihui_spine",
+     "skel": "17026_yuanqiyunjieshenglong_lihui_f.skel",
+     "atlas": "17026_yuanqiyunjieshenglong_lihui_f.atlas",
+     "png": "17026_yuanqiyunjieshenglong_lihui_f.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "17026_yuanqiyunjieshenglong_lihui_f.skel",
+       36603
+      ],
+      [
+       "17026_yuanqiyunjieshenglong_lihui_f.atlas",
+       6770
+      ],
+      [
+       "17026_yuanqiyunjieshenglong_lihui_f.png",
+       1953816
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "key": "16046_yuanqichen03_lihui",
+   "cat": "lihui_spine",
+   "cn": "万恶灵冕·尘",
+   "py": "yuanqichen",
+   "layers": [
+    {
+     "name": "16046_yuanqichen03_lihui_b",
+     "cat": "lihui_spine",
+     "skel": "16046_yuanqichen03_lihui_b.skel",
+     "atlas": "16046_yuanqichen03_lihui_b.atlas",
+     "png": "16046_yuanqichen03_lihui_b.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "16046_yuanqichen03_lihui_b.skel",
+       41883
+      ],
+      [
+       "16046_yuanqichen03_lihui_b.atlas",
+       2700
+      ],
+      [
+       "16046_yuanqichen03_lihui_b.png",
+       2418711
+      ]
+     ]
+    },
+    {
+     "name": "16046_yuanqichen03_lihui",
+     "cat": "lihui_spine",
+     "skel": "16046_yuanqichen03_lihui.skel",
+     "atlas": "16046_yuanqichen03_lihui.atlas",
+     "png": "16046_yuanqichen03_lihui.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "16046_yuanqichen03_lihui.skel",
+       279612
+      ],
+      [
+       "16046_yuanqichen03_lihui.atlas",
+       13179
+      ],
+      [
+       "16046_yuanqichen03_lihui.png",
+       2479094
+      ]
+     ]
+    },
+    {
+     "name": "16046_yuanqichen03_lihui_f",
+     "cat": "lihui_spine",
+     "skel": "16046_yuanqichen03_lihui_f.skel",
+     "atlas": "16046_yuanqichen03_lihui_f.atlas",
+     "png": "16046_yuanqichen03_lihui_f.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "16046_yuanqichen03_lihui_f.skel",
+       437758
+      ],
+      [
+       "16046_yuanqichen03_lihui_f.atlas",
+       7434
+      ],
+      [
+       "16046_yuanqichen03_lihui_f.png",
+       2292888
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "key": "16046_yuanqichen_lihui",
+   "cat": "lihui_spine",
+   "cn": "万恶灵冕·尘",
+   "py": "yuanqichen",
+   "layers": [
+    {
+     "name": "16046_yuanqichen_lihui_b",
+     "cat": "lihui_spine",
+     "skel": "16046_yuanqichen_lihui_b.skel",
+     "atlas": "16046_yuanqichen_lihui_b.atlas",
+     "png": "16046_yuanqichen_lihui_b.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "16046_yuanqichen_lihui_b.skel",
+       218574
+      ],
+      [
+       "16046_yuanqichen_lihui_b.atlas",
+       16459
+      ],
+      [
+       "16046_yuanqichen_lihui_b.png",
+       2441503
+      ]
+     ]
+    },
+    {
+     "name": "16046_yuanqichen_lihui",
+     "cat": "lihui_spine",
+     "skel": "16046_yuanqichen_lihui.skel",
+     "atlas": "16046_yuanqichen_lihui.atlas",
+     "png": "16046_yuanqichen_lihui.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "16046_yuanqichen_lihui.skel",
+       321886
+      ],
+      [
+       "16046_yuanqichen_lihui.atlas",
+       17558
+      ],
+      [
+       "16046_yuanqichen_lihui.png",
+       2855146
+      ]
+     ]
+    },
+    {
+     "name": "16046_yuanqichen_lihui_f",
+     "cat": "lihui_spine",
+     "skel": "16046_yuanqichen_lihui_f.skel",
+     "atlas": "16046_yuanqichen_lihui_f.atlas",
+     "png": "16046_yuanqichen_lihui_f.png",
+     "skel_type": "binary",
+     "files": [
+      [
+       "16046_yuanqichen_lihui_f.skel",
+       78355
+      ],
+      [
+       "16046_yuanqichen_lihui_f.atlas",
+       21106
+      ],
+      [
+       "16046_yuanqichen_lihui_f.png",
+       2852398
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
