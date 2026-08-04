@@ -1,0 +1,69 @@
+
+17002_longzunshengzhu01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc0
+  rotate: true
+  xy: 1349, 9
+  size: 218, 230
+  orig: 218, 230
+  offset: 0, 0
+  index: -1
+xc1
+  rotate: false
+  xy: 881, 494
+  size: 695, 386
+  orig: 695, 386
+  offset: 0, 0
+  index: -1
+xc2
+  rotate: false
+  xy: 881, 8
+  size: 466, 219
+  orig: 466, 219
+  offset: 0, 0
+  index: -1
+xc3
+  rotate: false
+  xy: 1578, 303
+  size: 353, 543
+  orig: 353, 543
+  offset: 0, 0
+  index: -1
+xc4
+  rotate: true
+  xy: 1746, 848
+  size: 437, 294
+  orig: 437, 294
+  offset: 0, 0
+  index: -1
+xc5
+  rotate: false
+  xy: 2, 2
+  size: 877, 1283
+  orig: 877, 1283
+  offset: 0, 0
+  index: -1
+xc6
+  rotate: false
+  xy: 2, 1287
+  size: 1946, 743
+  orig: 1946, 743
+  offset: 0, 0
+  index: -1
+xc7
+  rotate: false
+  xy: 881, 882
+  size: 863, 403
+  orig: 863, 403
+  offset: 0, 0
+  index: -1
+xc8
+  rotate: false
+  xy: 881, 229
+  size: 694, 263
+  orig: 694, 263
+  offset: 0, 0
+  index: -1
