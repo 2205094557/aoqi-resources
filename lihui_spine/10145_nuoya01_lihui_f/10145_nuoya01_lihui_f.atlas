@@ -1,0 +1,69 @@
+
+10145_nuoya01_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao13
+  rotate: false
+  xy: 355, 538
+  size: 331, 317
+  orig: 331, 317
+  offset: 0, 0
+  index: -1
+texiao14
+  rotate: true
+  xy: 688, 537
+  size: 318, 324
+  orig: 318, 324
+  offset: 0, 0
+  index: -1
+texiao1a
+  rotate: false
+  xy: 34, 871
+  size: 427, 116
+  orig: 427, 116
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: true
+  xy: 2, 609
+  size: 260, 351
+  orig: 260, 351
+  offset: 0, 0
+  index: -1
+texiao3a
+  rotate: false
+  xy: 463, 857
+  size: 444, 130
+  orig: 444, 130
+  offset: 0, 0
+  index: -1
+texiao4
+  rotate: false
+  xy: 2, 155
+  size: 617, 381
+  orig: 617, 381
+  offset: 0, 0
+  index: -1
+texiao5
+  rotate: true
+  xy: 621, 2
+  size: 533, 381
+  orig: 533, 381
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: false
+  xy: 19, 980
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+yan4
+  rotate: false
+  xy: 2, 981
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
