@@ -1,0 +1,83 @@
+
+14014_shenyaoshengguangfeilong02_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ah0
+  rotate: true
+  xy: 982, 371
+  size: 402, 223
+  orig: 402, 223
+  offset: 0, 0
+  index: -1
+ah1
+  rotate: false
+  xy: 2, 70
+  size: 437, 262
+  orig: 437, 262
+  offset: 0, 0
+  index: -1
+ah12
+  rotate: false
+  xy: 771, 210
+  size: 126, 122
+  orig: 126, 122
+  offset: 0, 0
+  index: -1
+ah2
+  rotate: false
+  xy: 1216, 823
+  size: 456, 196
+  orig: 456, 196
+  offset: 0, 0
+  index: -1
+ah3
+  rotate: true
+  xy: 1216, 1021
+  size: 1025, 806
+  orig: 1025, 806
+  offset: 0, 0
+  index: -1
+ah4
+  rotate: false
+  xy: 2, 775
+  size: 1212, 1271
+  orig: 1212, 1271
+  offset: 0, 0
+  index: -1
+ah5
+  rotate: false
+  xy: 441, 5
+  size: 328, 327
+  orig: 328, 327
+  offset: 0, 0
+  index: -1
+ah6
+  rotate: true
+  xy: 2, 334
+  size: 439, 978
+  orig: 439, 978
+  offset: 0, 0
+  index: -1
+ah7
+  rotate: false
+  xy: 1816, 916
+  size: 116, 103
+  orig: 116, 103
+  offset: 0, 0
+  index: -1
+ah8
+  rotate: false
+  xy: 982, 2
+  size: 362, 367
+  orig: 362, 367
+  offset: 0, 0
+  index: -1
+ah9
+  rotate: false
+  xy: 1674, 895
+  size: 140, 124
+  orig: 140, 124
+  offset: 0, 0
+  index: -1
