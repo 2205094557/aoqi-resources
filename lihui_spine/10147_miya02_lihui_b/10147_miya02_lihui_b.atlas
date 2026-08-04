@@ -1,0 +1,188 @@
+
+10147_miya02_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 312
+  size: 789, 820
+  orig: 789, 820
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 793, 382
+  size: 484, 249
+  orig: 484, 249
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 2, 1134
+  size: 816, 912
+  orig: 816, 912
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 1493, 829
+  size: 486, 463
+  orig: 486, 463
+  offset: 0, 0
+  index: -1
+huafang
+  rotate: false
+  xy: 820, 633
+  size: 671, 650
+  orig: 671, 650
+  offset: 0, 0
+  index: -1
+hudie
+  rotate: false
+  xy: 1805, 598
+  size: 213, 117
+  orig: 213, 117
+  offset: 0, 0
+  index: -1
+tengluo1
+  rotate: true
+  xy: 1809, 717
+  size: 110, 237
+  orig: 110, 237
+  offset: 0, 0
+  index: -1
+tengluo10
+  rotate: false
+  xy: 1414, 373
+  size: 77, 258
+  orig: 77, 258
+  offset: 0, 0
+  index: -1
+tengluo11
+  rotate: false
+  xy: 1046, 114
+  size: 119, 266
+  orig: 119, 266
+  offset: 0, 0
+  index: -1
+tengluo12
+  rotate: true
+  xy: 1493, 300
+  size: 95, 278
+  orig: 95, 278
+  offset: 0, 0
+  index: -1
+tengluo13
+  rotate: false
+  xy: 1167, 118
+  size: 105, 262
+  orig: 105, 262
+  offset: 0, 0
+  index: -1
+tengluo14
+  rotate: true
+  xy: 1474, 131
+  size: 75, 261
+  orig: 75, 261
+  offset: 0, 0
+  index: -1
+tengluo15
+  rotate: true
+  xy: 1474, 208
+  size: 90, 277
+  orig: 90, 277
+  offset: 0, 0
+  index: -1
+tengluo16
+  rotate: true
+  xy: 1493, 397
+  size: 103, 301
+  orig: 103, 301
+  offset: 0, 0
+  index: -1
+tengluo17
+  rotate: true
+  xy: 1493, 717
+  size: 110, 314
+  orig: 110, 314
+  offset: 0, 0
+  index: -1
+tengluo2
+  rotate: true
+  xy: 1493, 609
+  size: 106, 310
+  orig: 106, 310
+  offset: 0, 0
+  index: -1
+tengluo3
+  rotate: false
+  xy: 841, 82
+  size: 103, 298
+  orig: 103, 298
+  offset: 0, 0
+  index: -1
+tengluo4
+  rotate: true
+  xy: 1493, 502
+  size: 105, 307
+  orig: 105, 307
+  offset: 0, 0
+  index: -1
+tengluo5
+  rotate: false
+  xy: 946, 92
+  size: 98, 288
+  orig: 98, 288
+  offset: 0, 0
+  index: -1
+tengluo6
+  rotate: false
+  xy: 741, 2
+  size: 98, 308
+  orig: 98, 308
+  offset: 0, 0
+  index: -1
+tengluo7
+  rotate: false
+  xy: 1274, 114
+  size: 98, 247
+  orig: 98, 247
+  offset: 0, 0
+  index: -1
+tengluo8
+  rotate: false
+  xy: 1374, 87
+  size: 98, 274
+  orig: 98, 274
+  offset: 0, 0
+  index: -1
+tengluo9
+  rotate: false
+  xy: 1279, 363
+  size: 133, 268
+  orig: 133, 268
+  offset: 0, 0
+  index: -1
+zhuozi1
+  rotate: false
+  xy: 820, 1285
+  size: 624, 761
+  orig: 624, 761
+  offset: 0, 0
+  index: -1
+zhuozi2
+  rotate: true
+  xy: 1446, 1294
+  size: 752, 572
+  orig: 752, 572
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: true
+  xy: 2, 20
+  size: 290, 737
+  orig: 290, 737
+  offset: 0, 0
+  index: -1
