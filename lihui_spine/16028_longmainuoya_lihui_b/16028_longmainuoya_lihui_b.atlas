@@ -1,0 +1,62 @@
+
+16028_longmainuoya_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lmny229
+  rotate: false
+  xy: 1875, 1978
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+lmny230
+  rotate: false
+  xy: 2, 16
+  size: 978, 390
+  orig: 978, 390
+  offset: 0, 0
+  index: -1
+lmny236
+  rotate: true
+  xy: 1817, 1815
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+lmny246
+  rotate: false
+  xy: 1817, 1875
+  size: 56, 148
+  orig: 56, 148
+  offset: 0, 0
+  index: -1
+lmny247
+  rotate: false
+  xy: 2, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+lmny252
+  rotate: true
+  xy: 982, 12
+  size: 394, 616
+  orig: 394, 616
+  offset: 0, 0
+  index: -1
+lmny253
+  rotate: false
+  xy: 2, 408
+  size: 1813, 1615
+  orig: 1813, 1615
+  offset: 0, 0
+  index: -1
+lmny41
+  rotate: false
+  xy: 1600, 272
+  size: 36, 134
+  orig: 36, 134
+  offset: 0, 0
+  index: -1
