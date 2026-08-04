@@ -1,0 +1,62 @@
+
+12024_shenyaoweileita02_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wltdy1
+  rotate: false
+  xy: 1852, 1204
+  size: 177, 807
+  orig: 177, 807
+  offset: 0, 0
+  index: -1
+wltdy11
+  rotate: false
+  xy: 1852, 979
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+wltdy12
+  rotate: false
+  xy: 1336, 353
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+wltdy173
+  rotate: true
+  xy: 780, 54
+  size: 340, 554
+  orig: 340, 554
+  offset: 0, 0
+  index: -1
+wltdy186
+  rotate: false
+  xy: 2, 2
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+wltdy187
+  rotate: false
+  xy: 1852, 1011
+  size: 114, 191
+  orig: 114, 191
+  offset: 0, 0
+  index: -1
+wltdy2
+  rotate: true
+  xy: 2, 158
+  size: 236, 776
+  orig: 236, 776
+  offset: 0, 0
+  index: -1
+wltdy205
+  rotate: false
+  xy: 2, 396
+  size: 1848, 1615
+  orig: 1848, 1615
+  offset: 0, 0
+  index: -1
