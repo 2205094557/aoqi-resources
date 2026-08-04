@@ -1,0 +1,55 @@
+
+15008_dakenuosi_lihui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 1701, 871
+  size: 553, 69
+  orig: 553, 69
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 1019
+  size: 1545, 1019
+  orig: 1545, 1019
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 317
+  size: 700, 1557
+  orig: 700, 1557
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 3
+  size: 1126, 312
+  orig: 1126, 312
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1549, 1426
+  size: 612, 482
+  orig: 612, 482
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1130, 2
+  size: 313, 517
+  orig: 313, 517
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1561, 788
+  size: 636, 138
+  orig: 636, 138
+  offset: 0, 0
+  index: -1

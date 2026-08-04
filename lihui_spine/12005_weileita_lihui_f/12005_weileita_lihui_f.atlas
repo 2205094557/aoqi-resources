@@ -1,0 +1,83 @@
+
+12005_weileita_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 2, 20
+  size: 93, 342
+  orig: 93, 342
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 442, 171
+  size: 246, 96
+  orig: 246, 96
+  offset: 0, 0
+  index: -1
+mao
+  rotate: true
+  xy: 2, 2
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 2, 115
+  size: 438, 901
+  orig: 438, 901
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: true
+  xy: 442, 421
+  size: 595, 543
+  orig: 595, 543
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: false
+  xy: 442, 269
+  size: 484, 150
+  orig: 484, 150
+  offset: 0, 0
+  index: -1
+wei
+  rotate: false
+  xy: 987, 924
+  size: 28, 92
+  orig: 28, 92
+  offset: 0, 0
+  index: -1
+ying1
+  rotate: false
+  xy: 442, 116
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+ying2
+  rotate: false
+  xy: 690, 209
+  size: 115, 58
+  orig: 115, 58
+  offset: 0, 0
+  index: -1
+zhua1
+  rotate: false
+  xy: 346, 44
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+zhua2
+  rotate: true
+  xy: 928, 337
+  size: 82, 43
+  orig: 82, 43
+  offset: 0, 0
+  index: -1

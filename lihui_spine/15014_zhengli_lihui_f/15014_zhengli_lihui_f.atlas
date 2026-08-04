@@ -1,0 +1,97 @@
+
+15014_zhengli_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengli_0
+  rotate: false
+  xy: 740, 155
+  size: 168, 423
+  orig: 168, 423
+  offset: 0, 0
+  index: -1
+zhengli_1
+  rotate: false
+  xy: 2, 2
+  size: 536, 2032
+  orig: 536, 2032
+  offset: 0, 0
+  index: -1
+zhengli_10
+  rotate: false
+  xy: 540, 46
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+zhengli_11
+  rotate: false
+  xy: 1785, 1465
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+zhengli_171
+  rotate: false
+  xy: 540, 580
+  size: 380, 1454
+  orig: 380, 1454
+  offset: 0, 0
+  index: -1
+zhengli_2
+  rotate: true
+  xy: 540, 109
+  size: 469, 198
+  orig: 469, 198
+  offset: 0, 0
+  index: -1
+zhengli_3
+  rotate: true
+  xy: 1602, 1077
+  size: 427, 181
+  orig: 427, 181
+  offset: 0, 0
+  index: -1
+zhengli_4
+  rotate: true
+  xy: 1602, 830
+  size: 245, 138
+  orig: 245, 138
+  offset: 0, 0
+  index: -1
+zhengli_5
+  rotate: true
+  xy: 1923, 1809
+  size: 225, 103
+  orig: 225, 103
+  offset: 0, 0
+  index: -1
+zhengli_6
+  rotate: false
+  xy: 922, 1506
+  size: 999, 528
+  orig: 999, 528
+  offset: 0, 0
+  index: -1
+zhengli_7
+  rotate: true
+  xy: 922, 301
+  size: 1203, 323
+  orig: 1203, 323
+  offset: 0, 0
+  index: -1
+zhengli_8
+  rotate: false
+  xy: 1247, 646
+  size: 353, 858
+  orig: 353, 858
+  offset: 0, 0
+  index: -1
+zhengli_9
+  rotate: false
+  xy: 1247, 389
+  size: 328, 255
+  orig: 328, 255
+  offset: 0, 0
+  index: -1
