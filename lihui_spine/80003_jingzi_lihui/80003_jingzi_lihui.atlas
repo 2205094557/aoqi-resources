@@ -1,0 +1,34 @@
+
+80003_jingzi_lihui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengyan
+  rotate: false
+  xy: 2, 313
+  size: 335, 709
+  orig: 335, 709
+  offset: 0, 0
+  index: -1
+heise
+  rotate: true
+  xy: 2, 2
+  size: 309, 707
+  orig: 309, 707
+  offset: 0, 0
+  index: -1
+putong
+  rotate: false
+  xy: 339, 351
+  size: 306, 671
+  orig: 306, 671
+  offset: 0, 0
+  index: -1
+shenying
+  rotate: false
+  xy: 647, 352
+  size: 305, 670
+  orig: 305, 670
+  offset: 0, 0
+  index: -1
