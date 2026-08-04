@@ -1,0 +1,41 @@
+
+80024_luludan_lihui.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 1132, 383
+  size: 568, 810
+  orig: 568, 810
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 1132, 150
+  size: 313, 231
+  orig: 313, 231
+  offset: 0, 0
+  index: -1
+ku
+  rotate: false
+  xy: 2, 2
+  size: 518, 240
+  orig: 518, 240
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 2, 244
+  size: 707, 1128
+  orig: 707, 1128
+  offset: 0, 0
+  index: -1
+xianquan
+  rotate: false
+  xy: 522, 78
+  size: 405, 164
+  orig: 405, 164
+  offset: 0, 0
+  index: -1
