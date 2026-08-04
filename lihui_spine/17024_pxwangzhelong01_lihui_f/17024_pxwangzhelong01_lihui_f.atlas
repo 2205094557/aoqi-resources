@@ -1,0 +1,167 @@
+
+17024_pxwangzhelong01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m0
+  rotate: false
+  xy: 1101, 918
+  size: 503, 499
+  orig: 503, 499
+  offset: 0, 0
+  index: -1
+m1
+  rotate: false
+  xy: 1888, 245
+  size: 133, 514
+  orig: 133, 514
+  offset: 0, 0
+  index: -1
+m10
+  rotate: true
+  xy: 1101, 1441
+  size: 129, 33
+  orig: 129, 33
+  offset: 0, 0
+  index: -1
+m11
+  rotate: false
+  xy: 2, 111
+  size: 701, 237
+  orig: 701, 237
+  offset: 0, 0
+  index: -1
+m12
+  rotate: false
+  xy: 1137, 362
+  size: 264, 190
+  orig: 264, 190
+  offset: 0, 0
+  index: -1
+m13
+  rotate: false
+  xy: 1407, 339
+  size: 188, 577
+  orig: 188, 577
+  offset: 0, 0
+  index: -1
+m14
+  rotate: false
+  xy: 390, 350
+  size: 745, 202
+  orig: 745, 202
+  offset: 0, 0
+  index: -1
+m15
+  rotate: false
+  xy: 2, 369
+  size: 386, 1201
+  orig: 386, 1201
+  offset: 0, 0
+  index: -1
+m16
+  rotate: false
+  xy: 390, 885
+  size: 709, 685
+  orig: 709, 685
+  offset: 0, 0
+  index: -1
+m17
+  rotate: true
+  xy: 1606, 761
+  size: 656, 306
+  orig: 656, 306
+  offset: 0, 0
+  index: -1
+m18
+  rotate: false
+  xy: 2, 1572
+  size: 1147, 471
+  orig: 1147, 471
+  offset: 0, 0
+  index: -1
+m19
+  rotate: true
+  xy: 390, 554
+  size: 329, 1015
+  orig: 329, 1015
+  offset: 0, 0
+  index: -1
+m2
+  rotate: true
+  xy: 1454, 116
+  size: 221, 113
+  orig: 221, 113
+  offset: 0, 0
+  index: -1
+m20
+  rotate: false
+  xy: 705, 63
+  size: 589, 285
+  orig: 589, 285
+  offset: 0, 0
+  index: -1
+m21
+  rotate: true
+  xy: 1151, 1671
+  size: 372, 739
+  orig: 372, 739
+  offset: 0, 0
+  index: -1
+m22
+  rotate: true
+  xy: 1151, 1419
+  size: 250, 715
+  orig: 250, 715
+  offset: 0, 0
+  index: -1
+m3
+  rotate: false
+  xy: 1760, 177
+  size: 123, 54
+  orig: 123, 54
+  offset: 0, 0
+  index: -1
+m4
+  rotate: true
+  xy: 1760, 233
+  size: 526, 126
+  orig: 526, 126
+  offset: 0, 0
+  index: -1
+m5
+  rotate: false
+  xy: 224, 77
+  size: 108, 32
+  orig: 108, 32
+  offset: 0, 0
+  index: -1
+m6
+  rotate: true
+  xy: 1597, 148
+  size: 611, 161
+  orig: 611, 161
+  offset: 0, 0
+  index: -1
+m7
+  rotate: false
+  xy: 1296, 32
+  size: 156, 305
+  orig: 156, 305
+  offset: 0, 0
+  index: -1
+m8
+  rotate: true
+  xy: 2, 2
+  size: 107, 220
+  orig: 107, 220
+  offset: 0, 0
+  index: -1
+m9
+  rotate: false
+  xy: 1892, 1565
+  size: 130, 478
+  orig: 130, 478
+  offset: 0, 0
+  index: -1

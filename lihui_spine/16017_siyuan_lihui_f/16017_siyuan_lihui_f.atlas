@@ -1,0 +1,160 @@
+
+16017_siyuan_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+siyuan_10
+  rotate: true
+  xy: 1855, 31
+  size: 221, 66
+  orig: 221, 66
+  offset: 0, 0
+  index: -1
+siyuan_11
+  rotate: true
+  xy: 645, 173
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+siyuan_12
+  rotate: true
+  xy: 806, 153
+  size: 116, 51
+  orig: 116, 51
+  offset: 0, 0
+  index: -1
+siyuan_13
+  rotate: false
+  xy: 806, 271
+  size: 253, 58
+  orig: 253, 58
+  offset: 0, 0
+  index: -1
+siyuan_14
+  rotate: true
+  xy: 2004, 843
+  size: 155, 36
+  orig: 155, 36
+  offset: 0, 0
+  index: -1
+siyuan_15
+  rotate: true
+  xy: 1923, 72
+  size: 180, 92
+  orig: 180, 92
+  offset: 0, 0
+  index: -1
+siyuan_16
+  rotate: true
+  xy: 1061, 155
+  size: 174, 49
+  orig: 174, 49
+  offset: 0, 0
+  index: -1
+siyuan_17
+  rotate: true
+  xy: 2004, 1187
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+siyuan_18
+  rotate: true
+  xy: 2, 178
+  size: 151, 179
+  orig: 151, 179
+  offset: 0, 0
+  index: -1
+siyuan_19
+  rotate: false
+  xy: 2004, 1000
+  size: 36, 185
+  orig: 36, 185
+  offset: 0, 0
+  index: -1
+siyuan_2
+  rotate: false
+  xy: 1855, 254
+  size: 175, 235
+  orig: 175, 235
+  offset: 0, 0
+  index: -1
+siyuan_20
+  rotate: true
+  xy: 1923, 4
+  size: 66, 107
+  orig: 66, 107
+  offset: 0, 0
+  index: -1
+siyuan_21
+  rotate: true
+  xy: 2004, 794
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+siyuan_22
+  rotate: true
+  xy: 475, 246
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: -1
+siyuan_23
+  rotate: false
+  xy: 2, 1752
+  size: 1547, 292
+  orig: 1547, 292
+  offset: 0, 0
+  index: -1
+siyuan_3
+  rotate: false
+  xy: 1302, 1270
+  size: 237, 480
+  orig: 237, 480
+  offset: 0, 0
+  index: -1
+siyuan_4
+  rotate: false
+  xy: 1302, 491
+  size: 700, 750
+  orig: 700, 750
+  offset: 0, 0
+  index: -1
+siyuan_5
+  rotate: false
+  xy: 2, 331
+  size: 1298, 1419
+  orig: 1298, 1419
+  offset: 0, 0
+  index: -1
+siyuan_6
+  rotate: false
+  xy: 183, 192
+  size: 290, 137
+  orig: 290, 137
+  offset: 0, 0
+  index: -1
+siyuan_7
+  rotate: true
+  xy: 1551, 1243
+  size: 801, 495
+  orig: 801, 495
+  offset: 0, 0
+  index: -1
+siyuan_8
+  rotate: false
+  xy: 1302, 211
+  size: 551, 278
+  orig: 551, 278
+  offset: 0, 0
+  index: -1
+siyuan_9
+  rotate: true
+  xy: 645, 250
+  size: 79, 159
+  orig: 79, 159
+  offset: 0, 0
+  index: -1
