@@ -1,0 +1,27 @@
+
+11020_shenyaowangzhezhixu02_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zxsn106
+  rotate: false
+  xy: 2, 328
+  size: 1035, 1512
+  orig: 1035, 1512
+  offset: 0, 0
+  index: -1
+zxsn107
+  rotate: true
+  xy: 1039, 512
+  size: 1328, 1003
+  orig: 1328, 1003
+  offset: 0, 0
+  index: -1
+zxsn3
+  rotate: false
+  xy: 2, 2
+  size: 91, 324
+  orig: 91, 324
+  offset: 0, 0
+  index: -1

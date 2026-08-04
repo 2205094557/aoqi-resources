@@ -1,0 +1,69 @@
+
+15039_shenyaoanwangchao02_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s0
+  rotate: true
+  xy: 806, 2
+  size: 671, 550
+  orig: 671, 550
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 1587, 1091
+  size: 223, 223
+  orig: 223, 223
+  offset: 0, 0
+  index: -1
+s10
+  rotate: false
+  xy: 1812, 1153
+  size: 161, 161
+  orig: 161, 161
+  offset: 0, 0
+  index: -1
+s11
+  rotate: false
+  xy: 1812, 990
+  size: 161, 161
+  orig: 161, 161
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 1587, 1316
+  size: 690, 422
+  orig: 690, 422
+  offset: 0, 0
+  index: -1
+s3
+  rotate: true
+  xy: 2, 19
+  size: 1201, 802
+  orig: 1201, 802
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 806, 675
+  size: 716, 545
+  orig: 716, 545
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 2, 1222
+  size: 1583, 784
+  orig: 1583, 784
+  offset: 0, 0
+  index: -1
+s6
+  rotate: true
+  xy: 1524, 275
+  size: 713, 475
+  orig: 713, 475
+  offset: 0, 0
+  index: -1
