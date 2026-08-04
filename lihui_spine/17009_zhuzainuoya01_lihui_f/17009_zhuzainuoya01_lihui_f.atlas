@@ -1,0 +1,160 @@
+
+17009_zhuzainuoya01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc0
+  rotate: false
+  xy: 678, 765
+  size: 439, 531
+  orig: 439, 531
+  offset: 0, 0
+  index: -1
+xc1
+  rotate: false
+  xy: 2, 621
+  size: 674, 675
+  orig: 674, 675
+  offset: 0, 0
+  index: -1
+xc10
+  rotate: false
+  xy: 1645, 763
+  size: 246, 294
+  orig: 246, 294
+  offset: 0, 0
+  index: -1
+xc11
+  rotate: false
+  xy: 1645, 502
+  size: 283, 259
+  orig: 283, 259
+  offset: 0, 0
+  index: -1
+xc111
+  rotate: true
+  xy: 1734, 1350
+  size: 668, 195
+  orig: 668, 195
+  offset: 0, 0
+  index: -1
+xc12
+  rotate: false
+  xy: 1003, 419
+  size: 279, 272
+  orig: 279, 272
+  offset: 0, 0
+  index: -1
+xc13
+  rotate: false
+  xy: 709, 491
+  size: 292, 272
+  orig: 292, 272
+  offset: 0, 0
+  index: -1
+xc14
+  rotate: false
+  xy: 1982, 916
+  size: 41, 1102
+  orig: 41, 1102
+  offset: 0, 0
+  index: -1
+xc15
+  rotate: true
+  xy: 983, 202
+  size: 39, 945
+  orig: 39, 945
+  offset: 0, 0
+  index: -1
+xc16
+  rotate: true
+  xy: 1931, 659
+  size: 1359, 49
+  orig: 1359, 49
+  offset: 0, 0
+  index: -1
+xc17
+  rotate: true
+  xy: 2, 2
+  size: 58, 1474
+  orig: 58, 1474
+  offset: 0, 0
+  index: -1
+xc18
+  rotate: true
+  xy: 2, 62
+  size: 38, 1561
+  orig: 38, 1561
+  offset: 0, 0
+  index: -1
+xc19
+  rotate: true
+  xy: 2, 102
+  size: 66, 1645
+  orig: 66, 1645
+  offset: 0, 0
+  index: -1
+xc2
+  rotate: false
+  xy: 1119, 1013
+  size: 494, 419
+  orig: 494, 419
+  offset: 0, 0
+  index: -1
+xc3
+  rotate: false
+  xy: 1085, 1434
+  size: 647, 584
+  orig: 647, 584
+  offset: 0, 0
+  index: -1
+xc4
+  rotate: false
+  xy: 2, 1298
+  size: 1081, 720
+  orig: 1081, 720
+  offset: 0, 0
+  index: -1
+xc5
+  rotate: false
+  xy: 1454, 637
+  size: 189, 374
+  orig: 189, 374
+  offset: 0, 0
+  index: -1
+xc6
+  rotate: true
+  xy: 983, 243
+  size: 174, 227
+  orig: 174, 227
+  offset: 0, 0
+  index: -1
+xc7
+  rotate: false
+  xy: 1615, 1059
+  size: 276, 289
+  orig: 276, 289
+  offset: 0, 0
+  index: -1
+xc8
+  rotate: true
+  xy: 1119, 693
+  size: 318, 333
+  orig: 318, 333
+  offset: 0, 0
+  index: -1
+xc9
+  rotate: false
+  xy: 709, 202
+  size: 272, 287
+  orig: 272, 287
+  offset: 0, 0
+  index: -1
+xcj01
+  rotate: true
+  xy: 2, 170
+  size: 449, 705
+  orig: 449, 705
+  offset: 0, 0
+  index: -1
