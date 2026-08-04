@@ -1,0 +1,62 @@
+
+1039_haibao_luoyingxinshi_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s227
+  rotate: true
+  xy: 1925, 1870
+  size: 128, 77
+  orig: 128, 77
+  offset: 0, 0
+  index: -1
+s228
+  rotate: false
+  xy: 2, 196
+  size: 1733, 719
+  orig: 1733, 719
+  offset: 0, 0
+  index: -1
+s229
+  rotate: false
+  xy: 416, 11
+  size: 386, 183
+  orig: 386, 183
+  offset: 0, 0
+  index: -1
+s230
+  rotate: false
+  xy: 2, 2
+  size: 412, 192
+  orig: 412, 192
+  offset: 0, 0
+  index: -1
+s231
+  rotate: true
+  xy: 1737, 383
+  size: 532, 270
+  orig: 532, 270
+  offset: 0, 0
+  index: -1
+s232
+  rotate: false
+  xy: 804, 21
+  size: 346, 173
+  orig: 346, 173
+  offset: 0, 0
+  index: -1
+s233
+  rotate: false
+  xy: 1737, 258
+  size: 137, 123
+  orig: 137, 123
+  offset: 0, 0
+  index: -1
+s234
+  rotate: false
+  xy: 2, 917
+  size: 1921, 1081
+  orig: 1921, 1081
+  offset: 0, 0
+  index: -1
