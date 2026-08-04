@@ -1,0 +1,48 @@
+
+48031_heichuang02_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_0
+  rotate: true
+  xy: 2, 2
+  size: 26, 229
+  orig: 26, 229
+  offset: 0, 0
+  index: -1
+h_5
+  rotate: true
+  xy: 1918, 1900
+  size: 146, 49
+  orig: 146, 49
+  offset: 0, 0
+  index: -1
+h_7
+  rotate: false
+  xy: 2, 1185
+  size: 1914, 861
+  orig: 1914, 861
+  offset: 0, 0
+  index: -1
+h_d1
+  rotate: false
+  xy: 2, 800
+  size: 1291, 383
+  orig: 1291, 383
+  offset: 0, 0
+  index: -1
+h_d2
+  rotate: false
+  xy: 2, 415
+  size: 1291, 383
+  orig: 1291, 383
+  offset: 0, 0
+  index: -1
+h_d3
+  rotate: false
+  xy: 2, 30
+  size: 1291, 383
+  orig: 1291, 383
+  offset: 0, 0
+  index: -1
