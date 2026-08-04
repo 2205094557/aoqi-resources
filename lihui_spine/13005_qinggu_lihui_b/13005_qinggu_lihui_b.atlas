@@ -1,0 +1,48 @@
+
+13005_qinggu_lihui_b.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc117
+  rotate: false
+  xy: 2, 549
+  size: 833, 445
+  orig: 833, 445
+  offset: 0, 0
+  index: -1
+xc118
+  rotate: false
+  xy: 239, 99
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+xc119
+  rotate: true
+  xy: 642, 107
+  size: 440, 247
+  orig: 440, 247
+  offset: 0, 0
+  index: -1
+xc120
+  rotate: true
+  xy: 2, 2
+  size: 169, 235
+  orig: 169, 235
+  offset: 0, 0
+  index: -1
+xc121
+  rotate: true
+  xy: 837, 582
+  size: 412, 181
+  orig: 412, 181
+  offset: 0, 0
+  index: -1
+xc122
+  rotate: true
+  xy: 2, 173
+  size: 374, 638
+  orig: 374, 638
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+13005_qinggu01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0
+  rotate: false
+  xy: 1127, 101
+  size: 315, 311
+  orig: 315, 311
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 1127, 414
+  size: 377, 117
+  orig: 377, 117
+  offset: 0, 0
+  index: -1
+a10
+  rotate: false
+  xy: 1127, 533
+  size: 484, 1482
+  orig: 484, 1482
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 2, 42
+  size: 306, 680
+  orig: 306, 680
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 1878, 830
+  size: 137, 199
+  orig: 137, 199
+  offset: 0, 0
+  index: -1
+a5
+  rotate: true
+  xy: 1613, 1031
+  size: 984, 429
+  orig: 984, 429
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 725, 394
+  size: 400, 1621
+  orig: 400, 1621
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 2, 350
+  size: 721, 1665
+  orig: 721, 1665
+  offset: 0, 0
+  index: -1
+a8
+  rotate: true
+  xy: 725, 212
+  size: 180, 339
+  orig: 180, 339
+  offset: 0, 0
+  index: -1
+a9
+  rotate: true
+  xy: 1613, 2
+  size: 1027, 263
+  orig: 1027, 263
+  offset: 0, 0
+  index: -1

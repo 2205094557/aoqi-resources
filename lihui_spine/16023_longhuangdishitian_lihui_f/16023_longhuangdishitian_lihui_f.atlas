@@ -1,0 +1,153 @@
+
+16023_longhuangdishitian_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0
+  rotate: false
+  xy: 943, 458
+  size: 312, 1205
+  orig: 312, 1205
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 1257, 587
+  size: 242, 1076
+  orig: 242, 1076
+  offset: 0, 0
+  index: -1
+a10
+  rotate: true
+  xy: 1795, 244
+  size: 253, 223
+  orig: 253, 223
+  offset: 0, 0
+  index: -1
+a11
+  rotate: false
+  xy: 878, 134
+  size: 82, 132
+  orig: 82, 132
+  offset: 0, 0
+  index: -1
+a12
+  rotate: false
+  xy: 462, 602
+  size: 479, 1061
+  orig: 479, 1061
+  offset: 0, 0
+  index: -1
+a13
+  rotate: false
+  xy: 2, 537
+  size: 458, 1509
+  orig: 458, 1509
+  offset: 0, 0
+  index: -1
+a14
+  rotate: false
+  xy: 1257, 473
+  size: 214, 112
+  orig: 214, 112
+  offset: 0, 0
+  index: -1
+a15
+  rotate: true
+  xy: 1557, 242
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+a16
+  rotate: true
+  xy: 1501, 473
+  size: 542, 147
+  orig: 542, 147
+  offset: 0, 0
+  index: -1
+a17
+  rotate: true
+  xy: 878, 268
+  size: 188, 439
+  orig: 188, 439
+  offset: 0, 0
+  index: -1
+a18
+  rotate: false
+  xy: 462, 1665
+  size: 1221, 381
+  orig: 1221, 381
+  offset: 0, 0
+  index: -1
+a19
+  rotate: false
+  xy: 586, 134
+  size: 290, 466
+  orig: 290, 466
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 1501, 1017
+  size: 149, 646
+  orig: 149, 646
+  offset: 0, 0
+  index: -1
+a28
+  rotate: true
+  xy: 2, 24
+  size: 511, 582
+  orig: 511, 582
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 1650, 361
+  size: 634, 143
+  orig: 634, 143
+  offset: 0, 0
+  index: -1
+a4
+  rotate: true
+  xy: 1319, 320
+  size: 151, 236
+  orig: 151, 236
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 586, 2
+  size: 398, 130
+  orig: 398, 130
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 986, 109
+  size: 383, 157
+  orig: 383, 157
+  offset: 0, 0
+  index: -1
+a7
+  rotate: true
+  xy: 1685, 1638
+  size: 408, 361
+  orig: 408, 361
+  offset: 0, 0
+  index: -1
+a8
+  rotate: true
+  xy: 1795, 499
+  size: 496, 165
+  orig: 496, 165
+  offset: 0, 0
+  index: -1
+a9
+  rotate: false
+  xy: 1652, 997
+  size: 320, 639
+  orig: 320, 639
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+13005_qinggu01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a11
+  rotate: false
+  xy: 753, 2
+  size: 106, 98
+  orig: 106, 98
+  offset: 0, 0
+  index: -1
+a12
+  rotate: false
+  xy: 965, 17
+  size: 102, 83
+  orig: 102, 83
+  offset: 0, 0
+  index: -1
+a13
+  rotate: true
+  xy: 861, 15
+  size: 85, 102
+  orig: 85, 102
+  offset: 0, 0
+  index: -1
+a138
+  rotate: true
+  xy: 766, 326
+  size: 152, 719
+  orig: 152, 719
+  offset: 0, 0
+  index: -1
+a139
+  rotate: true
+  xy: 1805, 1168
+  size: 816, 168
+  orig: 816, 168
+  offset: 0, 0
+  index: -1
+a140
+  rotate: false
+  xy: 1777, 308
+  size: 256, 278
+  orig: 256, 278
+  offset: 0, 0
+  index: -1
+a141
+  rotate: false
+  xy: 1777, 177
+  size: 216, 129
+  orig: 216, 129
+  offset: 0, 0
+  index: -1
+a142
+  rotate: false
+  xy: 2, 1096
+  size: 861, 888
+  orig: 861, 888
+  offset: 0, 0
+  index: -1
+a143
+  rotate: true
+  xy: 2, 10
+  size: 368, 749
+  orig: 368, 749
+  offset: 0, 0
+  index: -1
+a144
+  rotate: false
+  xy: 766, 480
+  size: 706, 529
+  orig: 706, 529
+  offset: 0, 0
+  index: -1
+a145
+  rotate: false
+  xy: 753, 102
+  size: 768, 222
+  orig: 768, 222
+  offset: 0, 0
+  index: -1
+a146
+  rotate: true
+  xy: 865, 1011
+  size: 465, 872
+  orig: 465, 872
+  offset: 0, 0
+  index: -1
+a147
+  rotate: true
+  xy: 865, 1478
+  size: 506, 938
+  orig: 506, 938
+  offset: 0, 0
+  index: -1
+a148
+  rotate: true
+  xy: 1474, 536
+  size: 473, 277
+  orig: 473, 277
+  offset: 0, 0
+  index: -1
+a149
+  rotate: true
+  xy: 1523, 126
+  size: 408, 252
+  orig: 408, 252
+  offset: 0, 0
+  index: -1
+a150
+  rotate: false
+  xy: 1753, 588
+  size: 211, 199
+  orig: 211, 199
+  offset: 0, 0
+  index: -1
+a151
+  rotate: true
+  xy: 1753, 789
+  size: 377, 272
+  orig: 377, 272
+  offset: 0, 0
+  index: -1
+a152
+  rotate: false
+  xy: 2, 380
+  size: 762, 714
+  orig: 762, 714
+  offset: 0, 0
+  index: -1
