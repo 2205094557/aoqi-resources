@@ -1,0 +1,104 @@
+
+10322_yilishabai03_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b0
+  rotate: false
+  xy: 1884, 1848
+  size: 40, 194
+  orig: 40, 194
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 962, 335
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+b10
+  rotate: true
+  xy: 2, 2
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+b11
+  rotate: false
+  xy: 2, 33
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+b12
+  rotate: true
+  xy: 2, 109
+  size: 273, 918
+  orig: 273, 918
+  offset: 0, 0
+  index: -1
+b13
+  rotate: false
+  xy: 2, 384
+  size: 1880, 1658
+  orig: 1880, 1658
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 922, 241
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 100, 87
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 1884, 1770
+  size: 31, 76
+  orig: 31, 76
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 1884, 1736
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+b6
+  rotate: false
+  xy: 1926, 1968
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+b7
+  rotate: false
+  xy: 922, 290
+  size: 38, 92
+  orig: 38, 92
+  offset: 0, 0
+  index: -1
+b8
+  rotate: false
+  xy: 1926, 2002
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+b9
+  rotate: false
+  xy: 1987, 2013
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
