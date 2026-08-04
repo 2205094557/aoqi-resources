@@ -1,0 +1,34 @@
+
+12029_shenyaomimengli02_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mmll163
+  rotate: false
+  xy: 1944, 2017
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+mmll164
+  rotate: true
+  xy: 2, 2
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+mmll165
+  rotate: false
+  xy: 2, 36
+  size: 110, 119
+  orig: 110, 119
+  offset: 0, 0
+  index: -1
+mmll167
+  rotate: false
+  xy: 2, 157
+  size: 1940, 1889
+  orig: 1940, 1889
+  offset: 0, 0
+  index: -1
