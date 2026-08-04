@@ -1,0 +1,48 @@
+
+1049_haibao_rexueshaohua_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z1
+  rotate: false
+  xy: 220, 371
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 2, 2
+  size: 59, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: -1
+z258
+  rotate: false
+  xy: 2, 662
+  size: 2043, 920
+  orig: 2043, 920
+  offset: 0, 0
+  index: -1
+z4
+  rotate: false
+  xy: 2, 77
+  size: 216, 310
+  orig: 216, 310
+  offset: 0, 0
+  index: -1
+z5
+  rotate: false
+  xy: 275, 414
+  size: 253, 246
+  orig: 253, 246
+  offset: 0, 0
+  index: -1
+z6
+  rotate: false
+  xy: 2, 389
+  size: 271, 271
+  orig: 271, 271
+  offset: 0, 0
+  index: -1

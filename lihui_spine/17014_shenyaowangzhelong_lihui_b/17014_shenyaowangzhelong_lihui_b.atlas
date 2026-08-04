@@ -1,0 +1,34 @@
+
+17014_shenyaowangzhelong_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_24
+  rotate: false
+  xy: 1444, 354
+  size: 357, 779
+  orig: 357, 779
+  offset: 0, 0
+  index: -1
+bg_28
+  rotate: false
+  xy: 1444, 1135
+  size: 490, 892
+  orig: 490, 892
+  offset: 0, 0
+  index: -1
+bg_29
+  rotate: false
+  xy: 2, 33
+  size: 1440, 1994
+  orig: 1440, 1994
+  offset: 0, 0
+  index: -1
+bg_30
+  rotate: true
+  xy: 2, 2
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1

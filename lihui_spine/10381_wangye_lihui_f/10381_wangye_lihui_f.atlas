@@ -1,0 +1,146 @@
+
+10381_wangye_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0texiao10
+  rotate: false
+  xy: 2, 220
+  size: 1117, 349
+  orig: 1117, 349
+  offset: 0, 0
+  index: -1
+0texiao12
+  rotate: true
+  xy: 1146, 1167
+  size: 411, 694
+  orig: 411, 694
+  offset: 0, 0
+  index: -1
+0texiao15
+  rotate: false
+  xy: 1842, 1193
+  size: 66, 461
+  orig: 66, 461
+  offset: 0, 0
+  index: -1
+0texiao21
+  rotate: true
+  xy: 1615, 263
+  size: 149, 330
+  orig: 149, 330
+  offset: 0, 0
+  index: -1
+0texiao4
+  rotate: true
+  xy: 972, 688
+  size: 259, 1028
+  orig: 259, 1028
+  offset: 0, 0
+  index: -1
+0texiao5
+  rotate: false
+  xy: 2, 1580
+  size: 1595, 428
+  orig: 1595, 428
+  offset: 0, 0
+  index: -1
+0texiao6
+  rotate: true
+  xy: 1146, 949
+  size: 216, 730
+  orig: 216, 730
+  offset: 0, 0
+  index: -1
+0texiao8
+  rotate: false
+  xy: 1080, 7
+  size: 418, 140
+  orig: 418, 140
+  offset: 0, 0
+  index: -1
+0texiao9
+  rotate: false
+  xy: 2, 2
+  size: 1076, 216
+  orig: 1076, 216
+  offset: 0, 0
+  index: -1
+shitou1
+  rotate: true
+  xy: 1878, 956
+  size: 235, 142
+  orig: 235, 142
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: false
+  xy: 1615, 119
+  size: 325, 142
+  orig: 325, 142
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: false
+  xy: 1599, 1656
+  size: 326, 352
+  orig: 326, 352
+  offset: 0, 0
+  index: -1
+shitou4
+  rotate: true
+  xy: 972, 603
+  size: 83, 129
+  orig: 83, 129
+  offset: 0, 0
+  index: -1
+shitou5
+  rotate: false
+  xy: 972, 1032
+  size: 116, 98
+  orig: 116, 98
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: true
+  xy: 1927, 1773
+  size: 235, 110
+  orig: 235, 110
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 2, 571
+  size: 968, 559
+  orig: 968, 559
+  offset: 0, 0
+  index: -1
+texiao11
+  rotate: true
+  xy: 1121, 414
+  size: 272, 865
+  orig: 272, 865
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: true
+  xy: 1910, 1396
+  size: 258, 84
+  orig: 258, 84
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: false
+  xy: 1121, 149
+  size: 492, 263
+  orig: 492, 263
+  offset: 0, 0
+  index: -1
+texiao7
+  rotate: false
+  xy: 2, 1132
+  size: 1142, 446
+  orig: 1142, 446
+  offset: 0, 0
+  index: -1

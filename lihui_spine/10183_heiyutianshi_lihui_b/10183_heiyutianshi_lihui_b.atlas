@@ -1,0 +1,20 @@
+
+10183_heiyutianshi_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changjing
+  rotate: false
+  xy: 2, 509
+  size: 1698, 1465
+  orig: 1698, 1465
+  offset: 0, 0
+  index: -1
+diaosu
+  rotate: true
+  xy: 2, 2
+  size: 505, 1020
+  orig: 505, 1020
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+16006_xingjiang_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitou1
+  rotate: true
+  xy: 438, 172
+  size: 276, 138
+  orig: 276, 138
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: false
+  xy: 634, 566
+  size: 206, 415
+  orig: 206, 415
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: false
+  xy: 842, 584
+  size: 171, 397
+  orig: 171, 397
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 2, 58
+  size: 240, 390
+  orig: 240, 390
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 578, 192
+  size: 228, 101
+  orig: 228, 101
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: true
+  xy: 892, 410
+  size: 172, 76
+  orig: 172, 76
+  offset: 0, 0
+  index: -1
+texiao4
+  rotate: false
+  xy: 244, 58
+  size: 228, 101
+  orig: 228, 101
+  offset: 0, 0
+  index: -1
+texiao6
+  rotate: false
+  xy: 2, 450
+  size: 630, 531
+  orig: 630, 531
+  offset: 0, 0
+  index: -1
+texiao7
+  rotate: false
+  xy: 634, 415
+  size: 256, 149
+  orig: 256, 149
+  offset: 0, 0
+  index: -1
+texiao8
+  rotate: false
+  xy: 244, 161
+  size: 192, 287
+  orig: 192, 287
+  offset: 0, 0
+  index: -1
+texiao9
+  rotate: false
+  xy: 474, 37
+  size: 155, 133
+  orig: 155, 133
+  offset: 0, 0
+  index: -1
+wu1
+  rotate: false
+  xy: 578, 295
+  size: 238, 118
+  orig: 238, 118
+  offset: 0, 0
+  index: -1
+wu2
+  rotate: true
+  xy: 2, 2
+  size: 31, 181
+  orig: 31, 181
+  offset: 0, 0
+  index: -1
+wu4
+  rotate: true
+  xy: 2, 35
+  size: 21, 244
+  orig: 21, 244
+  offset: 0, 0
+  index: -1

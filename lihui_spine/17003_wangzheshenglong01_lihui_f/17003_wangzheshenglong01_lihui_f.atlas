@@ -1,0 +1,97 @@
+
+17003_wangzheshenglong01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoc0
+  rotate: false
+  xy: 549, 28
+  size: 116, 182
+  orig: 116, 182
+  offset: 0, 0
+  index: -1
+xiaoc1
+  rotate: true
+  xy: 742, 231
+  size: 115, 182
+  orig: 115, 182
+  offset: 0, 0
+  index: -1
+xiaoc10
+  rotate: false
+  xy: 1887, 1751
+  size: 144, 278
+  orig: 144, 278
+  offset: 0, 0
+  index: -1
+xiaoc11
+  rotate: false
+  xy: 1458, 1589
+  size: 427, 440
+  orig: 427, 440
+  offset: 0, 0
+  index: -1
+xiaoc12
+  rotate: false
+  xy: 1458, 1287
+  size: 216, 181
+  orig: 216, 181
+  offset: 0, 0
+  index: -1
+xiaoc2
+  rotate: false
+  xy: 1148, 441
+  size: 86, 130
+  orig: 86, 130
+  offset: 0, 0
+  index: -1
+xiaoc3
+  rotate: false
+  xy: 1290, 1297
+  size: 166, 732
+  orig: 166, 732
+  offset: 0, 0
+  index: -1
+xiaoc4
+  rotate: false
+  xy: 2, 573
+  size: 1286, 1456
+  orig: 1286, 1456
+  offset: 0, 0
+  index: -1
+xiaoc5
+  rotate: true
+  xy: 1290, 955
+  size: 340, 156
+  orig: 340, 156
+  offset: 0, 0
+  index: -1
+xiaoc6
+  rotate: false
+  xy: 742, 348
+  size: 404, 223
+  orig: 404, 223
+  offset: 0, 0
+  index: -1
+xiaoc7
+  rotate: false
+  xy: 2, 212
+  size: 738, 359
+  orig: 738, 359
+  offset: 0, 0
+  index: -1
+xiaoc8
+  rotate: false
+  xy: 1458, 1470
+  size: 365, 117
+  orig: 365, 117
+  offset: 0, 0
+  index: -1
+xiaoc9
+  rotate: false
+  xy: 2, 10
+  size: 545, 200
+  orig: 545, 200
+  offset: 0, 0
+  index: -1

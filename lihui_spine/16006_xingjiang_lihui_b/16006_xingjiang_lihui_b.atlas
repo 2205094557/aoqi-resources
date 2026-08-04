@@ -1,0 +1,90 @@
+
+16006_xingjiang_lihui_b.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 2, 42
+  size: 970, 1114
+  orig: 970, 1114
+  offset: 0, 0
+  index: -1
+ma1
+  rotate: false
+  xy: 1476, 494
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+ma10a
+  rotate: false
+  xy: 1118, 317
+  size: 356, 695
+  orig: 356, 695
+  offset: 0, 0
+  index: -1
+ma11
+  rotate: false
+  xy: 1118, 74
+  size: 40, 105
+  orig: 40, 105
+  offset: 0, 0
+  index: -1
+ma2
+  rotate: false
+  xy: 1602, 735
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+ma3
+  rotate: false
+  xy: 2, 2
+  size: 147, 38
+  orig: 147, 38
+  offset: 0, 0
+  index: -1
+ma4
+  rotate: false
+  xy: 1851, 874
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+ma5
+  rotate: false
+  xy: 1851, 937
+  size: 186, 75
+  orig: 186, 75
+  offset: 0, 0
+  index: -1
+ma6
+  rotate: false
+  xy: 1424, 207
+  size: 24, 108
+  orig: 24, 108
+  offset: 0, 0
+  index: -1
+ma7a
+  rotate: false
+  xy: 1476, 567
+  size: 124, 209
+  orig: 124, 209
+  offset: 0, 0
+  index: -1
+ma8
+  rotate: false
+  xy: 1118, 181
+  size: 304, 134
+  orig: 304, 134
+  offset: 0, 0
+  index: -1
+ma9
+  rotate: false
+  xy: 1476, 778
+  size: 373, 234
+  orig: 373, 234
+  offset: 0, 0
+  index: -1

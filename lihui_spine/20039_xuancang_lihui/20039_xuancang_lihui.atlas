@@ -1,0 +1,48 @@
+
+20039_xuancang_lihui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 12
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 80
+  size: 90, 161
+  orig: 90, 161
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 541, 615
+  size: 405, 479
+  orig: 405, 479
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 541, 2
+  size: 312, 343
+  orig: 312, 343
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 541, 347
+  size: 442, 266
+  orig: 442, 266
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 243
+  size: 537, 777
+  orig: 537, 777
+  offset: 0, 0
+  index: -1

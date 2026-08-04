@@ -1,0 +1,181 @@
+
+10326_chiyanlonghuang01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 31
+  size: 926, 688
+  orig: 926, 688
+  offset: 0, 0
+  index: -1
+ffeu
+  rotate: true
+  xy: 1962, 1941
+  size: 98, 48
+  orig: 98, 48
+  offset: 0, 0
+  index: -1
+houjing
+  rotate: false
+  xy: 2, 721
+  size: 1395, 1318
+  orig: 1395, 1318
+  offset: 0, 0
+  index: -1
+lianzi9
+  rotate: false
+  xy: 1399, 1832
+  size: 444, 207
+  orig: 444, 207
+  offset: 0, 0
+  index: -1
+longzi3
+  rotate: false
+  xy: 930, 57
+  size: 939, 662
+  orig: 939, 662
+  offset: 0, 0
+  index: -1
+shitou1
+  rotate: true
+  xy: 1531, 1624
+  size: 51, 121
+  orig: 51, 121
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: false
+  xy: 1755, 1744
+  size: 63, 86
+  orig: 63, 86
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: false
+  xy: 1531, 1569
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+shitou4
+  rotate: true
+  xy: 1962, 1925
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+texiao8
+  rotate: false
+  xy: 1531, 1677
+  size: 222, 153
+  orig: 222, 153
+  offset: 0, 0
+  index: -1
+texiao9
+  rotate: false
+  xy: 1399, 1567
+  size: 130, 263
+  orig: 130, 263
+  offset: 0, 0
+  index: -1
+tx/flash_1013
+  rotate: false
+  xy: 1845, 1924
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+tx/g1
+  rotate: true
+  xy: 83, 2
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+tx/g10
+  rotate: false
+  xy: 2012, 1997
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+tx/g11
+  rotate: true
+  xy: 2, 2
+  size: 27, 79
+  orig: 27, 79
+  offset: 0, 0
+  index: -1
+tx/g12
+  rotate: false
+  xy: 1845, 1843
+  size: 25, 79
+  orig: 25, 79
+  offset: 0, 0
+  index: -1
+tx/g2
+  rotate: false
+  xy: 1574, 1596
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+tx/g3
+  rotate: false
+  xy: 930, 31
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+tx/g4
+  rotate: true
+  xy: 1654, 1649
+  size: 26, 64
+  orig: 26, 64
+  offset: 0, 0
+  index: -1
+tx/g5
+  rotate: false
+  xy: 1820, 1798
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+tx/g6
+  rotate: false
+  xy: 1872, 1889
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+tx/g7
+  rotate: false
+  xy: 1426, 1475
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+tx/g8
+  rotate: false
+  xy: 1755, 1718
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+tx/g9
+  rotate: false
+  xy: 1399, 1435
+  size: 25, 70
+  orig: 25, 70
+  offset: 0, 0
+  index: -1
+tx/trail_1026
+  rotate: false
+  xy: 1399, 1507
+  size: 115, 58
+  orig: 115, 58
+  offset: 0, 0
+  index: -1

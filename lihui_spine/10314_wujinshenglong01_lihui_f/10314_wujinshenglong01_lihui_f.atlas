@@ -1,0 +1,125 @@
+
+10314_wujinshenglong01_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianci1
+  rotate: true
+  xy: 2, 34
+  size: 89, 455
+  orig: 89, 455
+  offset: 0, 0
+  index: -1
+jianci2
+  rotate: false
+  xy: 943, 584
+  size: 63, 425
+  orig: 63, 425
+  offset: 0, 0
+  index: -1
+jianci3
+  rotate: false
+  xy: 745, 132
+  size: 50, 152
+  orig: 50, 152
+  offset: 0, 0
+  index: -1
+jianci4
+  rotate: true
+  xy: 2, 538
+  size: 124, 717
+  orig: 124, 717
+  offset: 0, 0
+  index: -1
+jianci5
+  rotate: false
+  xy: 906, 146
+  size: 80, 436
+  orig: 80, 436
+  offset: 0, 0
+  index: -1
+jianci6
+  rotate: true
+  xy: 2, 397
+  size: 139, 653
+  orig: 139, 653
+  offset: 0, 0
+  index: -1
+jianci7
+  rotate: false
+  xy: 2, 288
+  size: 564, 107
+  orig: 564, 107
+  offset: 0, 0
+  index: -1
+long1
+  rotate: false
+  xy: 721, 286
+  size: 183, 376
+  orig: 183, 376
+  offset: 0, 0
+  index: -1
+long2
+  rotate: true
+  xy: 2, 125
+  size: 161, 455
+  orig: 161, 455
+  offset: 0, 0
+  index: -1
+long3
+  rotate: false
+  xy: 671, 56
+  size: 72, 228
+  orig: 72, 228
+  offset: 0, 0
+  index: -1
+longyan1
+  rotate: false
+  xy: 1008, 839
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 2, 664
+  size: 939, 345
+  orig: 939, 345
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 459, 23
+  size: 210, 263
+  orig: 210, 263
+  offset: 0, 0
+  index: -1
+yanjiang1
+  rotate: true
+  xy: 2, 2
+  size: 30, 98
+  orig: 30, 98
+  offset: 0, 0
+  index: -1
+yanjiang2
+  rotate: false
+  xy: 1008, 885
+  size: 10, 124
+  orig: 10, 124
+  offset: 0, 0
+  index: -1
+yanjiang3
+  rotate: false
+  xy: 568, 316
+  size: 7, 79
+  orig: 7, 79
+  offset: 0, 0
+  index: -1
+yanjiang4
+  rotate: false
+  xy: 657, 459
+  size: 33, 77
+  orig: 33, 77
+  offset: 0, 0
+  index: -1

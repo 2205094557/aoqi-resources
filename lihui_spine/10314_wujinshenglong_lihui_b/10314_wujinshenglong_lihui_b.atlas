@@ -1,0 +1,62 @@
+
+10314_wujinshenglong_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitou1
+  rotate: false
+  xy: 2, 2
+  size: 152, 250
+  orig: 152, 250
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: false
+  xy: 1510, 1311
+  size: 134, 183
+  orig: 134, 183
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: false
+  xy: 156, 128
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+shitou5
+  rotate: false
+  xy: 156, 166
+  size: 214, 86
+  orig: 214, 86
+  offset: 0, 0
+  index: -1
+shitou6
+  rotate: false
+  xy: 1646, 1468
+  size: 77, 26
+  orig: 77, 26
+  offset: 0, 0
+  index: -1
+shitou7
+  rotate: true
+  xy: 1510, 1081
+  size: 228, 59
+  orig: 228, 59
+  offset: 0, 0
+  index: -1
+texiao11
+  rotate: false
+  xy: 2, 254
+  size: 1506, 1773
+  orig: 1506, 1773
+  offset: 0, 0
+  index: -1
+yueliang
+  rotate: false
+  xy: 1510, 1496
+  size: 531, 531
+  orig: 531, 531
+  offset: 0, 0
+  index: -1

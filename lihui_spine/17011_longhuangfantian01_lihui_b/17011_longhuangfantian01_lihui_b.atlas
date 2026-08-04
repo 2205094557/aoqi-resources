@@ -1,0 +1,83 @@
+
+17011_longhuangfantian01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b88
+  rotate: false
+  xy: 1367, 470
+  size: 370, 378
+  orig: 370, 378
+  offset: 0, 0
+  index: -1
+b89
+  rotate: true
+  xy: 1645, 68
+  size: 400, 232
+  orig: 400, 232
+  offset: 0, 0
+  index: -1
+b90
+  rotate: true
+  xy: 1839, 1089
+  size: 379, 157
+  orig: 379, 157
+  offset: 0, 0
+  index: -1
+b91
+  rotate: false
+  xy: 1367, 850
+  size: 470, 1194
+  orig: 470, 1194
+  offset: 0, 0
+  index: -1
+b92
+  rotate: false
+  xy: 686, 79
+  size: 686, 325
+  orig: 686, 325
+  offset: 0, 0
+  index: -1
+b93
+  rotate: true
+  xy: 1739, 526
+  size: 322, 177
+  orig: 322, 177
+  offset: 0, 0
+  index: -1
+b94
+  rotate: true
+  xy: 1839, 1470
+  size: 574, 158
+  orig: 574, 158
+  offset: 0, 0
+  index: -1
+b95
+  rotate: false
+  xy: 1374, 54
+  size: 269, 414
+  orig: 269, 414
+  offset: 0, 0
+  index: -1
+b96
+  rotate: false
+  xy: 2, 2
+  size: 400, 46
+  orig: 400, 46
+  offset: 0, 0
+  index: -1
+b97
+  rotate: true
+  xy: 2, 50
+  size: 354, 682
+  orig: 354, 682
+  offset: 0, 0
+  index: -1
+b98
+  rotate: false
+  xy: 2, 406
+  size: 1363, 1638
+  orig: 1363, 1638
+  offset: 0, 0
+  index: -1

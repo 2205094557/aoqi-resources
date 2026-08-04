@@ -1,0 +1,118 @@
+
+10381_wangye_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0texiao13
+  rotate: false
+  xy: 1837, 1480
+  size: 58, 521
+  orig: 58, 521
+  offset: 0, 0
+  index: -1
+0texiao14
+  rotate: false
+  xy: 1193, 1068
+  size: 35, 221
+  orig: 35, 221
+  offset: 0, 0
+  index: -1
+0texiao16
+  rotate: false
+  xy: 1856, 713
+  size: 190, 351
+  orig: 190, 351
+  offset: 0, 0
+  index: -1
+0texiao18
+  rotate: false
+  xy: 2, 103
+  size: 653, 109
+  orig: 653, 109
+  offset: 0, 0
+  index: -1
+0texiao19
+  rotate: true
+  xy: 1055, 255
+  size: 175, 56
+  orig: 175, 56
+  offset: 0, 0
+  index: -1
+0texiao20
+  rotate: true
+  xy: 1837, 1066
+  size: 412, 52
+  orig: 412, 52
+  offset: 0, 0
+  index: -1
+0texiao22
+  rotate: true
+  xy: 657, 53
+  size: 159, 418
+  orig: 159, 418
+  offset: 0, 0
+  index: -1
+0texiao23
+  rotate: true
+  xy: 1347, 966
+  size: 1035, 488
+  orig: 1035, 488
+  offset: 0, 0
+  index: -1
+0texiao24
+  rotate: false
+  xy: 2, 8
+  size: 457, 93
+  orig: 457, 93
+  offset: 0, 0
+  index: -1
+0texiao25
+  rotate: false
+  xy: 2, 214
+  size: 1051, 216
+  orig: 1051, 216
+  offset: 0, 0
+  index: -1
+0texiao29
+  rotate: true
+  xy: 2, 432
+  size: 381, 1210
+  orig: 381, 1210
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 2, 1291
+  size: 1343, 710
+  orig: 1343, 710
+  offset: 0, 0
+  index: -1
+texiao17
+  rotate: true
+  xy: 1897, 1648
+  size: 353, 53
+  orig: 353, 53
+  offset: 0, 0
+  index: -1
+texiao26
+  rotate: false
+  xy: 1214, 482
+  size: 640, 482
+  orig: 640, 482
+  offset: 0, 0
+  index: -1
+texiao27
+  rotate: false
+  xy: 1214, 2
+  size: 764, 478
+  orig: 764, 478
+  offset: 0, 0
+  index: -1
+texiao28
+  rotate: false
+  xy: 2, 815
+  size: 1189, 474
+  orig: 1189, 474
+  offset: 0, 0
+  index: -1

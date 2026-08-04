@@ -1,0 +1,48 @@
+
+12030_canjin01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ggxc168
+  rotate: true
+  xy: 430, 261
+  size: 55, 222
+  orig: 55, 222
+  offset: 0, 0
+  index: -1
+ggxc169
+  rotate: false
+  xy: 2, 135
+  size: 426, 181
+  orig: 426, 181
+  offset: 0, 0
+  index: -1
+ggxc170
+  rotate: true
+  xy: 2, 318
+  size: 587, 1529
+  orig: 587, 1529
+  offset: 0, 0
+  index: -1
+ggxc171
+  rotate: false
+  xy: 1533, 757
+  size: 382, 148
+  orig: 382, 148
+  offset: 0, 0
+  index: -1
+ggxc172
+  rotate: false
+  xy: 2, 2
+  size: 165, 131
+  orig: 165, 131
+  offset: 0, 0
+  index: -1
+ggxc173
+  rotate: false
+  xy: 2, 907
+  size: 2035, 916
+  orig: 2035, 916
+  offset: 0, 0
+  index: -1

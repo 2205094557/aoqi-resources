@@ -1,0 +1,132 @@
+
+13006_gaixirui_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j/xiaoc10
+  rotate: false
+  xy: 864, 357
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+j/xiaoc13
+  rotate: false
+  xy: 668, 171
+  size: 1334, 158
+  orig: 1334, 158
+  offset: 0, 0
+  index: -1
+j/xiaoc14
+  rotate: false
+  xy: 882, 1347
+  size: 887, 81
+  orig: 887, 81
+  offset: 0, 0
+  index: -1
+j/xiaoc6
+  rotate: false
+  xy: 2, 1070
+  size: 878, 974
+  orig: 878, 974
+  offset: 0, 0
+  index: -1
+j/xiaoc9
+  rotate: true
+  xy: 719, 374
+  size: 331, 143
+  orig: 331, 143
+  offset: 0, 0
+  index: -1
+xiaoc11
+  rotate: false
+  xy: 1424, 1053
+  size: 313, 292
+  orig: 313, 292
+  offset: 0, 0
+  index: -1
+xiaoc12
+  rotate: true
+  xy: 1153, 697
+  size: 183, 132
+  orig: 183, 132
+  offset: 0, 0
+  index: -1
+xiaoc16
+  rotate: true
+  xy: 2, 331
+  size: 374, 715
+  orig: 374, 715
+  offset: 0, 0
+  index: -1
+xiaoc17
+  rotate: false
+  xy: 2, 707
+  size: 864, 361
+  orig: 864, 361
+  offset: 0, 0
+  index: -1
+xiaoc18
+  rotate: false
+  xy: 882, 984
+  size: 540, 361
+  orig: 540, 361
+  offset: 0, 0
+  index: -1
+xiaoc19
+  rotate: false
+  xy: 1771, 1155
+  size: 275, 564
+  orig: 275, 564
+  offset: 0, 0
+  index: -1
+xiaoc20
+  rotate: false
+  xy: 2, 81
+  size: 664, 248
+  orig: 664, 248
+  offset: 0, 0
+  index: -1
+xiaoc22
+  rotate: false
+  xy: 882, 1430
+  size: 873, 289
+  orig: 873, 289
+  offset: 0, 0
+  index: -1
+xiaoc228
+  rotate: false
+  xy: 2, 7
+  size: 263, 72
+  orig: 263, 72
+  offset: 0, 0
+  index: -1
+xiaoc229
+  rotate: false
+  xy: 868, 882
+  size: 398, 100
+  orig: 398, 100
+  offset: 0, 0
+  index: -1
+xiaoc24
+  rotate: true
+  xy: 882, 1721
+  size: 323, 1089
+  orig: 323, 1089
+  offset: 0, 0
+  index: -1
+xiaoc7
+  rotate: false
+  xy: 864, 490
+  size: 172, 198
+  orig: 172, 198
+  offset: 0, 0
+  index: -1
+xiaoc8
+  rotate: false
+  xy: 868, 690
+  size: 283, 190
+  orig: 283, 190
+  offset: 0, 0
+  index: -1

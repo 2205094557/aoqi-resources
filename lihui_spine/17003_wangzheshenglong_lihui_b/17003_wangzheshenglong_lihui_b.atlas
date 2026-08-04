@@ -1,0 +1,27 @@
+
+17003_wangzheshenglong_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc122
+  rotate: false
+  xy: 596, 2
+  size: 588, 124
+  orig: 588, 124
+  offset: 0, 0
+  index: -1
+xc123
+  rotate: true
+  xy: 2, 3
+  size: 123, 592
+  orig: 123, 592
+  offset: 0, 0
+  index: -1
+xc124
+  rotate: false
+  xy: 2, 128
+  size: 1942, 1878
+  orig: 1942, 1878
+  offset: 0, 0
+  index: -1
