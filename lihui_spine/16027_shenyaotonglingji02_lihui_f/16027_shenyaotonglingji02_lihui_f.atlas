@@ -1,0 +1,132 @@
+
+16027_shenyaotonglingji02_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc0
+  rotate: false
+  xy: 1979, 1038
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+xc1
+  rotate: true
+  xy: 1378, 568
+  size: 74, 361
+  orig: 74, 361
+  offset: 0, 0
+  index: -1
+xc10
+  rotate: false
+  xy: 2, 955
+  size: 1449, 1080
+  orig: 1449, 1080
+  offset: 0, 0
+  index: -1
+xc11
+  rotate: false
+  xy: 1453, 1076
+  size: 581, 959
+  orig: 581, 959
+  offset: 0, 0
+  index: -1
+xc12
+  rotate: false
+  xy: 2, 40
+  size: 691, 518
+  orig: 691, 518
+  offset: 0, 0
+  index: -1
+xc13
+  rotate: true
+  xy: 695, 304
+  size: 254, 711
+  orig: 254, 711
+  offset: 0, 0
+  index: -1
+xc14
+  rotate: false
+  xy: 1308, 63
+  size: 115, 239
+  orig: 115, 239
+  offset: 0, 0
+  index: -1
+xc15
+  rotate: false
+  xy: 695, 98
+  size: 611, 204
+  orig: 611, 204
+  offset: 0, 0
+  index: -1
+xc16
+  rotate: false
+  xy: 2, 560
+  size: 1208, 393
+  orig: 1208, 393
+  offset: 0, 0
+  index: -1
+xc17
+  rotate: true
+  xy: 1212, 589
+  size: 364, 164
+  orig: 364, 164
+  offset: 0, 0
+  index: -1
+xc2
+  rotate: true
+  xy: 695, 42
+  size: 54, 364
+  orig: 54, 364
+  offset: 0, 0
+  index: -1
+xc3
+  rotate: true
+  xy: 1408, 456
+  size: 110, 313
+  orig: 110, 313
+  offset: 0, 0
+  index: -1
+xc4
+  rotate: true
+  xy: 1408, 371
+  size: 83, 273
+  orig: 83, 273
+  offset: 0, 0
+  index: -1
+xc5
+  rotate: false
+  xy: 2, 2
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+xc6
+  rotate: true
+  xy: 1378, 644
+  size: 69, 373
+  orig: 69, 373
+  offset: 0, 0
+  index: -1
+xc7
+  rotate: true
+  xy: 1408, 316
+  size: 53, 264
+  orig: 53, 264
+  offset: 0, 0
+  index: -1
+xc8
+  rotate: true
+  xy: 1378, 715
+  size: 142, 438
+  orig: 142, 438
+  offset: 0, 0
+  index: -1
+xc9
+  rotate: true
+  xy: 1453, 859
+  size: 215, 524
+  orig: 215, 524
+  offset: 0, 0
+  index: -1

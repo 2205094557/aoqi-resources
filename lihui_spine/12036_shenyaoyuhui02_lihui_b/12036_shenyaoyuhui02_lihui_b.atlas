@@ -1,0 +1,55 @@
+
+12036_shenyaoyuhui02_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cyuhui_2
+  rotate: false
+  xy: 1533, 145
+  size: 289, 708
+  orig: 289, 708
+  offset: 0, 0
+  index: -1
+Cyuhui_3
+  rotate: false
+  xy: 2, 215
+  size: 895, 568
+  orig: 895, 568
+  offset: 0, 0
+  index: -1
+Cyuhui_4
+  rotate: false
+  xy: 1533, 855
+  size: 431, 1140
+  orig: 431, 1140
+  offset: 0, 0
+  index: -1
+Cyuhui_5
+  rotate: true
+  xy: 1824, 307
+  size: 546, 199
+  orig: 546, 199
+  offset: 0, 0
+  index: -1
+Cyuhui_6
+  rotate: false
+  xy: 2, 2
+  size: 1068, 211
+  orig: 1068, 211
+  offset: 0, 0
+  index: -1
+Cyuhui_7
+  rotate: true
+  xy: 899, 233
+  size: 550, 372
+  orig: 550, 372
+  offset: 0, 0
+  index: -1
+Cyuhui_8
+  rotate: false
+  xy: 2, 785
+  size: 1529, 1210
+  orig: 1529, 1210
+  offset: 0, 0
+  index: -1
