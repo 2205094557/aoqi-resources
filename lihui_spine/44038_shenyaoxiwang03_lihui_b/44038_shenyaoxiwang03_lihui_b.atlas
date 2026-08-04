@@ -1,0 +1,69 @@
+
+44038_shenyaoxiwang03_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symyB_125
+  rotate: false
+  xy: 2, 806
+  size: 2040, 921
+  orig: 2040, 921
+  offset: 0, 0
+  index: -1
+symyZ_10
+  rotate: false
+  xy: 1220, 622
+  size: 607, 182
+  orig: 607, 182
+  offset: 0, 0
+  index: -1
+symyZ_11
+  rotate: true
+  xy: 610, 622
+  size: 182, 608
+  orig: 182, 608
+  offset: 0, 0
+  index: -1
+symyZ_12
+  rotate: false
+  xy: 751, 35
+  size: 181, 585
+  orig: 181, 585
+  offset: 0, 0
+  index: -1
+symyZ_13
+  rotate: false
+  xy: 2, 610
+  size: 606, 194
+  orig: 606, 194
+  offset: 0, 0
+  index: -1
+symyZ_14
+  rotate: true
+  xy: 198, 24
+  size: 584, 183
+  orig: 584, 183
+  offset: 0, 0
+  index: -1
+symyZ_15
+  rotate: false
+  xy: 2, 2
+  size: 194, 606
+  orig: 194, 606
+  offset: 0, 0
+  index: -1
+symyZ_16
+  rotate: false
+  xy: 383, 24
+  size: 183, 584
+  orig: 183, 584
+  offset: 0, 0
+  index: -1
+symyZ_9
+  rotate: true
+  xy: 568, 23
+  size: 585, 181
+  orig: 585, 181
+  offset: 0, 0
+  index: -1
