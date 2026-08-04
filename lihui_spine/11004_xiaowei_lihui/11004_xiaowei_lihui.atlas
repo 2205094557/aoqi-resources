@@ -1,0 +1,41 @@
+
+11004_xiaowei_lihui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 712, 822
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 712, 913
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: false
+  xy: 804, 916
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 2, 2
+  size: 708, 1005
+  orig: 708, 1005
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 897, 920
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1

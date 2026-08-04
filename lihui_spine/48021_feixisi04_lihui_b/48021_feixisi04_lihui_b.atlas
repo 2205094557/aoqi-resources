@@ -1,0 +1,76 @@
+
+48021_feixisi04_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_10
+  rotate: false
+  xy: 2, 780
+  size: 1173, 396
+  orig: 1173, 396
+  offset: 0, 0
+  index: -1
+H_11
+  rotate: true
+  xy: 1177, 827
+  size: 349, 681
+  orig: 349, 681
+  offset: 0, 0
+  index: -1
+H_12
+  rotate: false
+  xy: 2, 1178
+  size: 1862, 838
+  orig: 1862, 838
+  offset: 0, 0
+  index: -1
+H_3
+  rotate: false
+  xy: 1177, 486
+  size: 813, 339
+  orig: 813, 339
+  offset: 0, 0
+  index: -1
+H_4
+  rotate: false
+  xy: 1174, 66
+  size: 487, 418
+  orig: 487, 418
+  offset: 0, 0
+  index: -1
+H_5
+  rotate: false
+  xy: 320, 39
+  size: 346, 240
+  orig: 346, 240
+  offset: 0, 0
+  index: -1
+H_6
+  rotate: true
+  xy: 847, 195
+  size: 583, 325
+  orig: 583, 325
+  offset: 0, 0
+  index: -1
+H_7
+  rotate: true
+  xy: 2, 281
+  size: 497, 843
+  orig: 497, 843
+  offset: 0, 0
+  index: -1
+H_8
+  rotate: false
+  xy: 1663, 7
+  size: 381, 477
+  orig: 381, 477
+  offset: 0, 0
+  index: -1
+H_9
+  rotate: false
+  xy: 2, 2
+  size: 316, 277
+  orig: 316, 277
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+80046_xiaomiruike_lihui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renwu
+  rotate: false
+  xy: 2, 2
+  size: 778, 1000
+  orig: 778, 1000
+  offset: 0, 0
+  index: -1
+talk_kaixin
+  rotate: false
+  xy: 782, 966
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+talk_pingjing
+  rotate: false
+  xy: 782, 940
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1

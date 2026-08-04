@@ -1,0 +1,41 @@
+
+80042_xiaochi_lihui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 1081, 1610
+  size: 407, 204
+  orig: 407, 204
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 1493, 1837
+  size: 405, 198
+  orig: 405, 198
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: false
+  xy: 1081, 1816
+  size: 410, 219
+  orig: 410, 219
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 2, 2
+  size: 1077, 2033
+  orig: 1077, 2033
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 1081, 1226
+  size: 195, 382
+  orig: 195, 382
+  offset: 0, 0
+  index: -1

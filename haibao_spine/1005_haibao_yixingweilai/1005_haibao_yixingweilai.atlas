@@ -1,0 +1,13 @@
+
+1005_haibao_yixingweilai.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hiabao
+  rotate: false
+  xy: 2, 2
+  size: 1920, 864
+  orig: 1920, 864
+  offset: 0, 0
+  index: -1

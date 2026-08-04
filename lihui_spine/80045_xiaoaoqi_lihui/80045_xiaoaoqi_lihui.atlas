@@ -1,0 +1,20 @@
+
+80045_xiaoaoqi_lihui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renwu
+  rotate: true
+  xy: 2, 178
+  size: 320, 1000
+  orig: 320, 1000
+  offset: 0, 0
+  index: -1
+talk_kaixin
+  rotate: false
+  xy: 2, 2
+  size: 86, 174
+  orig: 86, 174
+  offset: 0, 0
+  index: -1

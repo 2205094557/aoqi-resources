@@ -1,0 +1,104 @@
+
+20036_anfu_lihui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+npc0
+  rotate: true
+  xy: 936, 196
+  size: 260, 47
+  orig: 260, 47
+  offset: 0, 0
+  index: -1
+npc1
+  rotate: false
+  xy: 2, 2
+  size: 185, 21
+  orig: 185, 21
+  offset: 0, 0
+  index: -1
+npc11
+  rotate: false
+  xy: 625, 75
+  size: 309, 318
+  orig: 309, 318
+  offset: 0, 0
+  index: -1
+npc13
+  rotate: false
+  xy: 399, 749
+  size: 493, 251
+  orig: 493, 251
+  offset: 0, 0
+  index: -1
+npc14_1
+  rotate: false
+  xy: 2, 96
+  size: 395, 904
+  orig: 395, 904
+  offset: 0, 0
+  index: -1
+npc15
+  rotate: false
+  xy: 894, 730
+  size: 104, 270
+  orig: 104, 270
+  offset: 0, 0
+  index: -1
+npc16
+  rotate: true
+  xy: 887, 458
+  size: 270, 104
+  orig: 270, 104
+  offset: 0, 0
+  index: -1
+npc17
+  rotate: false
+  xy: 493, 135
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+npc3
+  rotate: false
+  xy: 2, 25
+  size: 333, 69
+  orig: 333, 69
+  offset: 0, 0
+  index: -1
+npc5
+  rotate: false
+  xy: 399, 121
+  size: 92, 626
+  orig: 92, 626
+  offset: 0, 0
+  index: -1
+npc6
+  rotate: true
+  xy: 399, 85
+  size: 34, 91
+  orig: 34, 91
+  offset: 0, 0
+  index: -1
+npc7
+  rotate: true
+  xy: 625, 395
+  size: 352, 260
+  orig: 352, 260
+  offset: 0, 0
+  index: -1
+npc8
+  rotate: false
+  xy: 936, 3
+  size: 76, 191
+  orig: 76, 191
+  offset: 0, 0
+  index: -1
+npc9
+  rotate: true
+  xy: 493, 209
+  size: 538, 130
+  orig: 538, 130
+  offset: 0, 0
+  index: -1

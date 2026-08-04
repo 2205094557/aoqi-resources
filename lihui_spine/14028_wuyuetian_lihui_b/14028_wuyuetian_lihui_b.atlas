@@ -1,0 +1,76 @@
+
+14028_wuyuetian_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14028_219
+  rotate: true
+  xy: 1418, 112
+  size: 230, 49
+  orig: 230, 49
+  offset: 0, 0
+  index: -1
+14028_225
+  rotate: true
+  xy: 2, 2
+  size: 767, 1414
+  orig: 767, 1414
+  offset: 0, 0
+  index: -1
+14028_226
+  rotate: false
+  xy: 2, 771
+  size: 1802, 1273
+  orig: 1802, 1273
+  offset: 0, 0
+  index: -1
+14028_71
+  rotate: false
+  xy: 1840, 1577
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+14028_77
+  rotate: true
+  xy: 1418, 344
+  size: 425, 101
+  orig: 425, 101
+  offset: 0, 0
+  index: -1
+14028_78
+  rotate: true
+  xy: 1806, 1229
+  size: 384, 32
+  orig: 384, 32
+  offset: 0, 0
+  index: -1
+14028_79
+  rotate: true
+  xy: 1937, 1756
+  size: 288, 28
+  orig: 288, 28
+  offset: 0, 0
+  index: -1
+14028_80
+  rotate: true
+  xy: 1806, 1615
+  size: 429, 129
+  orig: 429, 129
+  offset: 0, 0
+  index: -1
+14028_81
+  rotate: false
+  xy: 1806, 1074
+  size: 27, 153
+  orig: 27, 153
+  offset: 0, 0
+  index: -1
+14028_82
+  rotate: false
+  xy: 1521, 741
+  size: 225, 28
+  orig: 225, 28
+  offset: 0, 0
+  index: -1

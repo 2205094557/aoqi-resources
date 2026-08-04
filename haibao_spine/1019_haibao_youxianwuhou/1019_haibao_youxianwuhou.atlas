@@ -1,0 +1,13 @@
+
+1019_haibao_youxianwuhou.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haibao10
+  rotate: false
+  xy: 2, 2
+  size: 1584, 713
+  orig: 1584, 713
+  offset: 0, 0
+  index: -1

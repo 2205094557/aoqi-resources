@@ -1,0 +1,83 @@
+
+14024_wangzheshikonglong01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a144
+  rotate: false
+  xy: 1199, 210
+  size: 308, 154
+  orig: 308, 154
+  offset: 0, 0
+  index: -1
+a151
+  rotate: false
+  xy: 1046, 3
+  size: 119, 111
+  orig: 119, 111
+  offset: 0, 0
+  index: -1
+a152
+  rotate: false
+  xy: 1649, 236
+  size: 130, 128
+  orig: 130, 128
+  offset: 0, 0
+  index: -1
+a153
+  rotate: false
+  xy: 1509, 226
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+a171
+  rotate: true
+  xy: 1781, 285
+  size: 79, 129
+  orig: 79, 129
+  offset: 0, 0
+  index: -1
+a172
+  rotate: true
+  xy: 1957, 1747
+  size: 299, 68
+  orig: 299, 68
+  offset: 0, 0
+  index: -1
+a175
+  rotate: true
+  xy: 749, 116
+  size: 248, 448
+  orig: 248, 448
+  offset: 0, 0
+  index: -1
+a189
+  rotate: false
+  xy: 1199, 170
+  size: 195, 38
+  orig: 195, 38
+  offset: 0, 0
+  index: -1
+a190
+  rotate: false
+  xy: 749, 2
+  size: 295, 112
+  orig: 295, 112
+  offset: 0, 0
+  index: -1
+a191
+  rotate: true
+  xy: 2, 12
+  size: 352, 745
+  orig: 352, 745
+  offset: 0, 0
+  index: -1
+a192
+  rotate: false
+  xy: 2, 366
+  size: 1953, 1680
+  orig: 1953, 1680
+  offset: 0, 0
+  index: -1

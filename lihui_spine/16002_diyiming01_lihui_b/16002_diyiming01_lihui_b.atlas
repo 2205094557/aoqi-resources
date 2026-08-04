@@ -1,0 +1,55 @@
+
+16002_diyiming01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bu
+  rotate: true
+  xy: 2, 2
+  size: 111, 410
+  orig: 111, 410
+  offset: 0, 0
+  index: -1
+texiao30
+  rotate: false
+  xy: 2, 115
+  size: 686, 255
+  orig: 686, 255
+  offset: 0, 0
+  index: -1
+texiao31
+  rotate: false
+  xy: 1442, 1090
+  size: 372, 956
+  orig: 372, 956
+  offset: 0, 0
+  index: -1
+texiao32
+  rotate: false
+  xy: 2, 372
+  size: 1380, 477
+  orig: 1380, 477
+  offset: 0, 0
+  index: -1
+zhiwu
+  rotate: true
+  xy: 1816, 1792
+  size: 254, 147
+  orig: 254, 147
+  offset: 0, 0
+  index: -1
+zhuozi1
+  rotate: true
+  xy: 1442, 353
+  size: 735, 372
+  orig: 735, 372
+  offset: 0, 0
+  index: -1
+zhuozi2
+  rotate: false
+  xy: 2, 851
+  size: 1438, 1195
+  orig: 1438, 1195
+  offset: 0, 0
+  index: -1

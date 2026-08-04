@@ -1,0 +1,48 @@
+
+80043_xiaoyi_lihui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haipa
+  rotate: true
+  xy: 1192, 953
+  size: 1039, 432
+  orig: 1039, 432
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 1626, 1210
+  size: 389, 390
+  orig: 389, 390
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: false
+  xy: 1626, 1602
+  size: 390, 390
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 2, 2
+  size: 1188, 1990
+  orig: 1188, 1990
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 1492, 519
+  size: 277, 432
+  orig: 277, 432
+  offset: 0, 0
+  index: -1
+tanqi
+  rotate: false
+  xy: 1192, 24
+  size: 298, 927
+  orig: 298, 927
+  offset: 0, 0
+  index: -1

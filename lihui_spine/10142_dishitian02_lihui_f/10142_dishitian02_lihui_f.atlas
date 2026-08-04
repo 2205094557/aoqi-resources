@@ -1,0 +1,104 @@
+
+10142_dishitian02_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: true
+  xy: 2, 142
+  size: 85, 642
+  orig: 85, 642
+  offset: 0, 0
+  index: -1
+qiu1
+  rotate: false
+  xy: 179, 8
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: false
+  xy: 250, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: true
+  xy: 291, 41
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+texiao10
+  rotate: true
+  xy: 323, 606
+  size: 416, 311
+  orig: 416, 311
+  offset: 0, 0
+  index: -1
+texiao12
+  rotate: true
+  xy: 323, 241
+  size: 363, 283
+  orig: 363, 283
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 250, 34
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: false
+  xy: 480, 60
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+texiao4
+  rotate: false
+  xy: 283, 14
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+texiao5
+  rotate: false
+  xy: 646, 260
+  size: 321, 762
+  orig: 321, 762
+  offset: 0, 0
+  index: -1
+texiao6
+  rotate: false
+  xy: 179, 79
+  size: 299, 61
+  orig: 299, 61
+  offset: 0, 0
+  index: -1
+texiao7
+  rotate: false
+  xy: 2, 229
+  size: 319, 793
+  orig: 319, 793
+  offset: 0, 0
+  index: -1
+texiao8
+  rotate: false
+  xy: 646, 4
+  size: 322, 254
+  orig: 322, 254
+  offset: 0, 0
+  index: -1
+texiao9
+  rotate: false
+  xy: 2, 7
+  size: 175, 133
+  orig: 175, 133
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+48021_feixisi03_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixin2
+  rotate: false
+  xy: 909, 671
+  size: 185, 173
+  orig: 185, 173
+  offset: 0, 0
+  index: -1
+aixin3
+  rotate: false
+  xy: 870, 496
+  size: 185, 173
+  orig: 185, 173
+  offset: 0, 0
+  index: -1
+aixin4
+  rotate: false
+  xy: 856, 321
+  size: 185, 173
+  orig: 185, 173
+  offset: 0, 0
+  index: -1
+fny00096
+  rotate: false
+  xy: 2, 27
+  size: 236, 120
+  orig: 236, 120
+  offset: 0, 0
+  index: -1
+fny0096
+  rotate: true
+  xy: 1920, 1810
+  size: 236, 120
+  orig: 236, 120
+  offset: 0, 0
+  index: -1
+y0
+  rotate: false
+  xy: 1106, 879
+  size: 291, 262
+  orig: 291, 262
+  offset: 0, 0
+  index: -1
+y019
+  rotate: false
+  xy: 664, 360
+  size: 190, 183
+  orig: 190, 183
+  offset: 0, 0
+  index: -1
+y100
+  rotate: false
+  xy: 1920, 1270
+  size: 74, 136
+  orig: 74, 136
+  offset: 0, 0
+  index: -1
+y101
+  rotate: false
+  xy: 1996, 1294
+  size: 49, 112
+  orig: 49, 112
+  offset: 0, 0
+  index: -1
+y106
+  rotate: false
+  xy: 441, 9
+  size: 72, 137
+  orig: 72, 137
+  offset: 0, 0
+  index: -1
+y19
+  rotate: false
+  xy: 664, 175
+  size: 190, 183
+  orig: 190, 183
+  offset: 0, 0
+  index: -1
+y20
+  rotate: false
+  xy: 515, 59
+  size: 91, 87
+  orig: 91, 87
+  offset: 0, 0
+  index: -1
+y21
+  rotate: false
+  xy: 808, 746
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+y22
+  rotate: false
+  xy: 1647, 901
+  size: 178, 240
+  orig: 178, 240
+  offset: 0, 0
+  index: -1
+y23
+  rotate: false
+  xy: 2, 644
+  size: 478, 497
+  orig: 478, 497
+  offset: 0, 0
+  index: -1
+y24
+  rotate: false
+  xy: 1192, 437
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+y26
+  rotate: false
+  xy: 240, 26
+  size: 149, 121
+  orig: 149, 121
+  offset: 0, 0
+  index: -1
+y27
+  rotate: true
+  xy: 466, 607
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+y28
+  rotate: false
+  xy: 687, 545
+  size: 181, 199
+  orig: 181, 199
+  offset: 0, 0
+  index: -1
+y29
+  rotate: false
+  xy: 482, 746
+  size: 324, 395
+  orig: 324, 395
+  offset: 0, 0
+  index: -1
+y30
+  rotate: true
+  xy: 856, 147
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1
+y31
+  rotate: false
+  xy: 1920, 1533
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+y32
+  rotate: false
+  xy: 1920, 1658
+  size: 116, 150
+  orig: 116, 150
+  offset: 0, 0
+  index: -1
+y35
+  rotate: false
+  xy: 1827, 950
+  size: 182, 191
+  orig: 182, 191
+  offset: 0, 0
+  index: -1
+y36
+  rotate: true
+  xy: 1920, 1153
+  size: 115, 87
+  orig: 115, 87
+  offset: 0, 0
+  index: -1
+y38
+  rotate: false
+  xy: 1920, 1408
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+y45
+  rotate: false
+  xy: 1043, 345
+  size: 147, 149
+  orig: 147, 149
+  offset: 0, 0
+  index: -1
+y46
+  rotate: false
+  xy: 466, 148
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+y48
+  rotate: false
+  xy: 1057, 496
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+y50
+  rotate: false
+  xy: 808, 846
+  size: 296, 295
+  orig: 296, 295
+  offset: 0, 0
+  index: -1
+y55
+  rotate: true
+  xy: 515, 18
+  size: 39, 63
+  orig: 39, 63
+  offset: 0, 0
+  index: -1
+y56
+  rotate: false
+  xy: 1399, 895
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+y57
+  rotate: false
+  xy: 466, 346
+  size: 196, 198
+  orig: 196, 198
+  offset: 0, 0
+  index: -1
+y59
+  rotate: false
+  xy: 608, 51
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+y61
+  rotate: true
+  xy: 391, 2
+  size: 145, 48
+  orig: 145, 48
+  offset: 0, 0
+  index: -1
+y62
+  rotate: true
+  xy: 1827, 776
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1
+y63
+  rotate: false
+  xy: 482, 546
+  size: 203, 198
+  orig: 203, 198
+  offset: 0, 0
+  index: -1
+y68
+  rotate: true
+  xy: 2, 149
+  size: 493, 462
+  orig: 493, 462
+  offset: 0, 0
+  index: -1
+y94
+  rotate: false
+  xy: 2, 1143
+  size: 1916, 903
+  orig: 1916, 903
+  offset: 0, 0
+  index: -1

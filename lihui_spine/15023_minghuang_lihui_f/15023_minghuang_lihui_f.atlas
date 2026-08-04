@@ -1,0 +1,90 @@
+
+15023_minghuang_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc56
+  rotate: false
+  xy: 447, 248
+  size: 29, 98
+  orig: 29, 98
+  offset: 0, 0
+  index: -1
+xc57
+  rotate: true
+  xy: 2, 2
+  size: 18, 187
+  orig: 18, 187
+  offset: 0, 0
+  index: -1
+xc58
+  rotate: false
+  xy: 447, 348
+  size: 61, 674
+  orig: 61, 674
+  offset: 0, 0
+  index: -1
+xc59
+  rotate: true
+  xy: 320, 55
+  size: 967, 125
+  orig: 967, 125
+  offset: 0, 0
+  index: -1
+xc60
+  rotate: false
+  xy: 2, 22
+  size: 316, 1000
+  orig: 316, 1000
+  offset: 0, 0
+  index: -1
+xc61
+  rotate: false
+  xy: 695, 588
+  size: 163, 434
+  orig: 163, 434
+  offset: 0, 0
+  index: -1
+xc62
+  rotate: true
+  xy: 695, 516
+  size: 70, 142
+  orig: 70, 142
+  offset: 0, 0
+  index: -1
+xc63
+  rotate: false
+  xy: 953, 875
+  size: 53, 147
+  orig: 53, 147
+  offset: 0, 0
+  index: -1
+xc64
+  rotate: true
+  xy: 320, 2
+  size: 51, 143
+  orig: 51, 143
+  offset: 0, 0
+  index: -1
+xc65
+  rotate: false
+  xy: 860, 659
+  size: 91, 363
+  orig: 91, 363
+  offset: 0, 0
+  index: -1
+xc8
+  rotate: false
+  xy: 510, 506
+  size: 183, 516
+  orig: 183, 516
+  offset: 0, 0
+  index: -1
+xc9
+  rotate: true
+  xy: 510, 396
+  size: 108, 159
+  orig: 108, 159
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+10099_tianmanwang_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijinga
+  rotate: false
+  xy: 2, 1133
+  size: 971, 904
+  orig: 971, 904
+  offset: 0, 0
+  index: -1
+lu10
+  rotate: false
+  xy: 1429, 358
+  size: 294, 270
+  orig: 294, 270
+  offset: 0, 0
+  index: -1
+lu11
+  rotate: true
+  xy: 1709, 700
+  size: 290, 210
+  orig: 290, 210
+  offset: 0, 0
+  index: -1
+lu12a
+  rotate: true
+  xy: 397, 39
+  size: 68, 296
+  orig: 68, 296
+  offset: 0, 0
+  index: -1
+lu13a
+  rotate: true
+  xy: 1421, 630
+  size: 315, 286
+  orig: 315, 286
+  offset: 0, 0
+  index: -1
+lu9
+  rotate: true
+  xy: 869, 954
+  size: 177, 99
+  orig: 177, 99
+  offset: 0, 0
+  index: -1
+lujiao3
+  rotate: false
+  xy: 831, 119
+  size: 478, 270
+  orig: 478, 270
+  offset: 0, 0
+  index: -1
+lujiao4
+  rotate: false
+  xy: 1311, 94
+  size: 379, 262
+  orig: 379, 262
+  offset: 0, 0
+  index: -1
+men2
+  rotate: false
+  xy: 975, 1276
+  size: 613, 761
+  orig: 613, 761
+  offset: 0, 0
+  index: -1
+men3
+  rotate: true
+  xy: 975, 947
+  size: 327, 654
+  orig: 327, 654
+  offset: 0, 0
+  index: -1
+shu1a
+  rotate: true
+  xy: 2, 2
+  size: 105, 393
+  orig: 105, 393
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 1631, 992
+  size: 279, 286
+  orig: 279, 286
+  offset: 0, 0
+  index: -1
+shu3a
+  rotate: false
+  xy: 869, 391
+  size: 558, 222
+  orig: 558, 222
+  offset: 0, 0
+  index: -1
+texiao10
+  rotate: true
+  xy: 869, 615
+  size: 330, 550
+  orig: 330, 550
+  offset: 0, 0
+  index: -1
+texiao11
+  rotate: false
+  xy: 2, 521
+  size: 865, 610
+  orig: 865, 610
+  offset: 0, 0
+  index: -1
+texiao7
+  rotate: false
+  xy: 1590, 1471
+  size: 446, 566
+  orig: 446, 566
+  offset: 0, 0
+  index: -1
+texiao8
+  rotate: true
+  xy: 2, 109
+  size: 410, 827
+  orig: 410, 827
+  offset: 0, 0
+  index: -1
+texiao9
+  rotate: false
+  xy: 1590, 1280
+  size: 308, 189
+  orig: 308, 189
+  offset: 0, 0
+  index: -1

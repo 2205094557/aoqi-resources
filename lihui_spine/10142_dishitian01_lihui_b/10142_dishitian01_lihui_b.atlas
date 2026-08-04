@@ -1,0 +1,41 @@
+
+10142_dishitian01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 61
+  size: 2011, 1814
+  orig: 2011, 1814
+  offset: 0, 0
+  index: -1
+gaiming80
+  rotate: false
+  xy: 2, 2
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+gaiming81
+  rotate: false
+  xy: 2, 36
+  size: 90, 23
+  orig: 90, 23
+  offset: 0, 0
+  index: -1
+gaiming82
+  rotate: false
+  xy: 94, 41
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+gaiming83
+  rotate: true
+  xy: 2015, 1812
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+10099_tianmanwang01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoc83
+  rotate: true
+  xy: 1666, 1454
+  size: 467, 327
+  orig: 467, 327
+  offset: 0, 0
+  index: -1
+xiaoc84
+  rotate: false
+  xy: 2, 2
+  size: 183, 42
+  orig: 183, 42
+  offset: 0, 0
+  index: -1
+xiaoc85
+  rotate: false
+  xy: 1666, 1295
+  size: 38, 157
+  orig: 38, 157
+  offset: 0, 0
+  index: -1
+xiaoc86
+  rotate: false
+  xy: 2, 46
+  size: 1662, 1875
+  orig: 1662, 1875
+  offset: 0, 0
+  index: -1

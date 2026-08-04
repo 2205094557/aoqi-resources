@@ -1,0 +1,48 @@
+
+20026_xiaoqi_lihui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 361
+  size: 456, 648
+  orig: 456, 648
+  offset: 0, 0
+  index: -1
+cm
+  rotate: true
+  xy: 460, 345
+  size: 318, 344
+  orig: 318, 344
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 2, 45
+  size: 351, 314
+  orig: 351, 314
+  offset: 0, 0
+  index: -1
+kx
+  rotate: false
+  xy: 460, 665
+  size: 319, 344
+  orig: 319, 344
+  offset: 0, 0
+  index: -1
+ng
+  rotate: true
+  xy: 355, 27
+  size: 316, 341
+  orig: 316, 341
+  offset: 0, 0
+  index: -1
+sq
+  rotate: false
+  xy: 698, 2
+  size: 316, 341
+  orig: 316, 341
+  offset: 0, 0
+  index: -1
