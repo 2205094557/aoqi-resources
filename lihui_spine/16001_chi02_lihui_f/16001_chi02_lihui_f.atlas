@@ -1,0 +1,111 @@
+
+16001_chi02_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bin1
+  rotate: false
+  xy: 182, 395
+  size: 370, 161
+  orig: 370, 161
+  offset: 0, 0
+  index: -1
+bin2
+  rotate: true
+  xy: 1567, 787
+  size: 122, 335
+  orig: 122, 335
+  offset: 0, 0
+  index: -1
+bin49999999
+  rotate: false
+  xy: 561, 603
+  size: 1004, 654
+  orig: 1004, 654
+  offset: 0, 0
+  index: -1
+shitou1
+  rotate: false
+  xy: 561, 1589
+  size: 1475, 444
+  orig: 1475, 444
+  offset: 0, 0
+  index: -1
+shitou10
+  rotate: false
+  xy: 980, 155
+  size: 741, 191
+  orig: 741, 191
+  offset: 0, 0
+  index: -1
+shitou6
+  rotate: false
+  xy: 2, 558
+  size: 557, 1475
+  orig: 557, 1475
+  offset: 0, 0
+  index: -1
+shitou7
+  rotate: true
+  xy: 1567, 694
+  size: 91, 358
+  orig: 91, 358
+  offset: 0, 0
+  index: -1
+shitou8
+  rotate: false
+  xy: 2, 19
+  size: 178, 537
+  orig: 178, 537
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 1567, 1076
+  size: 382, 181
+  orig: 382, 181
+  offset: 0, 0
+  index: -1
+texiao10
+  rotate: true
+  xy: 561, 1259
+  size: 328, 1475
+  orig: 328, 1475
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 1567, 911
+  size: 381, 163
+  orig: 381, 163
+  offset: 0, 0
+  index: -1
+texiao9
+  rotate: false
+  xy: 1827, 21
+  size: 199, 671
+  orig: 199, 671
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 561, 348
+  size: 1136, 253
+  orig: 1136, 253
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 182, 19
+  size: 796, 327
+  orig: 796, 327
+  offset: 0, 0
+  index: -1
+yun3
+  rotate: false
+  xy: 980, 2
+  size: 845, 151
+  orig: 845, 151
+  offset: 0, 0
+  index: -1
