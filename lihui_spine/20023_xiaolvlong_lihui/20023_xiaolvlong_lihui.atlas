@@ -1,0 +1,139 @@
+
+20023_xiaolvlong_lihui.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc10
+  rotate: false
+  xy: 2, 16
+  size: 169, 558
+  orig: 169, 558
+  offset: 0, 0
+  index: -1
+xc11
+  rotate: true
+  xy: 550, 6
+  size: 102, 194
+  orig: 102, 194
+  offset: 0, 0
+  index: -1
+xc12
+  rotate: true
+  xy: 1172, 706
+  size: 53, 196
+  orig: 53, 196
+  offset: 0, 0
+  index: -1
+xc13
+  rotate: true
+  xy: 907, 631
+  size: 158, 90
+  orig: 158, 90
+  offset: 0, 0
+  index: -1
+xc14
+  rotate: false
+  xy: 1722, 687
+  size: 312, 155
+  orig: 312, 155
+  offset: 0, 0
+  index: -1
+xc15
+  rotate: true
+  xy: 550, 791
+  size: 231, 469
+  orig: 231, 469
+  offset: 0, 0
+  index: -1
+xc16
+  rotate: false
+  xy: 173, 169
+  size: 260, 405
+  orig: 260, 405
+  offset: 0, 0
+  index: -1
+xc17
+  rotate: true
+  xy: 173, 2
+  size: 165, 375
+  orig: 165, 375
+  offset: 0, 0
+  index: -1
+xc18
+  rotate: false
+  xy: 2, 576
+  size: 546, 446
+  orig: 546, 446
+  offset: 0, 0
+  index: -1
+xc19
+  rotate: true
+  xy: 579, 341
+  size: 147, 266
+  orig: 147, 266
+  offset: 0, 0
+  index: -1
+xc20
+  rotate: true
+  xy: 579, 209
+  size: 130, 273
+  orig: 130, 273
+  offset: 0, 0
+  index: -1
+xc21
+  rotate: false
+  xy: 1021, 761
+  size: 402, 261
+  orig: 402, 261
+  offset: 0, 0
+  index: -1
+xc22
+  rotate: false
+  xy: 579, 490
+  size: 287, 164
+  orig: 287, 164
+  offset: 0, 0
+  index: -1
+xc23
+  rotate: true
+  xy: 550, 110
+  size: 97, 256
+  orig: 97, 256
+  offset: 0, 0
+  index: -1
+xc5
+  rotate: false
+  xy: 1425, 730
+  size: 295, 292
+  orig: 295, 292
+  offset: 0, 0
+  index: -1
+xc6
+  rotate: true
+  xy: 999, 617
+  size: 142, 171
+  orig: 142, 171
+  offset: 0, 0
+  index: -1
+xc7
+  rotate: true
+  xy: 1722, 844
+  size: 178, 294
+  orig: 178, 294
+  offset: 0, 0
+  index: -1
+xc8a
+  rotate: false
+  xy: 550, 656
+  size: 355, 133
+  orig: 355, 133
+  offset: 0, 0
+  index: -1
+xc9
+  rotate: true
+  xy: 435, 236
+  size: 338, 142
+  orig: 338, 142
+  offset: 0, 0
+  index: -1

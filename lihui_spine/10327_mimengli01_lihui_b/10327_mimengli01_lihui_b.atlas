@@ -1,0 +1,160 @@
+
+10327_mimengli01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuang
+  rotate: false
+  xy: 2, 930
+  size: 891, 1116
+  orig: 891, 1116
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 735, 377
+  size: 439, 437
+  orig: 439, 437
+  offset: 0, 0
+  index: -1
+hua10
+  rotate: false
+  xy: 1732, 863
+  size: 264, 426
+  orig: 264, 426
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 2, 449
+  size: 731, 479
+  orig: 731, 479
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 1176, 365
+  size: 376, 374
+  orig: 376, 374
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: true
+  xy: 1554, 392
+  size: 347, 244
+  orig: 347, 244
+  offset: 0, 0
+  index: -1
+hua5
+  rotate: true
+  xy: 941, 88
+  size: 287, 217
+  orig: 287, 217
+  offset: 0, 0
+  index: -1
+hua6
+  rotate: true
+  xy: 1448, 194
+  size: 169, 99
+  orig: 169, 99
+  offset: 0, 0
+  index: -1
+hua7
+  rotate: false
+  xy: 941, 7
+  size: 115, 79
+  orig: 115, 79
+  offset: 0, 0
+  index: -1
+hua8
+  rotate: true
+  xy: 1926, 1810
+  size: 236, 74
+  orig: 236, 74
+  offset: 0, 0
+  index: -1
+hua9
+  rotate: true
+  xy: 2, 34
+  size: 413, 548
+  orig: 413, 548
+  offset: 0, 0
+  index: -1
+louti
+  rotate: false
+  xy: 1189, 741
+  size: 541, 547
+  orig: 541, 547
+  offset: 0, 0
+  index: -1
+tengman1
+  rotate: false
+  xy: 1189, 1290
+  size: 432, 756
+  orig: 432, 756
+  offset: 0, 0
+  index: -1
+tengman2
+  rotate: false
+  xy: 552, 2
+  size: 387, 373
+  orig: 387, 373
+  offset: 0, 0
+  index: -1
+tengman3
+  rotate: false
+  xy: 1160, 82
+  size: 286, 281
+  orig: 286, 281
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: false
+  xy: 552, 389
+  size: 145, 58
+  orig: 145, 58
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: true
+  xy: 1926, 1672
+  size: 136, 56
+  orig: 136, 56
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: false
+  xy: 1892, 805
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+ye4
+  rotate: true
+  xy: 1732, 742
+  size: 119, 158
+  orig: 119, 158
+  offset: 0, 0
+  index: -1
+ye5
+  rotate: true
+  xy: 735, 857
+  size: 71, 157
+  orig: 71, 157
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: false
+  xy: 1623, 1291
+  size: 301, 755
+  orig: 301, 755
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 895, 816
+  size: 292, 1230
+  orig: 292, 1230
+  offset: 0, 0
+  index: -1
