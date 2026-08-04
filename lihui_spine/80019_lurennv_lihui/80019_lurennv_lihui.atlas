@@ -1,0 +1,13 @@
+
+80019_lurennv_lihui.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 810, 1829
+  orig: 810, 1829
+  offset: 0, 0
+  index: -1

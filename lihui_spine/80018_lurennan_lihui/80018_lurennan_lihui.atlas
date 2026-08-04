@@ -1,0 +1,13 @@
+
+80018_lurennan_lihui.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 849, 1939
+  orig: 849, 1939
+  offset: 0, 0
+  index: -1
