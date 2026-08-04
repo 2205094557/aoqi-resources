@@ -1,0 +1,13 @@
+
+10201_nian_lihui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10201_nian_lihui4
+  rotate: false
+  xy: 2, 2
+  size: 2028, 1600
+  orig: 2028, 1600
+  offset: 0, 0
+  index: -1

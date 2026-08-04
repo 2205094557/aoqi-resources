@@ -1,0 +1,48 @@
+
+16009_ji_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc24
+  rotate: true
+  xy: 904, 685
+  size: 326, 111
+  orig: 326, 111
+  offset: 0, 0
+  index: -1
+xc25
+  rotate: false
+  xy: 2, 2
+  size: 417, 112
+  orig: 417, 112
+  offset: 0, 0
+  index: -1
+xc26a
+  rotate: true
+  xy: 560, 130
+  size: 117, 320
+  orig: 117, 320
+  offset: 0, 0
+  index: -1
+xc7
+  rotate: false
+  xy: 2, 625
+  size: 900, 386
+  orig: 900, 386
+  offset: 0, 0
+  index: -1
+xc8
+  rotate: false
+  xy: 2, 116
+  size: 556, 131
+  orig: 556, 131
+  offset: 0, 0
+  index: -1
+xc9a
+  rotate: false
+  xy: 2, 249
+  size: 895, 374
+  orig: 895, 374
+  offset: 0, 0
+  index: -1

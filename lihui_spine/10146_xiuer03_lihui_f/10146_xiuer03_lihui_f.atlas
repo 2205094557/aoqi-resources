@@ -1,0 +1,132 @@
+
+10146_xiuer03_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc0
+  rotate: false
+  xy: 1023, 211
+  size: 264, 263
+  orig: 264, 263
+  offset: 0, 0
+  index: -1
+xc1
+  rotate: false
+  xy: 1363, 10
+  size: 538, 542
+  orig: 538, 542
+  offset: 0, 0
+  index: -1
+xc10
+  rotate: false
+  xy: 470, 454
+  size: 297, 954
+  orig: 297, 954
+  offset: 0, 0
+  index: -1
+xc11
+  rotate: false
+  xy: 470, 106
+  size: 551, 346
+  orig: 551, 346
+  offset: 0, 0
+  index: -1
+xc12
+  rotate: false
+  xy: 208, 97
+  size: 62, 310
+  orig: 62, 310
+  offset: 0, 0
+  index: -1
+xc13
+  rotate: false
+  xy: 1429, 730
+  size: 586, 121
+  orig: 586, 121
+  offset: 0, 0
+  index: -1
+xc14
+  rotate: false
+  xy: 272, 2
+  size: 777, 102
+  orig: 777, 102
+  offset: 0, 0
+  index: -1
+xc15
+  rotate: false
+  xy: 769, 554
+  size: 818, 110
+  orig: 818, 110
+  offset: 0, 0
+  index: -1
+xc16
+  rotate: false
+  xy: 2, 1410
+  size: 780, 633
+  orig: 780, 633
+  offset: 0, 0
+  index: -1
+xc17
+  rotate: false
+  xy: 769, 476
+  size: 592, 76
+  orig: 592, 76
+  offset: 0, 0
+  index: -1
+xc18
+  rotate: true
+  xy: 1903, 126
+  size: 602, 111
+  orig: 602, 111
+  offset: 0, 0
+  index: -1
+xc2
+  rotate: false
+  xy: 1498, 1483
+  size: 258, 560
+  orig: 258, 560
+  offset: 0, 0
+  index: -1
+xc3
+  rotate: false
+  xy: 2, 409
+  size: 466, 999
+  orig: 466, 999
+  offset: 0, 0
+  index: -1
+xc4
+  rotate: true
+  xy: 769, 666
+  size: 691, 658
+  orig: 691, 658
+  offset: 0, 0
+  index: -1
+xc5
+  rotate: true
+  xy: 784, 1359
+  size: 684, 712
+  orig: 684, 712
+  offset: 0, 0
+  index: -1
+xc6
+  rotate: true
+  xy: 1429, 853
+  size: 504, 531
+  orig: 504, 531
+  offset: 0, 0
+  index: -1
+xc7
+  rotate: false
+  xy: 1758, 1520
+  size: 241, 523
+  orig: 241, 523
+  offset: 0, 0
+  index: -1
+xc8
+  rotate: false
+  xy: 2, 4
+  size: 204, 403
+  orig: 204, 403
+  offset: 0, 0
+  index: -1

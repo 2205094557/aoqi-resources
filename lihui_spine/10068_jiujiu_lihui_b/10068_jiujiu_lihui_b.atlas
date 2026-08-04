@@ -1,0 +1,132 @@
+
+10068_jiujiu_lihui_b.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoc0
+  rotate: true
+  xy: 2, 2
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+xiaoc1
+  rotate: false
+  xy: 817, 479
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+xiaoc100
+  rotate: false
+  xy: 801, 491
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+xiaoc101
+  rotate: false
+  xy: 801, 479
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+xiaoc102
+  rotate: false
+  xy: 2, 479
+  size: 797, 543
+  orig: 797, 543
+  offset: 0, 0
+  index: -1
+xiaoc103
+  rotate: false
+  xy: 266, 45
+  size: 425, 256
+  orig: 425, 256
+  offset: 0, 0
+  index: -1
+xiaoc104
+  rotate: true
+  xy: 795, 21
+  size: 456, 147
+  orig: 456, 147
+  offset: 0, 0
+  index: -1
+xiaoc105
+  rotate: false
+  xy: 801, 513
+  size: 179, 509
+  orig: 179, 509
+  offset: 0, 0
+  index: -1
+xiaoc106
+  rotate: false
+  xy: 693, 79
+  size: 100, 222
+  orig: 100, 222
+  offset: 0, 0
+  index: -1
+xiaoc107
+  rotate: false
+  xy: 2, 19
+  size: 262, 458
+  orig: 262, 458
+  offset: 0, 0
+  index: -1
+xiaoc2
+  rotate: false
+  xy: 42, 2
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+xiaoc3
+  rotate: false
+  xy: 944, 452
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+xiaoc94
+  rotate: false
+  xy: 266, 303
+  size: 511, 174
+  orig: 511, 174
+  offset: 0, 0
+  index: -1
+xiaoc95
+  rotate: true
+  xy: 982, 938
+  size: 84, 16
+  orig: 84, 16
+  offset: 0, 0
+  index: -1
+xiaoc96
+  rotate: false
+  xy: 693, 21
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+xiaoc97
+  rotate: true
+  xy: 266, 2
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+xiaoc98
+  rotate: false
+  xy: 63, 2
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+xiaoc99
+  rotate: false
+  xy: 1000, 1003
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1

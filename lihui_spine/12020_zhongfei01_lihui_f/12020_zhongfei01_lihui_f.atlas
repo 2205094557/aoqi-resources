@@ -1,0 +1,279 @@
+
+12020_zhongfei01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lxc0
+  rotate: false
+  xy: 2, 623
+  size: 598, 1178
+  orig: 598, 1178
+  offset: 0, 0
+  index: -1
+lxc037
+  rotate: false
+  xy: 2, 1803
+  size: 1604, 243
+  orig: 1604, 243
+  offset: 0, 0
+  index: -1
+lxc1
+  rotate: false
+  xy: 701, 30
+  size: 294, 690
+  orig: 294, 690
+  offset: 0, 0
+  index: -1
+lxc10
+  rotate: false
+  xy: 1774, 2030
+  size: 168, 16
+  orig: 168, 16
+  offset: 0, 0
+  index: -1
+lxc11
+  rotate: false
+  xy: 1774, 1977
+  size: 113, 51
+  orig: 113, 51
+  offset: 0, 0
+  index: -1
+lxc12
+  rotate: false
+  xy: 997, 575
+  size: 144, 36
+  orig: 144, 36
+  offset: 0, 0
+  index: -1
+lxc13
+  rotate: true
+  xy: 701, 2
+  size: 26, 88
+  orig: 26, 88
+  offset: 0, 0
+  index: -1
+lxc14
+  rotate: false
+  xy: 1696, 1047
+  size: 40, 168
+  orig: 40, 168
+  offset: 0, 0
+  index: -1
+lxc15
+  rotate: false
+  xy: 1889, 1983
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+lxc16
+  rotate: true
+  xy: 158, 2
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+lxc17
+  rotate: false
+  xy: 1684, 2025
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+lxc18
+  rotate: false
+  xy: 602, 663
+  size: 91, 57
+  orig: 91, 57
+  offset: 0, 0
+  index: -1
+lxc19
+  rotate: true
+  xy: 2, 2
+  size: 13, 97
+  orig: 13, 97
+  offset: 0, 0
+  index: -1
+lxc2
+  rotate: true
+  xy: 1206, 787
+  size: 1014, 488
+  orig: 1014, 488
+  offset: 0, 0
+  index: -1
+lxc20
+  rotate: false
+  xy: 997, 397
+  size: 27, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+lxc21
+  rotate: true
+  xy: 1664, 1953
+  size: 93, 18
+  orig: 93, 18
+  offset: 0, 0
+  index: -1
+lxc22
+  rotate: false
+  xy: 1637, 743
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+lxc23
+  rotate: false
+  xy: 997, 613
+  size: 149, 107
+  orig: 149, 107
+  offset: 0, 0
+  index: -1
+lxc24
+  rotate: false
+  xy: 1608, 1861
+  size: 54, 185
+  orig: 54, 185
+  offset: 0, 0
+  index: -1
+lxc25
+  rotate: true
+  xy: 1738, 1156
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+lxc26
+  rotate: false
+  xy: 1048, 533
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+lxc27
+  rotate: false
+  xy: 1664, 1934
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+lxc28
+  rotate: true
+  xy: 1148, 614
+  size: 106, 10
+  orig: 106, 10
+  offset: 0, 0
+  index: -1
+lxc29
+  rotate: false
+  xy: 133, 2
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+lxc3
+  rotate: true
+  xy: 602, 722
+  size: 1079, 602
+  orig: 1079, 602
+  offset: 0, 0
+  index: -1
+lxc30
+  rotate: false
+  xy: 1608, 1839
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+lxc31
+  rotate: false
+  xy: 602, 630
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+lxc33
+  rotate: true
+  xy: 101, 2
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+lxc34
+  rotate: false
+  xy: 997, 459
+  size: 49, 114
+  orig: 49, 114
+  offset: 0, 0
+  index: -1
+lxc35
+  rotate: false
+  xy: 1160, 704
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+lxc36
+  rotate: true
+  xy: 1637, 732
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+lxc38
+  rotate: false
+  xy: 1206, 730
+  size: 429, 55
+  orig: 429, 55
+  offset: 0, 0
+  index: -1
+lxc39
+  rotate: true
+  xy: 1696, 1217
+  size: 829, 76
+  orig: 829, 76
+  offset: 0, 0
+  index: -1
+lxc4
+  rotate: true
+  xy: 2, 17
+  size: 604, 697
+  orig: 604, 697
+  offset: 0, 0
+  index: -1
+lxc5
+  rotate: true
+  xy: 857, 2
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+lxc6
+  rotate: true
+  xy: 791, 14
+  size: 14, 64
+  orig: 14, 64
+  offset: 0, 0
+  index: -1
+lxc7
+  rotate: false
+  xy: 1774, 1916
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+lxc8
+  rotate: true
+  xy: 1696, 975
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+lxc9
+  rotate: true
+  xy: 1944, 2032
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1

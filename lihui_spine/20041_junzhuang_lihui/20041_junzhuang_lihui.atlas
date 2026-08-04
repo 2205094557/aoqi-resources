@@ -1,0 +1,20 @@
+
+20041_junzhuang_lihui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+少年将军 01
+  rotate: false
+  xy: 2, 138
+  size: 957, 620
+  orig: 957, 620
+  offset: 0, 0
+  index: -1
+少年将军 02
+  rotate: false
+  xy: 2, 2
+  size: 144, 134
+  orig: 144, 134
+  offset: 0, 0
+  index: -1

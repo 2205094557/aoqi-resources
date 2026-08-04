@@ -1,0 +1,125 @@
+
+13012_jiehuang_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lxc180
+  rotate: true
+  xy: 1063, 586
+  size: 447, 249
+  orig: 447, 249
+  offset: 0, 0
+  index: -1
+lxc181
+  rotate: true
+  xy: 1273, 551
+  size: 33, 76
+  orig: 33, 76
+  offset: 0, 0
+  index: -1
+lxc182
+  rotate: false
+  xy: 1483, 231
+  size: 469, 176
+  orig: 469, 176
+  offset: 0, 0
+  index: -1
+lxc183
+  rotate: true
+  xy: 1063, 547
+  size: 37, 113
+  orig: 37, 113
+  offset: 0, 0
+  index: -1
+lxc184
+  rotate: true
+  xy: 495, 119
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+lxc185
+  rotate: true
+  xy: 2, 12
+  size: 177, 395
+  orig: 177, 395
+  offset: 0, 0
+  index: -1
+lxc186
+  rotate: true
+  xy: 2, 191
+  size: 967, 618
+  orig: 967, 618
+  offset: 0, 0
+  index: -1
+lxc187
+  rotate: true
+  xy: 460, 91
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+lxc188
+  rotate: false
+  xy: 460, 125
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+lxc189
+  rotate: false
+  xy: 399, 97
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+lxc190
+  rotate: false
+  xy: 1178, 549
+  size: 93, 35
+  orig: 93, 35
+  offset: 0, 0
+  index: -1
+lxc192
+  rotate: false
+  xy: 1089, 1035
+  size: 944, 975
+  orig: 944, 975
+  offset: 0, 0
+  index: -1
+lxc193
+  rotate: true
+  xy: 622, 544
+  size: 614, 439
+  orig: 614, 439
+  offset: 0, 0
+  index: -1
+lxc194
+  rotate: false
+  xy: 1483, 409
+  size: 546, 624
+  orig: 546, 624
+  offset: 0, 0
+  index: -1
+lxc195
+  rotate: true
+  xy: 622, 175
+  size: 367, 859
+  orig: 367, 859
+  offset: 0, 0
+  index: -1
+lxc196
+  rotate: true
+  xy: 1483, 2
+  size: 227, 283
+  orig: 227, 283
+  offset: 0, 0
+  index: -1
+lxc197
+  rotate: false
+  xy: 2, 1160
+  size: 1085, 850
+  orig: 1085, 850
+  offset: 0, 0
+  index: -1

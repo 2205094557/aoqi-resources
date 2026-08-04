@@ -1,0 +1,104 @@
+
+16024_zhaohuanji_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bxc0
+  rotate: true
+  xy: 1693, 534
+  size: 261, 245
+  orig: 261, 245
+  offset: 0, 0
+  index: -1
+bxc1
+  rotate: false
+  xy: 1693, 345
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+bxc224
+  rotate: false
+  xy: 1693, 233
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+bxc225
+  rotate: true
+  xy: 2, 2
+  size: 93, 206
+  orig: 93, 206
+  offset: 0, 0
+  index: -1
+bxc226
+  rotate: true
+  xy: 1826, 1574
+  size: 206, 82
+  orig: 206, 82
+  offset: 0, 0
+  index: -1
+bxc227
+  rotate: true
+  xy: 1693, 797
+  size: 295, 125
+  orig: 295, 125
+  offset: 0, 0
+  index: -1
+bxc228
+  rotate: true
+  xy: 1826, 1782
+  size: 262, 170
+  orig: 262, 170
+  offset: 0, 0
+  index: -1
+bxc229
+  rotate: false
+  xy: 2, 1073
+  size: 1097, 971
+  orig: 1097, 971
+  offset: 0, 0
+  index: -1
+bxc230
+  rotate: true
+  xy: 1101, 5
+  size: 1087, 590
+  orig: 1087, 590
+  offset: 0, 0
+  index: -1
+bxc231
+  rotate: true
+  xy: 1101, 1094
+  size: 950, 723
+  orig: 950, 723
+  offset: 0, 0
+  index: -1
+bxc232
+  rotate: false
+  xy: 2, 97
+  size: 1063, 974
+  orig: 1063, 974
+  offset: 0, 0
+  index: -1
+bxc41
+  rotate: true
+  xy: 210, 23
+  size: 72, 111
+  orig: 72, 111
+  offset: 0, 0
+  index: -1
+bxc42
+  rotate: false
+  xy: 1998, 1995
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+bxc43
+  rotate: false
+  xy: 1067, 979
+  size: 32, 92
+  orig: 32, 92
+  offset: 0, 0
+  index: -1

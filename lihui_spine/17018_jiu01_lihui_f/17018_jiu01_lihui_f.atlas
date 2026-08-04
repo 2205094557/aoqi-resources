@@ -1,0 +1,139 @@
+
+17018_jiu01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_01
+  rotate: false
+  xy: 2, 1439
+  size: 1466, 607
+  orig: 1466, 607
+  offset: 0, 0
+  index: -1
+bg_04
+  rotate: true
+  xy: 1282, 58
+  size: 164, 470
+  orig: 164, 470
+  offset: 0, 0
+  index: -1
+bg_05
+  rotate: true
+  xy: 2, 142
+  size: 784, 633
+  orig: 784, 633
+  offset: 0, 0
+  index: -1
+bg_06
+  rotate: false
+  xy: 2, 4
+  size: 355, 136
+  orig: 355, 136
+  offset: 0, 0
+  index: -1
+bg_07
+  rotate: true
+  xy: 359, 56
+  size: 84, 384
+  orig: 84, 384
+  offset: 0, 0
+  index: -1
+bg_08
+  rotate: true
+  xy: 1996, 1825
+  size: 121, 21
+  orig: 121, 21
+  offset: 0, 0
+  index: -1
+bg_09
+  rotate: true
+  xy: 1996, 1948
+  size: 98, 43
+  orig: 98, 43
+  offset: 0, 0
+  index: -1
+bg_10
+  rotate: true
+  xy: 514, 943
+  size: 121, 61
+  orig: 121, 61
+  offset: 0, 0
+  index: -1
+bg_11
+  rotate: false
+  xy: 1754, 154
+  size: 266, 179
+  orig: 266, 179
+  offset: 0, 0
+  index: -1
+bg_12
+  rotate: true
+  xy: 1034, 1108
+  size: 329, 404
+  orig: 329, 404
+  offset: 0, 0
+  index: -1
+bg_15
+  rotate: true
+  xy: 1470, 928
+  size: 1118, 524
+  orig: 1118, 524
+  offset: 0, 0
+  index: -1
+bg_16
+  rotate: true
+  xy: 621, 929
+  size: 508, 411
+  orig: 508, 411
+  offset: 0, 0
+  index: -1
+bg_17
+  rotate: false
+  xy: 1326, 335
+  size: 714, 591
+  orig: 714, 591
+  offset: 0, 0
+  index: -1
+bg_18
+  rotate: false
+  xy: 745, 34
+  size: 535, 188
+  orig: 535, 188
+  offset: 0, 0
+  index: -1
+bg_20
+  rotate: true
+  xy: 2, 1066
+  size: 371, 617
+  orig: 371, 617
+  offset: 0, 0
+  index: -1
+bg_21
+  rotate: false
+  xy: 637, 224
+  size: 687, 703
+  orig: 687, 703
+  offset: 0, 0
+  index: -1
+bg_22
+  rotate: false
+  xy: 359, 2
+  size: 210, 52
+  orig: 210, 52
+  offset: 0, 0
+  index: -1
+r_74
+  rotate: false
+  xy: 2, 950
+  size: 262, 114
+  orig: 262, 114
+  offset: 0, 0
+  index: -1
+r_75
+  rotate: false
+  xy: 266, 953
+  size: 246, 111
+  orig: 246, 111
+  offset: 0, 0
+  index: -1

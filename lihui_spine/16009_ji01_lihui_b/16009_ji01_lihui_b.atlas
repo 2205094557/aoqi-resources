@@ -1,0 +1,20 @@
+
+16009_ji01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc177
+  rotate: false
+  xy: 2, 2
+  size: 576, 645
+  orig: 576, 645
+  offset: 0, 0
+  index: -1
+xc178
+  rotate: false
+  xy: 2, 649
+  size: 1440, 1225
+  orig: 1440, 1225
+  offset: 0, 0
+  index: -1

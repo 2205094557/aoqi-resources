@@ -1,0 +1,97 @@
+
+11039_yuanqidishitian_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g0
+  rotate: false
+  xy: 613, 1382
+  size: 1220, 133
+  orig: 1220, 133
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 613, 1251
+  size: 1161, 129
+  orig: 1161, 129
+  offset: 0, 0
+  index: -1
+g11
+  rotate: false
+  xy: 2, 8
+  size: 259, 1731
+  orig: 259, 1731
+  offset: 0, 0
+  index: -1
+g12
+  rotate: true
+  xy: 613, 784
+  size: 214, 549
+  orig: 214, 549
+  offset: 0, 0
+  index: -1
+g13
+  rotate: true
+  xy: 613, 1517
+  size: 222, 1294
+  orig: 222, 1294
+  offset: 0, 0
+  index: -1
+g2
+  rotate: true
+  xy: 613, 1125
+  size: 124, 1084
+  orig: 124, 1084
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 263, 479
+  size: 348, 1260
+  orig: 348, 1260
+  offset: 0, 0
+  index: -1
+g4
+  rotate: true
+  xy: 613, 649
+  size: 133, 550
+  orig: 133, 550
+  offset: 0, 0
+  index: -1
+g5
+  rotate: true
+  xy: 613, 558
+  size: 89, 609
+  orig: 89, 609
+  offset: 0, 0
+  index: -1
+g6
+  rotate: false
+  xy: 613, 1000
+  size: 935, 123
+  orig: 935, 123
+  offset: 0, 0
+  index: -1
+g7
+  rotate: false
+  xy: 2, 1741
+  size: 2019, 305
+  orig: 2019, 305
+  offset: 0, 0
+  index: -1
+g8
+  rotate: true
+  xy: 446, 241
+  size: 236, 100
+  orig: 236, 100
+  offset: 0, 0
+  index: -1
+g9
+  rotate: true
+  xy: 263, 2
+  size: 475, 181
+  orig: 475, 181
+  offset: 0, 0
+  index: -1

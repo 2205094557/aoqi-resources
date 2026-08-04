@@ -1,0 +1,55 @@
+
+11017_shuitianyan_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaiming124
+  rotate: true
+  xy: 2, 22
+  size: 224, 497
+  orig: 224, 497
+  offset: 0, 0
+  index: -1
+gaiming125
+  rotate: false
+  xy: 1853, 1451
+  size: 81, 165
+  orig: 81, 165
+  offset: 0, 0
+  index: -1
+gaiming126
+  rotate: true
+  xy: 2, 2
+  size: 18, 73
+  orig: 18, 73
+  offset: 0, 0
+  index: -1
+gaiming127
+  rotate: false
+  xy: 2, 248
+  size: 1849, 1792
+  orig: 1849, 1792
+  offset: 0, 0
+  index: -1
+gg3
+  rotate: true
+  xy: 1978, 1936
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+sb1
+  rotate: true
+  xy: 1853, 1618
+  size: 422, 123
+  orig: 422, 123
+  offset: 0, 0
+  index: -1
+sb2
+  rotate: false
+  xy: 501, 159
+  size: 221, 87
+  orig: 221, 87
+  offset: 0, 0
+  index: -1

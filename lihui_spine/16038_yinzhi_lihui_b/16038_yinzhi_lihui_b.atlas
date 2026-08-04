@@ -1,0 +1,111 @@
+
+16038_yinzhi_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cs214
+  rotate: false
+  xy: 1783, 430
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+cs215
+  rotate: true
+  xy: 1490, 53
+  size: 142, 16
+  orig: 142, 16
+  offset: 0, 0
+  index: -1
+cs216
+  rotate: false
+  xy: 1974, 1856
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+cs217
+  rotate: true
+  xy: 1868, 728
+  size: 193, 130
+  orig: 193, 130
+  offset: 0, 0
+  index: -1
+cs218
+  rotate: true
+  xy: 1486, 704
+  size: 217, 380
+  orig: 217, 380
+  offset: 0, 0
+  index: -1
+cs219
+  rotate: false
+  xy: 1868, 706
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+cs220
+  rotate: false
+  xy: 1974, 1936
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+cs221
+  rotate: true
+  xy: 1254, 197
+  size: 502, 263
+  orig: 502, 263
+  offset: 0, 0
+  index: -1
+cs222
+  rotate: false
+  xy: 1254, 2
+  size: 234, 193
+  orig: 234, 193
+  offset: 0, 0
+  index: -1
+cs223
+  rotate: false
+  xy: 1519, 415
+  size: 262, 287
+  orig: 262, 287
+  offset: 0, 0
+  index: -1
+cs224
+  rotate: false
+  xy: 1519, 173
+  size: 264, 240
+  orig: 264, 240
+  offset: 0, 0
+  index: -1
+cs225
+  rotate: false
+  xy: 2, 9
+  size: 1250, 690
+  orig: 1250, 690
+  offset: 0, 0
+  index: -1
+cs226
+  rotate: false
+  xy: 1486, 923
+  size: 486, 1123
+  orig: 486, 1123
+  offset: 0, 0
+  index: -1
+cs227
+  rotate: false
+  xy: 1783, 464
+  size: 237, 238
+  orig: 237, 238
+  offset: 0, 0
+  index: -1
+cs228
+  rotate: false
+  xy: 2, 701
+  size: 1482, 1345
+  orig: 1482, 1345
+  offset: 0, 0
+  index: -1
