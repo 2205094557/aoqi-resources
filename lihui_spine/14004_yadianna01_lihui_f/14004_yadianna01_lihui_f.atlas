@@ -1,0 +1,104 @@
+
+14004_yadianna01_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaiming1
+  rotate: false
+  xy: 825, 447
+  size: 152, 149
+  orig: 152, 149
+  offset: 0, 0
+  index: -1
+gaiming112
+  rotate: true
+  xy: 779, 54
+  size: 174, 69
+  orig: 174, 69
+  offset: 0, 0
+  index: -1
+gaiming113
+  rotate: true
+  xy: 779, 230
+  size: 215, 80
+  orig: 215, 80
+  offset: 0, 0
+  index: -1
+gaiming114
+  rotate: true
+  xy: 624, 740
+  size: 259, 356
+  orig: 259, 356
+  offset: 0, 0
+  index: -1
+gaiming115
+  rotate: false
+  xy: 2, 485
+  size: 568, 263
+  orig: 568, 263
+  offset: 0, 0
+  index: -1
+gaiming119
+  rotate: true
+  xy: 547, 15
+  size: 468, 230
+  orig: 468, 230
+  offset: 0, 0
+  index: -1
+gaiming2
+  rotate: false
+  xy: 861, 339
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+gaiming25
+  rotate: false
+  xy: 861, 231
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+gaiming3
+  rotate: false
+  xy: 489, 152
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+gaiming4
+  rotate: false
+  xy: 572, 598
+  size: 430, 140
+  orig: 430, 140
+  offset: 0, 0
+  index: -1
+gaiming5
+  rotate: true
+  xy: 572, 494
+  size: 102, 251
+  orig: 102, 251
+  offset: 0, 0
+  index: -1
+gaiming7
+  rotate: false
+  xy: 2, 2
+  size: 485, 219
+  orig: 485, 219
+  offset: 0, 0
+  index: -1
+gaiming9a
+  rotate: false
+  xy: 2, 750
+  size: 620, 249
+  orig: 620, 249
+  offset: 0, 0
+  index: -1
+tw2
+  rotate: false
+  xy: 2, 223
+  size: 543, 260
+  orig: 543, 260
+  offset: 0, 0
+  index: -1
