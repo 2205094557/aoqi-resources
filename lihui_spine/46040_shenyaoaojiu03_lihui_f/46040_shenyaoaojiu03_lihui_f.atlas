@@ -1,0 +1,76 @@
+
+46040_shenyaoaojiu03_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lyjdnpl72_1 #r40
+  rotate: false
+  xy: 2, 2
+  size: 343, 272
+  orig: 343, 272
+  offset: 0, 0
+  index: -1
+s60
+  rotate: false
+  xy: 1910, 1626
+  size: 100, 369
+  orig: 100, 369
+  offset: 0, 0
+  index: -1
+s61
+  rotate: true
+  xy: 1191, 242
+  size: 381, 168
+  orig: 381, 168
+  offset: 0, 0
+  index: -1
+s62
+  rotate: true
+  xy: 1361, 255
+  size: 84, 193
+  orig: 84, 193
+  offset: 0, 0
+  index: -1
+s63
+  rotate: false
+  xy: 347, 72
+  size: 341, 202
+  orig: 341, 202
+  offset: 0, 0
+  index: -1
+s64
+  rotate: false
+  xy: 1361, 341
+  size: 443, 144
+  orig: 443, 144
+  offset: 0, 0
+  index: -1
+s66
+  rotate: true
+  xy: 2, 625
+  size: 377, 1357
+  orig: 377, 1357
+  offset: 0, 0
+  index: -1
+s67
+  rotate: true
+  xy: 2, 276
+  size: 347, 1187
+  orig: 347, 1187
+  offset: 0, 0
+  index: -1
+s68
+  rotate: false
+  xy: 2, 1004
+  size: 1906, 991
+  orig: 1906, 991
+  offset: 0, 0
+  index: -1
+s69
+  rotate: false
+  xy: 1361, 487
+  size: 671, 515
+  orig: 671, 515
+  offset: 0, 0
+  index: -1
