@@ -1,0 +1,76 @@
+
+12018_shenyaolongyan_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc122
+  rotate: false
+  xy: 1231, 334
+  size: 446, 979
+  orig: 446, 979
+  offset: 0, 0
+  index: -1
+xc123
+  rotate: false
+  xy: 1503, 1360
+  size: 121, 650
+  orig: 121, 650
+  offset: 0, 0
+  index: -1
+xc125
+  rotate: true
+  xy: 2, 56
+  size: 320, 721
+  orig: 320, 721
+  offset: 0, 0
+  index: -1
+xc191
+  rotate: false
+  xy: 2, 1315
+  size: 1499, 695
+  orig: 1499, 695
+  offset: 0, 0
+  index: -1
+xc33
+  rotate: false
+  xy: 1503, 1332
+  size: 68, 26
+  orig: 68, 26
+  offset: 0, 0
+  index: -1
+xc34
+  rotate: false
+  xy: 2, 2
+  size: 368, 52
+  orig: 368, 52
+  offset: 0, 0
+  index: -1
+xc35
+  rotate: false
+  xy: 725, 136
+  size: 736, 196
+  orig: 736, 196
+  offset: 0, 0
+  index: -1
+xc36
+  rotate: false
+  xy: 1463, 237
+  size: 148, 95
+  orig: 148, 95
+  offset: 0, 0
+  index: -1
+xc37
+  rotate: false
+  xy: 1626, 1897
+  size: 253, 113
+  orig: 253, 113
+  offset: 0, 0
+  index: -1
+xc38
+  rotate: false
+  xy: 2, 378
+  size: 1227, 935
+  orig: 1227, 935
+  offset: 0, 0
+  index: -1
