@@ -1,0 +1,69 @@
+
+16013_yishi_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yishi_200
+  rotate: true
+  xy: 2, 156
+  size: 149, 950
+  orig: 149, 950
+  offset: 0, 0
+  index: -1
+yishi_201
+  rotate: false
+  xy: 1779, 282
+  size: 101, 23
+  orig: 101, 23
+  offset: 0, 0
+  index: -1
+yishi_202
+  rotate: true
+  xy: 2017, 1973
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+yishi_203
+  rotate: true
+  xy: 1889, 1085
+  size: 318, 80
+  orig: 318, 80
+  offset: 0, 0
+  index: -1
+yishi_204
+  rotate: false
+  xy: 2, 15
+  size: 217, 40
+  orig: 217, 40
+  offset: 0, 0
+  index: -1
+yishi_205
+  rotate: false
+  xy: 2, 57
+  size: 540, 97
+  orig: 540, 97
+  offset: 0, 0
+  index: -1
+yishi_206
+  rotate: false
+  xy: 1889, 1405
+  size: 126, 630
+  orig: 126, 630
+  offset: 0, 0
+  index: -1
+yishi_207
+  rotate: true
+  xy: 954, 110
+  size: 195, 823
+  orig: 195, 823
+  offset: 0, 0
+  index: -1
+yishi_208
+  rotate: false
+  xy: 2, 307
+  size: 1885, 1728
+  orig: 1885, 1728
+  offset: 0, 0
+  index: -1
