@@ -1,0 +1,62 @@
+
+20037_asatuosi_lihui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 786
+  size: 1202, 1249
+  orig: 1202, 1249
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1340, 340
+  size: 675, 234
+  orig: 675, 234
+  offset: 0, 0
+  index: -1
+a0
+  rotate: false
+  xy: 2, 2
+  size: 586, 189
+  orig: 586, 189
+  offset: 0, 0
+  index: -1
+a1
+  rotate: true
+  xy: 715, 153
+  size: 340, 623
+  orig: 340, 623
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 2, 495
+  size: 289, 1025
+  orig: 289, 1025
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 2, 193
+  size: 300, 711
+  orig: 300, 711
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 1206, 576
+  size: 712, 234
+  orig: 712, 234
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 1206, 812
+  size: 837, 1223
+  orig: 837, 1223
+  offset: 0, 0
+  index: -1
