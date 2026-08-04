@@ -1,0 +1,62 @@
+
+14011_wangzheciyuanlong01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chunyi_0
+  rotate: false
+  xy: 948, 676
+  size: 663, 1361
+  orig: 663, 1361
+  offset: 0, 0
+  index: -1
+chunyi_1
+  rotate: false
+  xy: 2, 524
+  size: 944, 1513
+  orig: 944, 1513
+  offset: 0, 0
+  index: -1
+chunyi_2
+  rotate: false
+  xy: 1613, 1319
+  size: 332, 718
+  orig: 332, 718
+  offset: 0, 0
+  index: -1
+chunyi_3
+  rotate: true
+  xy: 2, 2
+  size: 520, 652
+  orig: 520, 652
+  offset: 0, 0
+  index: -1
+chunyi_4
+  rotate: false
+  xy: 1947, 2020
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+chunyi_5
+  rotate: false
+  xy: 656, 475
+  size: 151, 47
+  orig: 151, 47
+  offset: 0, 0
+  index: -1
+chunyi_6
+  rotate: false
+  xy: 1613, 1291
+  size: 86, 26
+  orig: 86, 26
+  offset: 0, 0
+  index: -1
+chunyi_7
+  rotate: false
+  xy: 948, 576
+  size: 210, 98
+  orig: 210, 98
+  offset: 0, 0
+  index: -1

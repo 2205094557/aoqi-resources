@@ -1,0 +1,41 @@
+
+11040_yuanqiwangzhezhixu03_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+batai_16
+  rotate: false
+  xy: 2, 2
+  size: 958, 855
+  orig: 958, 855
+  offset: 0, 0
+  index: -1
+batai_17
+  rotate: true
+  xy: 962, 252
+  size: 605, 434
+  orig: 605, 434
+  offset: 0, 0
+  index: -1
+batai_18
+  rotate: true
+  xy: 1346, 1039
+  size: 937, 508
+  orig: 937, 508
+  offset: 0, 0
+  index: -1
+batai_2
+  rotate: false
+  xy: 962, 32
+  size: 315, 218
+  orig: 315, 218
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 2, 859
+  size: 1342, 1117
+  orig: 1342, 1117
+  offset: 0, 0
+  index: -1

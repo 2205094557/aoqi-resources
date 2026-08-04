@@ -1,0 +1,125 @@
+
+11012_teshamu01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dvzvvx_100-1
+  rotate: true
+  xy: 2, 37
+  size: 593, 1296
+  orig: 593, 1296
+  offset: 0, 0
+  index: -1
+dvzvvx_102
+  rotate: false
+  xy: 1469, 632
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+dvzvvx_103
+  rotate: false
+  xy: 1759, 125
+  size: 111, 188
+  orig: 111, 188
+  offset: 0, 0
+  index: -1
+dvzvvx_104
+  rotate: true
+  xy: 1764, 1118
+  size: 266, 262
+  orig: 266, 262
+  offset: 0, 0
+  index: -1
+dvzvvx_120-1
+  rotate: true
+  xy: 2, 11
+  size: 24, 698
+  orig: 24, 698
+  offset: 0, 0
+  index: -1
+dvzvvx_122-1
+  rotate: false
+  xy: 1764, 1386
+  size: 26, 596
+  orig: 26, 596
+  offset: 0, 0
+  index: -1
+dvzvvx_130
+  rotate: false
+  xy: 1300, 2
+  size: 387, 153
+  orig: 387, 153
+  offset: 0, 0
+  index: -1
+dvzvvx_131
+  rotate: false
+  xy: 1759, 315
+  size: 115, 360
+  orig: 115, 360
+  offset: 0, 0
+  index: -1
+dvzvvx_132
+  rotate: true
+  xy: 1576, 1018
+  size: 964, 186
+  orig: 964, 186
+  offset: 0, 0
+  index: -1
+dvzvvx_133
+  rotate: true
+  xy: 1469, 686
+  size: 1296, 105
+  orig: 1296, 105
+  offset: 0, 0
+  index: -1
+dvzvvx_134
+  rotate: false
+  xy: 1876, 363
+  size: 146, 312
+  orig: 146, 312
+  offset: 0, 0
+  index: -1
+dvzvvx_135
+  rotate: false
+  xy: 2, 632
+  size: 1465, 1350
+  orig: 1465, 1350
+  offset: 0, 0
+  index: -1
+dvzvvx_82-22
+  rotate: true
+  xy: 1689, 94
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+yanhua1
+  rotate: false
+  xy: 1792, 1444
+  size: 236, 229
+  orig: 236, 229
+  offset: 0, 0
+  index: -1
+yanhua2
+  rotate: false
+  xy: 1300, 157
+  size: 457, 473
+  orig: 457, 473
+  offset: 0, 0
+  index: -1
+yanhua3
+  rotate: false
+  xy: 1792, 1675
+  size: 236, 307
+  orig: 236, 307
+  offset: 0, 0
+  index: -1
+yanhua4
+  rotate: false
+  xy: 1576, 677
+  size: 370, 339
+  orig: 370, 339
+  offset: 0, 0
+  index: -1
