@@ -1,0 +1,174 @@
+
+14005_zhumengnuoya_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dayi2
+  rotate: false
+  xy: 598, 144
+  size: 192, 104
+  orig: 192, 104
+  offset: 0, 0
+  index: -1
+dayi8
+  rotate: true
+  xy: 725, 8
+  size: 134, 107
+  orig: 134, 107
+  offset: 0, 0
+  index: -1
+huang2
+  rotate: false
+  xy: 346, 13
+  size: 144, 31
+  orig: 144, 31
+  offset: 0, 0
+  index: -1
+huang3
+  rotate: false
+  xy: 492, 2
+  size: 181, 46
+  orig: 181, 46
+  offset: 0, 0
+  index: -1
+kou1
+  rotate: true
+  xy: 503, 52
+  size: 20, 59
+  orig: 20, 59
+  offset: 0, 0
+  index: -1
+kou2
+  rotate: true
+  xy: 564, 52
+  size: 20, 57
+  orig: 20, 57
+  offset: 0, 0
+  index: -1
+lin6
+  rotate: false
+  xy: 705, 126
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+lin7
+  rotate: true
+  xy: 686, 117
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+suipian1
+  rotate: false
+  xy: 670, 93
+  size: 53, 17
+  orig: 53, 17
+  offset: 0, 0
+  index: -1
+suipian2
+  rotate: false
+  xy: 186, 11
+  size: 158, 33
+  orig: 158, 33
+  offset: 0, 0
+  index: -1
+suipian3
+  rotate: false
+  xy: 503, 74
+  size: 108, 35
+  orig: 108, 35
+  offset: 0, 0
+  index: -1
+suipian4
+  rotate: true
+  xy: 598, 112
+  size: 30, 86
+  orig: 30, 86
+  offset: 0, 0
+  index: -1
+suipian5
+  rotate: true
+  xy: 356, 50
+  size: 59, 145
+  orig: 59, 145
+  offset: 0, 0
+  index: -1
+texiao10
+  rotate: false
+  xy: 186, 46
+  size: 168, 202
+  orig: 168, 202
+  offset: 0, 0
+  index: -1
+xinkong
+  rotate: false
+  xy: 2, 644
+  size: 1290, 1400
+  orig: 1290, 1400
+  offset: 0, 0
+  index: -1
+xinxin2
+  rotate: true
+  xy: 2, 17
+  size: 231, 182
+  orig: 231, 182
+  offset: 0, 0
+  index: -1
+xinxin3
+  rotate: true
+  xy: 356, 111
+  size: 137, 240
+  orig: 137, 240
+  offset: 0, 0
+  index: -1
+xinxin4
+  rotate: false
+  xy: 834, 48
+  size: 157, 200
+  orig: 157, 200
+  offset: 0, 0
+  index: -1
+zhumenqi1
+  rotate: false
+  xy: 613, 85
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+zhumenqi2
+  rotate: false
+  xy: 623, 60
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+zhumenqi3
+  rotate: false
+  xy: 1555, 19
+  size: 480, 663
+  orig: 480, 663
+  offset: 0, 0
+  index: -1
+zhumenqi4
+  rotate: false
+  xy: 1294, 1085
+  size: 568, 959
+  orig: 568, 959
+  offset: 0, 0
+  index: -1
+zhumenqi5
+  rotate: true
+  xy: 1294, 684
+  size: 399, 570
+  orig: 399, 570
+  offset: 0, 0
+  index: -1
+zhumenqi6
+  rotate: true
+  xy: 2, 250
+  size: 392, 1551
+  orig: 392, 1551
+  offset: 0, 0
+  index: -1
