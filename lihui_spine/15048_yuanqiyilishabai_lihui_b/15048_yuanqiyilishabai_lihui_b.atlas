@@ -1,0 +1,132 @@
+
+15048_yuanqiyilishabai_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_0
+  rotate: false
+  xy: 974, 1396
+  size: 696, 647
+  orig: 696, 647
+  offset: 0, 0
+  index: -1
+H_10
+  rotate: true
+  xy: 2, 2
+  size: 599, 716
+  orig: 599, 716
+  offset: 0, 0
+  index: -1
+H_11
+  rotate: true
+  xy: 720, 19
+  size: 356, 624
+  orig: 356, 624
+  offset: 0, 0
+  index: -1
+H_12
+  rotate: false
+  xy: 974, 603
+  size: 554, 791
+  orig: 554, 791
+  offset: 0, 0
+  index: -1
+H_13
+  rotate: false
+  xy: 2, 1272
+  size: 970, 771
+  orig: 970, 771
+  offset: 0, 0
+  index: -1
+H_14
+  rotate: false
+  xy: 2, 800
+  size: 464, 470
+  orig: 464, 470
+  offset: 0, 0
+  index: -1
+H_15
+  rotate: true
+  xy: 1346, 58
+  size: 279, 434
+  orig: 279, 434
+  offset: 0, 0
+  index: -1
+H_16
+  rotate: false
+  xy: 928, 398
+  size: 566, 203
+  orig: 566, 203
+  offset: 0, 0
+  index: -1
+H_17
+  rotate: true
+  xy: 1530, 339
+  size: 877, 480
+  orig: 877, 480
+  offset: 0, 0
+  index: -1
+H_18
+  rotate: false
+  xy: 1605, 1262
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+H_19
+  rotate: false
+  xy: 1672, 1218
+  size: 348, 825
+  orig: 348, 825
+  offset: 0, 0
+  index: -1
+H_3
+  rotate: false
+  xy: 2, 605
+  size: 603, 193
+  orig: 603, 193
+  offset: 0, 0
+  index: -1
+H_4
+  rotate: true
+  xy: 720, 377
+  size: 893, 206
+  orig: 893, 206
+  offset: 0, 0
+  index: -1
+H_5
+  rotate: false
+  xy: 1782, 115
+  size: 249, 222
+  orig: 249, 222
+  offset: 0, 0
+  index: -1
+H_6
+  rotate: true
+  xy: 2022, 1995
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+H_7
+  rotate: false
+  xy: 2022, 1947
+  size: 11, 46
+  orig: 11, 46
+  offset: 0, 0
+  index: -1
+Q_2
+  rotate: false
+  xy: 1530, 1245
+  size: 73, 149
+  orig: 73, 149
+  offset: 0, 0
+  index: -1
+Q_3
+  rotate: false
+  xy: 1605, 1298
+  size: 34, 96
+  orig: 34, 96
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+10370_niumei_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaiming_0
+  rotate: false
+  xy: 1765, 798
+  size: 219, 211
+  orig: 219, 211
+  offset: 0, 0
+  index: -1
+gaiming_1
+  rotate: true
+  xy: 664, 2
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+gaiming_142
+  rotate: false
+  xy: 1473, 1011
+  size: 436, 331
+  orig: 436, 331
+  offset: 0, 0
+  index: -1
+gaiming_143
+  rotate: false
+  xy: 1208, 219
+  size: 216, 188
+  orig: 216, 188
+  offset: 0, 0
+  index: -1
+gaiming_144
+  rotate: true
+  xy: 1237, 457
+  size: 315, 187
+  orig: 315, 187
+  offset: 0, 0
+  index: -1
+gaiming_145
+  rotate: false
+  xy: 1112, 992
+  size: 359, 363
+  orig: 359, 363
+  offset: 0, 0
+  index: -1
+gaiming_146
+  rotate: true
+  xy: 1441, 649
+  size: 173, 279
+  orig: 173, 279
+  offset: 0, 0
+  index: -1
+gaiming_147
+  rotate: true
+  xy: 2, 16
+  size: 293, 378
+  orig: 293, 378
+  offset: 0, 0
+  index: -1
+gaiming_148
+  rotate: false
+  xy: 1426, 478
+  size: 271, 169
+  orig: 271, 169
+  offset: 0, 0
+  index: -1
+gaiming_149
+  rotate: true
+  xy: 1236, 2
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+gaiming_15
+  rotate: false
+  xy: 1911, 1024
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+gaiming_150
+  rotate: true
+  xy: 2, 311
+  size: 489, 351
+  orig: 489, 351
+  offset: 0, 0
+  index: -1
+gaiming_151
+  rotate: false
+  xy: 952, 409
+  size: 283, 363
+  orig: 283, 363
+  offset: 0, 0
+  index: -1
+gaiming_152
+  rotate: false
+  xy: 1495, 1666
+  size: 471, 380
+  orig: 471, 380
+  offset: 0, 0
+  index: -1
+gaiming_153
+  rotate: true
+  xy: 1495, 1344
+  size: 320, 443
+  orig: 320, 443
+  offset: 0, 0
+  index: -1
+gaiming_154
+  rotate: false
+  xy: 382, 64
+  size: 280, 345
+  orig: 280, 345
+  offset: 0, 0
+  index: -1
+gaiming_155
+  rotate: true
+  xy: 1940, 1425
+  size: 239, 82
+  orig: 239, 82
+  offset: 0, 0
+  index: -1
+gaiming_156
+  rotate: false
+  xy: 1850, 527
+  size: 112, 128
+  orig: 112, 128
+  offset: 0, 0
+  index: -1
+gaiming_157
+  rotate: true
+  xy: 1473, 824
+  size: 185, 290
+  orig: 185, 290
+  offset: 0, 0
+  index: -1
+gaiming_158
+  rotate: false
+  xy: 1911, 1098
+  size: 101, 244
+  orig: 101, 244
+  offset: 0, 0
+  index: -1
+gaiming_159
+  rotate: false
+  xy: 1699, 496
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+gaiming_160
+  rotate: false
+  xy: 425, 811
+  size: 281, 544
+  orig: 281, 544
+  offset: 0, 0
+  index: -1
+gaiming_161
+  rotate: false
+  xy: 664, 104
+  size: 216, 327
+  orig: 216, 327
+  offset: 0, 0
+  index: -1
+gaiming_162
+  rotate: false
+  xy: 1722, 657
+  size: 226, 139
+  orig: 226, 139
+  offset: 0, 0
+  index: -1
+gaiming_163
+  rotate: false
+  xy: 1426, 225
+  size: 212, 140
+  orig: 212, 140
+  offset: 0, 0
+  index: -1
+gaiming_164
+  rotate: false
+  xy: 708, 982
+  size: 402, 373
+  orig: 402, 373
+  offset: 0, 0
+  index: -1
+gaiming_165
+  rotate: false
+  xy: 642, 433
+  size: 308, 339
+  orig: 308, 339
+  offset: 0, 0
+  index: -1
+gaiming_166
+  rotate: false
+  xy: 355, 411
+  size: 285, 389
+  orig: 285, 389
+  offset: 0, 0
+  index: -1
+gaiming_167
+  rotate: true
+  xy: 882, 190
+  size: 217, 324
+  orig: 217, 324
+  offset: 0, 0
+  index: -1
+gaiming_168
+  rotate: false
+  xy: 708, 774
+  size: 519, 206
+  orig: 519, 206
+  offset: 0, 0
+  index: -1
+gaiming_169
+  rotate: false
+  xy: 1426, 367
+  size: 233, 109
+  orig: 233, 109
+  offset: 0, 0
+  index: -1
+gaiming_170
+  rotate: false
+  xy: 2, 802
+  size: 421, 553
+  orig: 421, 553
+  offset: 0, 0
+  index: -1
+gaiming_171
+  rotate: false
+  xy: 2, 1357
+  size: 1491, 689
+  orig: 1491, 689
+  offset: 0, 0
+  index: -1
+gaiming_2
+  rotate: false
+  xy: 763, 5
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+gaiming_3
+  rotate: true
+  xy: 1229, 774
+  size: 216, 210
+  orig: 216, 210
+  offset: 0, 0
+  index: -1
+gaiming_41
+  rotate: false
+  xy: 882, 85
+  size: 352, 103
+  orig: 352, 103
+  offset: 0, 0
+  index: -1
+gaiming_5
+  rotate: true
+  xy: 1640, 238
+  size: 127, 123
+  orig: 127, 123
+  offset: 0, 0
+  index: -1
+gaiming_6
+  rotate: false
+  xy: 1699, 372
+  size: 126, 122
+  orig: 126, 122
+  offset: 0, 0
+  index: -1
+gaiming_70
+  rotate: true
+  xy: 1968, 1897
+  size: 149, 45
+  orig: 149, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+13030_yuanqiatelasi_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_beij_10
+  rotate: false
+  xy: 2, 37
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+H_beij_11
+  rotate: true
+  xy: 2007, 1937
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+H_beij_12
+  rotate: false
+  xy: 107, 281
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+H_beij_13
+  rotate: false
+  xy: 76, 216
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+H_beij_14
+  rotate: false
+  xy: 1434, 1127
+  size: 20, 83
+  orig: 20, 83
+  offset: 0, 0
+  index: -1
+H_beij_15
+  rotate: false
+  xy: 1456, 1145
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+H_beij_16
+  rotate: true
+  xy: 1434, 1065
+  size: 60, 14
+  orig: 60, 14
+  offset: 0, 0
+  index: -1
+H_beij_17
+  rotate: false
+  xy: 2, 60
+  size: 72, 239
+  orig: 72, 239
+  offset: 0, 0
+  index: -1
+H_beij_18
+  rotate: true
+  xy: 1434, 1212
+  size: 742, 510
+  orig: 742, 510
+  offset: 0, 0
+  index: -1
+H_beij_19
+  rotate: false
+  xy: 2, 301
+  size: 1430, 1653
+  orig: 1430, 1653
+  offset: 0, 0
+  index: -1
+H_beij_2
+  rotate: true
+  xy: 1434, 1046
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+H_beij_3
+  rotate: false
+  xy: 1477, 1182
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+H_beij_4
+  rotate: false
+  xy: 1946, 1926
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+H_beij_5
+  rotate: false
+  xy: 2, 2
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+H_beij_6
+  rotate: false
+  xy: 76, 249
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+H_beij_7
+  rotate: false
+  xy: 1456, 1176
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+H_beij_8
+  rotate: false
+  xy: 1946, 1891
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+H_beij_9
+  rotate: false
+  xy: 1965, 1905
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
