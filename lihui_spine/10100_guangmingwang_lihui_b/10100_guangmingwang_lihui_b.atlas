@@ -1,0 +1,55 @@
+
+10100_guangmingwang_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+135
+  rotate: false
+  xy: 1552, 658
+  size: 182, 133
+  orig: 182, 133
+  offset: 0, 0
+  index: -1
+137
+  rotate: false
+  xy: 1552, 793
+  size: 456, 1221
+  orig: 456, 1221
+  offset: 0, 0
+  index: -1
+140
+  rotate: false
+  xy: 2, 406
+  size: 829, 248
+  orig: 829, 248
+  offset: 0, 0
+  index: -1
+141
+  rotate: true
+  xy: 2, 2
+  size: 402, 630
+  orig: 402, 630
+  offset: 0, 0
+  index: -1
+142
+  rotate: false
+  xy: 833, 582
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+143
+  rotate: false
+  xy: 2, 656
+  size: 1087, 1358
+  orig: 1087, 1358
+  offset: 0, 0
+  index: -1
+144
+  rotate: true
+  xy: 1091, 316
+  size: 1698, 459
+  orig: 1698, 459
+  offset: 0, 0
+  index: -1

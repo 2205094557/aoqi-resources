@@ -1,0 +1,167 @@
+
+10100_guangmingwang01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 483
+  size: 1719, 1563
+  orig: 1719, 1563
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 1920, 850
+  size: 545, 102
+  orig: 545, 102
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: false
+  xy: 1723, 815
+  size: 195, 580
+  orig: 195, 580
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: false
+  xy: 891, 457
+  size: 673, 24
+  orig: 673, 24
+  offset: 0, 0
+  index: -1
+qi3
+  rotate: true
+  xy: 2, 437
+  size: 44, 887
+  orig: 44, 887
+  offset: 0, 0
+  index: -1
+qi4
+  rotate: false
+  xy: 1923, 1573
+  size: 123, 473
+  orig: 123, 473
+  offset: 0, 0
+  index: -1
+qi5
+  rotate: true
+  xy: 1927, 292
+  size: 181, 74
+  orig: 181, 74
+  offset: 0, 0
+  index: -1
+qi6
+  rotate: false
+  xy: 1635, 206
+  size: 68, 275
+  orig: 68, 275
+  offset: 0, 0
+  index: -1
+qi6f
+  rotate: true
+  xy: 610, 221
+  size: 214, 235
+  orig: 214, 235
+  offset: 0, 0
+  index: -1
+ren1
+  rotate: true
+  xy: 1723, 475
+  size: 338, 302
+  orig: 338, 302
+  offset: 0, 0
+  index: -1
+ren2
+  rotate: false
+  xy: 1222, 82
+  size: 305, 334
+  orig: 305, 334
+  offset: 0, 0
+  index: -1
+shengti3
+  rotate: true
+  xy: 847, 132
+  size: 284, 373
+  orig: 284, 373
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 827, 41
+  size: 313, 89
+  orig: 313, 89
+  offset: 0, 0
+  index: -1
+shoubu1
+  rotate: true
+  xy: 1705, 162
+  size: 126, 257
+  orig: 126, 257
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1705, 290
+  size: 220, 183
+  orig: 220, 183
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 1635, 99
+  size: 61, 226
+  orig: 61, 226
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 458, 2
+  size: 78, 367
+  orig: 78, 367
+  offset: 0, 0
+  index: -1
+wuqi3
+  rotate: false
+  xy: 1923, 1399
+  size: 104, 172
+  orig: 104, 172
+  offset: 0, 0
+  index: -1
+wuqi4
+  rotate: true
+  xy: 891, 418
+  size: 37, 613
+  orig: 37, 613
+  offset: 0, 0
+  index: -1
+yanwu3
+  rotate: true
+  xy: 2, 255
+  size: 180, 606
+  orig: 180, 606
+  offset: 0, 0
+  index: -1
+yanwu5
+  rotate: true
+  xy: 1529, 61
+  size: 394, 104
+  orig: 394, 104
+  offset: 0, 0
+  index: -1
+yanwu6
+  rotate: false
+  xy: 2, 39
+  size: 454, 214
+  orig: 454, 214
+  offset: 0, 0
+  index: -1
+yyys
+  rotate: true
+  xy: 1723, 1397
+  size: 649, 198
+  orig: 649, 198
+  offset: 0, 0
+  index: -1
