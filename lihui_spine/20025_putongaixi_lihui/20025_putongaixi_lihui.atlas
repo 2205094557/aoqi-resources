@@ -1,0 +1,41 @@
+
+20025_putongaixi_lihui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 1672, 2024
+  orig: 1672, 2024
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 1676, 1723
+  size: 129, 150
+  orig: 129, 150
+  offset: 0, 0
+  index: -1
+jy
+  rotate: false
+  xy: 1676, 1875
+  size: 132, 151
+  orig: 132, 151
+  offset: 0, 0
+  index: -1
+ng
+  rotate: false
+  xy: 1676, 1578
+  size: 129, 143
+  orig: 129, 143
+  offset: 0, 0
+  index: -1
+sq
+  rotate: false
+  xy: 1810, 1906
+  size: 155, 120
+  orig: 155, 120
+  offset: 0, 0
+  index: -1
