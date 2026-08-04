@@ -1,0 +1,153 @@
+
+14020_wangzhenuoya01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_2
+  rotate: false
+  xy: 2, 589
+  size: 652, 702
+  orig: 652, 702
+  offset: 0, 0
+  index: -1
+qian_1
+  rotate: false
+  xy: 92, 216
+  size: 5, 41
+  orig: 5, 41
+  offset: 0, 0
+  index: -1
+qian_10
+  rotate: false
+  xy: 860, 1239
+  size: 271, 52
+  orig: 271, 52
+  offset: 0, 0
+  index: -1
+qian_11
+  rotate: false
+  xy: 146, 384
+  size: 202, 85
+  orig: 202, 85
+  offset: 0, 0
+  index: -1
+qian_12
+  rotate: false
+  xy: 2, 471
+  size: 425, 116
+  orig: 425, 116
+  offset: 0, 0
+  index: -1
+qian_13
+  rotate: true
+  xy: 656, 705
+  size: 260, 65
+  orig: 260, 65
+  offset: 0, 0
+  index: -1
+qian_15
+  rotate: false
+  xy: 1133, 1250
+  size: 178, 41
+  orig: 178, 41
+  offset: 0, 0
+  index: -1
+qian_16
+  rotate: true
+  xy: 2, 54
+  size: 203, 88
+  orig: 203, 88
+  offset: 0, 0
+  index: -1
+qian_18
+  rotate: true
+  xy: 656, 601
+  size: 102, 5
+  orig: 102, 5
+  offset: 0, 0
+  index: -1
+qian_19
+  rotate: true
+  xy: 2022, 1883
+  size: 110, 5
+  orig: 110, 5
+  offset: 0, 0
+  index: -1
+qian_2
+  rotate: false
+  xy: 623, 513
+  size: 5, 74
+  orig: 5, 74
+  offset: 0, 0
+  index: -1
+qian_21
+  rotate: true
+  xy: 723, 764
+  size: 201, 85
+  orig: 201, 85
+  offset: 0, 0
+  index: -1
+qian_22
+  rotate: false
+  xy: 2, 1293
+  size: 1956, 700
+  orig: 1956, 700
+  offset: 0, 0
+  index: -1
+qian_4
+  rotate: false
+  xy: 146, 347
+  size: 5, 35
+  orig: 5, 35
+  offset: 0, 0
+  index: -1
+qian_5
+  rotate: false
+  xy: 2, 2
+  size: 5, 50
+  orig: 5, 50
+  offset: 0, 0
+  index: -1
+qian_9
+  rotate: true
+  xy: 1960, 1622
+  size: 371, 60
+  orig: 371, 60
+  offset: 0, 0
+  index: -1
+qian_yudi_1
+  rotate: false
+  xy: 429, 477
+  size: 192, 110
+  orig: 192, 110
+  offset: 0, 0
+  index: -1
+qian_yudi_2
+  rotate: false
+  xy: 2, 259
+  size: 142, 210
+  orig: 142, 210
+  offset: 0, 0
+  index: -1
+qian_yudi_3
+  rotate: false
+  xy: 656, 967
+  size: 202, 324
+  orig: 202, 324
+  offset: 0, 0
+  index: -1
+qian_yudi_4
+  rotate: false
+  xy: 860, 1165
+  size: 202, 72
+  orig: 202, 72
+  offset: 0, 0
+  index: -1
+qian_yudi_5
+  rotate: false
+  xy: 1960, 1429
+  size: 44, 191
+  orig: 44, 191
+  offset: 0, 0
+  index: -1

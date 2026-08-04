@@ -1,0 +1,83 @@
+
+14017_wudi_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc0
+  rotate: false
+  xy: 2, 740
+  size: 860, 1251
+  orig: 860, 1251
+  offset: 0, 0
+  index: -1
+xc1
+  rotate: false
+  xy: 1531, 839
+  size: 485, 218
+  orig: 485, 218
+  offset: 0, 0
+  index: -1
+xc10
+  rotate: false
+  xy: 1428, 525
+  size: 417, 312
+  orig: 417, 312
+  offset: 0, 0
+  index: -1
+xc2
+  rotate: false
+  xy: 2, 64
+  size: 1266, 309
+  orig: 1266, 309
+  offset: 0, 0
+  index: -1
+xc3
+  rotate: true
+  xy: 1428, 231
+  size: 292, 427
+  orig: 292, 427
+  offset: 0, 0
+  index: -1
+xc4
+  rotate: false
+  xy: 864, 1027
+  size: 665, 964
+  orig: 665, 964
+  offset: 0, 0
+  index: -1
+xc5
+  rotate: true
+  xy: 2, 375
+  size: 363, 1424
+  orig: 363, 1424
+  offset: 0, 0
+  index: -1
+xc6
+  rotate: false
+  xy: 864, 770
+  size: 548, 255
+  orig: 548, 255
+  offset: 0, 0
+  index: -1
+xc7
+  rotate: false
+  xy: 2, 2
+  size: 411, 60
+  orig: 411, 60
+  offset: 0, 0
+  index: -1
+xc8
+  rotate: true
+  xy: 1531, 1059
+  size: 932, 511
+  orig: 932, 511
+  offset: 0, 0
+  index: -1
+xc9
+  rotate: true
+  xy: 2018, 975
+  size: 82, 15
+  orig: 82, 15
+  offset: 0, 0
+  index: -1

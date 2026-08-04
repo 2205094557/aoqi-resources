@@ -1,0 +1,83 @@
+
+16005_wuxianweilai_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 293, 1588
+  size: 887, 441
+  orig: 887, 441
+  offset: 0, 0
+  index: -1
+jixie1
+  rotate: true
+  xy: 976, 1268
+  size: 318, 300
+  orig: 318, 300
+  offset: 0, 0
+  index: -1
+jixie2
+  rotate: true
+  xy: 679, 811
+  size: 413, 236
+  orig: 413, 236
+  offset: 0, 0
+  index: -1
+jixie3
+  rotate: false
+  xy: 293, 1226
+  size: 681, 360
+  orig: 681, 360
+  offset: 0, 0
+  index: -1
+jixie4
+  rotate: false
+  xy: 679, 615
+  size: 255, 194
+  orig: 255, 194
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 1182, 1735
+  size: 513, 81
+  orig: 513, 81
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 2, 625
+  size: 289, 1404
+  orig: 289, 1404
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: true
+  xy: 2, 111
+  size: 512, 243
+  orig: 512, 243
+  offset: 0, 0
+  index: -1
+texiao4
+  rotate: false
+  xy: 1182, 1818
+  size: 782, 211
+  orig: 782, 211
+  offset: 0, 0
+  index: -1
+texiao82222222222
+  rotate: false
+  xy: 293, 682
+  size: 384, 542
+  orig: 384, 542
+  offset: 0, 0
+  index: -1
+xiangsu3
+  rotate: false
+  xy: 2, 2
+  size: 101, 107
+  orig: 101, 107
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+17012_sada01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 2
+  size: 773, 644
+  orig: 773, 644
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 2, 648
+  size: 1843, 1297
+  orig: 1843, 1297
+  offset: 0, 0
+  index: -1

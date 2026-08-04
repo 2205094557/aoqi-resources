@@ -1,0 +1,97 @@
+
+14001_shenqinuoya_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 682, 218
+  size: 145, 356
+  orig: 145, 356
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 1143, 530
+  size: 93, 177
+  orig: 93, 177
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 1283
+  size: 1306, 763
+  orig: 1306, 763
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 625
+  size: 1389, 656
+  orig: 1389, 656
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 357, 508
+  size: 784, 115
+  orig: 784, 115
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1310, 1283
+  size: 248, 92
+  orig: 248, 92
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 682, 365
+  size: 141, 446
+  orig: 141, 446
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1310, 1822
+  size: 447, 224
+  orig: 447, 224
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1759, 1949
+  size: 135, 97
+  orig: 135, 97
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 357, 224
+  size: 323, 282
+  orig: 323, 282
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1310, 1570
+  size: 346, 250
+  orig: 346, 250
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 2
+  size: 353, 621
+  orig: 353, 621
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 1310, 1377
+  size: 191, 325
+  orig: 191, 325
+  offset: 0, 0
+  index: -1

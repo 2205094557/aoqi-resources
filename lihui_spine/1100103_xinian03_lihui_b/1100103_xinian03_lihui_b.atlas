@@ -1,0 +1,27 @@
+
+1100103_xinian03_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaiming221
+  rotate: false
+  xy: 2, 2
+  size: 945, 762
+  orig: 945, 762
+  offset: 0, 0
+  index: -1
+gaiming222
+  rotate: true
+  xy: 949, 33
+  size: 731, 588
+  orig: 731, 588
+  offset: 0, 0
+  index: -1
+gaiming223
+  rotate: false
+  xy: 2, 766
+  size: 1512, 1213
+  orig: 1512, 1213
+  offset: 0, 0
+  index: -1

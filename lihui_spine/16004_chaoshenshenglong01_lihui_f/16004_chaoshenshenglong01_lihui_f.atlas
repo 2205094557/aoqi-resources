@@ -1,0 +1,48 @@
+
+16004_chaoshenshenglong01_lihui_f.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huang1
+  rotate: false
+  xy: 2, 294
+  size: 1490, 203
+  orig: 1490, 203
+  offset: 0, 0
+  index: -1
+huang2
+  rotate: false
+  xy: 2, 182
+  size: 1118, 110
+  orig: 1118, 110
+  offset: 0, 0
+  index: -1
+xinxin1
+  rotate: true
+  xy: 1494, 289
+  size: 208, 381
+  orig: 208, 381
+  offset: 0, 0
+  index: -1
+xinxin2
+  rotate: false
+  xy: 1122, 41
+  size: 290, 251
+  orig: 290, 251
+  offset: 0, 0
+  index: -1
+xinxin3
+  rotate: false
+  xy: 2, 2
+  size: 368, 178
+  orig: 368, 178
+  offset: 0, 0
+  index: -1
+xinxin4
+  rotate: false
+  xy: 1414, 73
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1

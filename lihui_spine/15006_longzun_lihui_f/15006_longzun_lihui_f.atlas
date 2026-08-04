@@ -1,0 +1,174 @@
+
+15006_longzun_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitou1
+  rotate: true
+  xy: 1262, 15
+  size: 197, 291
+  orig: 197, 291
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: false
+  xy: 996, 214
+  size: 952, 357
+  orig: 952, 357
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: false
+  xy: 1555, 89
+  size: 237, 123
+  orig: 237, 123
+  offset: 0, 0
+  index: -1
+shitou4
+  rotate: true
+  xy: 1566, 587
+  size: 119, 327
+  orig: 119, 327
+  offset: 0, 0
+  index: -1
+shitou7
+  rotate: false
+  xy: 1794, 54
+  size: 138, 158
+  orig: 138, 158
+  offset: 0, 0
+  index: -1
+shitou8
+  rotate: true
+  xy: 1918, 840
+  size: 189, 101
+  orig: 189, 101
+  offset: 0, 0
+  index: -1
+texiao12
+  rotate: true
+  xy: 536, 28
+  size: 219, 311
+  orig: 219, 311
+  offset: 0, 0
+  index: -1
+texiao13
+  rotate: true
+  xy: 2, 249
+  size: 322, 992
+  orig: 322, 992
+  offset: 0, 0
+  index: -1
+texiao14
+  rotate: false
+  xy: 849, 223
+  size: 87, 24
+  orig: 87, 24
+  offset: 0, 0
+  index: -1
+texiao15
+  rotate: false
+  xy: 1154, 580
+  size: 410, 115
+  orig: 410, 115
+  offset: 0, 0
+  index: -1
+texiao16
+  rotate: false
+  xy: 1154, 866
+  size: 762, 163
+  orig: 762, 163
+  offset: 0, 0
+  index: -1
+texiao17
+  rotate: false
+  xy: 849, 30
+  size: 236, 78
+  orig: 236, 78
+  offset: 0, 0
+  index: -1
+texiao18
+  rotate: false
+  xy: 1087, 63
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+texiao19
+  rotate: false
+  xy: 1998, 1763
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+texiao20
+  rotate: false
+  xy: 1555, 14
+  size: 237, 73
+  orig: 237, 73
+  offset: 0, 0
+  index: -1
+texiao21
+  rotate: true
+  xy: 1154, 697
+  size: 167, 392
+  orig: 167, 392
+  offset: 0, 0
+  index: -1
+texiao22
+  rotate: false
+  xy: 1899, 727
+  size: 108, 111
+  orig: 108, 111
+  offset: 0, 0
+  index: -1
+texiao23
+  rotate: false
+  xy: 2, 28
+  size: 532, 219
+  orig: 532, 219
+  offset: 0, 0
+  index: -1
+texiao24
+  rotate: false
+  xy: 2, 1031
+  size: 1994, 1006
+  orig: 1994, 1006
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: true
+  xy: 1998, 1789
+  size: 248, 30
+  orig: 248, 30
+  offset: 0, 0
+  index: -1
+texiao4
+  rotate: false
+  xy: 2, 573
+  size: 1150, 456
+  orig: 1150, 456
+  offset: 0, 0
+  index: -1
+texiao7
+  rotate: false
+  xy: 1794, 2
+  size: 177, 50
+  orig: 177, 50
+  offset: 0, 0
+  index: -1
+texiao8
+  rotate: false
+  xy: 849, 110
+  size: 411, 102
+  orig: 411, 102
+  offset: 0, 0
+  index: -1
+texiao9
+  rotate: false
+  xy: 1548, 708
+  size: 349, 156
+  orig: 349, 156
+  offset: 0, 0
+  index: -1

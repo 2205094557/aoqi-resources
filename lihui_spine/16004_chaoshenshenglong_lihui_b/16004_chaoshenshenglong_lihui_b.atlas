@@ -1,0 +1,97 @@
+
+16004_chaoshenshenglong_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huang
+  rotate: false
+  xy: 714, 334
+  size: 283, 669
+  orig: 283, 669
+  offset: 0, 0
+  index: -1
+shitou11
+  rotate: false
+  xy: 1084, 28
+  size: 310, 381
+  orig: 310, 381
+  offset: 0, 0
+  index: -1
+shitou12
+  rotate: false
+  xy: 2, 107
+  size: 710, 1929
+  orig: 710, 1929
+  offset: 0, 0
+  index: -1
+shitou13
+  rotate: true
+  xy: 2, 23
+  size: 82, 370
+  orig: 82, 370
+  offset: 0, 0
+  index: -1
+shitou14
+  rotate: false
+  xy: 1975, 714
+  size: 71, 289
+  orig: 71, 289
+  offset: 0, 0
+  index: -1
+shitou15
+  rotate: true
+  xy: 1338, 792
+  size: 211, 635
+  orig: 211, 635
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: false
+  xy: 999, 411
+  size: 337, 592
+  orig: 337, 592
+  offset: 0, 0
+  index: -1
+shitou5
+  rotate: true
+  xy: 1535, 121
+  size: 297, 223
+  orig: 297, 223
+  offset: 0, 0
+  index: -1
+shitou6
+  rotate: false
+  xy: 1338, 420
+  size: 430, 370
+  orig: 430, 370
+  offset: 0, 0
+  index: -1
+shitou7
+  rotate: false
+  xy: 714, 2
+  size: 368, 330
+  orig: 368, 330
+  offset: 0, 0
+  index: -1
+texiao33
+  rotate: false
+  xy: 714, 1005
+  size: 1279, 1031
+  orig: 1279, 1031
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 1396, 5
+  size: 137, 413
+  orig: 137, 413
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 1770, 80
+  size: 165, 710
+  orig: 165, 710
+  offset: 0, 0
+  index: -1

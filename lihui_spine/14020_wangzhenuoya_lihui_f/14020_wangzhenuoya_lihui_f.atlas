@@ -1,0 +1,97 @@
+
+14020_wangzhenuoya_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b0
+  rotate: false
+  xy: 2, 232
+  size: 1628, 1812
+  orig: 1628, 1812
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 2, 8
+  size: 875, 101
+  orig: 875, 101
+  offset: 0, 0
+  index: -1
+b181
+  rotate: true
+  xy: 1632, 276
+  size: 495, 168
+  orig: 495, 168
+  offset: 0, 0
+  index: -1
+b182
+  rotate: true
+  xy: 1632, 773
+  size: 519, 198
+  orig: 519, 198
+  offset: 0, 0
+  index: -1
+b183
+  rotate: false
+  xy: 879, 33
+  size: 200, 76
+  orig: 200, 76
+  offset: 0, 0
+  index: -1
+b2
+  rotate: true
+  xy: 1802, 382
+  size: 389, 208
+  orig: 389, 208
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 879, 2
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 922, 7
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 879, 16
+  size: 99, 15
+  orig: 99, 15
+  offset: 0, 0
+  index: -1
+b6
+  rotate: true
+  xy: 1632, 1294
+  size: 750, 400
+  orig: 750, 400
+  offset: 0, 0
+  index: -1
+b7
+  rotate: false
+  xy: 2, 111
+  size: 1910, 119
+  orig: 1910, 119
+  offset: 0, 0
+  index: -1
+b8
+  rotate: false
+  xy: 1081, 46
+  size: 127, 63
+  orig: 127, 63
+  offset: 0, 0
+  index: -1
+b9
+  rotate: false
+  xy: 1081, 8
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1

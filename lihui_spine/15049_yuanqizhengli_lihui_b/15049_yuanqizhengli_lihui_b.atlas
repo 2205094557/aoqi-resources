@@ -1,0 +1,55 @@
+
+15049_yuanqizhengli_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: true
+  xy: 1939, 1838
+  size: 204, 14
+  orig: 204, 14
+  offset: 0, 0
+  index: -1
+b10
+  rotate: false
+  xy: 870, 671
+  size: 1033, 715
+  orig: 1033, 715
+  offset: 0, 0
+  index: -1
+b12
+  rotate: true
+  xy: 2, 12
+  size: 1374, 866
+  orig: 1374, 866
+  offset: 0, 0
+  index: -1
+b13
+  rotate: false
+  xy: 2, 1388
+  size: 1498, 654
+  orig: 1498, 654
+  offset: 0, 0
+  index: -1
+b14
+  rotate: true
+  xy: 870, 2
+  size: 667, 903
+  orig: 667, 903
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1918, 1894
+  size: 19, 148
+  orig: 19, 148
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 1502, 2005
+  size: 414, 37
+  orig: 414, 37
+  offset: 0, 0
+  index: -1

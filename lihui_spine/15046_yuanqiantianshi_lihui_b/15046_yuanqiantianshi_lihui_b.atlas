@@ -1,0 +1,97 @@
+
+15046_yuanqiantianshi_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_11
+  rotate: false
+  xy: 2, 140
+  size: 47, 206
+  orig: 47, 206
+  offset: 0, 0
+  index: -1
+H_12
+  rotate: false
+  xy: 1915, 1741
+  size: 56, 112
+  orig: 56, 112
+  offset: 0, 0
+  index: -1
+H_13
+  rotate: true
+  xy: 106, 214
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+H_14
+  rotate: false
+  xy: 1915, 1855
+  size: 78, 168
+  orig: 78, 168
+  offset: 0, 0
+  index: -1
+H_15
+  rotate: false
+  xy: 2, 348
+  size: 1911, 1675
+  orig: 1911, 1675
+  offset: 0, 0
+  index: -1
+H_2
+  rotate: false
+  xy: 51, 208
+  size: 53, 138
+  orig: 53, 138
+  offset: 0, 0
+  index: -1
+H_3
+  rotate: true
+  xy: 1995, 1961
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+H_4
+  rotate: false
+  xy: 188, 256
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+H_5
+  rotate: false
+  xy: 1915, 1709
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+H_6
+  rotate: true
+  xy: 51, 151
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+H_7
+  rotate: true
+  xy: 2, 2
+  size: 136, 42
+  orig: 136, 42
+  offset: 0, 0
+  index: -1
+H_8
+  rotate: false
+  xy: 106, 243
+  size: 80, 103
+  orig: 80, 103
+  offset: 0, 0
+  index: -1
+H_9
+  rotate: false
+  xy: 255, 317
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1

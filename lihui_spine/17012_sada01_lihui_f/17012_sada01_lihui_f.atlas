@@ -1,0 +1,174 @@
+
+17012_sada01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_tx_1
+  rotate: true
+  xy: 1522, 314
+  size: 359, 248
+  orig: 359, 248
+  offset: 0, 0
+  index: -1
+bg_tx_10
+  rotate: true
+  xy: 1349, 1753
+  size: 277, 659
+  orig: 277, 659
+  offset: 0, 0
+  index: -1
+bg_tx_11
+  rotate: true
+  xy: 1843, 542
+  size: 74, 150
+  orig: 74, 150
+  offset: 0, 0
+  index: -1
+bg_tx_12
+  rotate: false
+  xy: 1772, 409
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+bg_tx_2
+  rotate: true
+  xy: 1772, 467
+  size: 439, 69
+  orig: 439, 69
+  offset: 0, 0
+  index: -1
+bg_tx_3
+  rotate: true
+  xy: 1206, 712
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+bg_tx_4
+  rotate: false
+  xy: 1967, 1717
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+bg_tx_5
+  rotate: true
+  xy: 2010, 1897
+  size: 133, 32
+  orig: 133, 32
+  offset: 0, 0
+  index: -1
+bg_tx_6
+  rotate: true
+  xy: 1258, 712
+  size: 761, 279
+  orig: 761, 279
+  offset: 0, 0
+  index: -1
+bg_tx_7
+  rotate: false
+  xy: 1206, 2
+  size: 342, 294
+  orig: 342, 294
+  offset: 0, 0
+  index: -1
+bg_tx_8
+  rotate: true
+  xy: 1772, 908
+  size: 571, 265
+  orig: 571, 265
+  offset: 0, 0
+  index: -1
+bg_tx_9
+  rotate: false
+  xy: 622, 12
+  size: 342, 50
+  orig: 342, 50
+  offset: 0, 0
+  index: -1
+qianjin_1
+  rotate: true
+  xy: 1539, 675
+  size: 804, 231
+  orig: 804, 231
+  offset: 0, 0
+  index: -1
+qianjin_10
+  rotate: true
+  xy: 891, 203
+  size: 539, 313
+  orig: 539, 313
+  offset: 0, 0
+  index: -1
+qianjin_11
+  rotate: false
+  xy: 2, 744
+  size: 911, 729
+  orig: 911, 729
+  offset: 0, 0
+  index: -1
+qianjin_12
+  rotate: false
+  xy: 915, 756
+  size: 341, 717
+  orig: 341, 717
+  offset: 0, 0
+  index: -1
+qianjin_2
+  rotate: false
+  xy: 1206, 298
+  size: 314, 412
+  orig: 314, 412
+  offset: 0, 0
+  index: -1
+qianjin_3
+  rotate: false
+  xy: 622, 64
+  size: 242, 150
+  orig: 242, 150
+  offset: 0, 0
+  index: -1
+qianjin_4
+  rotate: true
+  xy: 2, 37
+  size: 177, 618
+  orig: 177, 618
+  offset: 0, 0
+  index: -1
+qianjin_5
+  rotate: true
+  xy: 1843, 618
+  size: 288, 157
+  orig: 288, 157
+  offset: 0, 0
+  index: -1
+qianjin_6
+  rotate: false
+  xy: 2, 216
+  size: 887, 526
+  orig: 887, 526
+  offset: 0, 0
+  index: -1
+qianjin_7
+  rotate: false
+  xy: 2, 1475
+  size: 1345, 555
+  orig: 1345, 555
+  offset: 0, 0
+  index: -1
+qianjin_8
+  rotate: false
+  xy: 1550, 96
+  size: 110, 216
+  orig: 110, 216
+  offset: 0, 0
+  index: -1
+qianjin_9
+  rotate: false
+  xy: 1349, 1481
+  size: 616, 270
+  orig: 616, 270
+  offset: 0, 0
+  index: -1

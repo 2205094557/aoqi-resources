@@ -1,0 +1,111 @@
+
+14017_wudi01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a120
+  rotate: false
+  xy: 1573, 1963
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+a130
+  rotate: false
+  xy: 1346, 1332
+  size: 112, 137
+  orig: 112, 137
+  offset: 0, 0
+  index: -1
+a131
+  rotate: false
+  xy: 1346, 1140
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+a132
+  rotate: false
+  xy: 1460, 1420
+  size: 85, 49
+  orig: 85, 49
+  offset: 0, 0
+  index: -1
+a133
+  rotate: true
+  xy: 1547, 1785
+  size: 49, 15
+  orig: 49, 15
+  offset: 0, 0
+  index: -1
+a134
+  rotate: false
+  xy: 1734, 1991
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+a135
+  rotate: false
+  xy: 1346, 1177
+  size: 82, 153
+  orig: 82, 153
+  offset: 0, 0
+  index: -1
+a137
+  rotate: false
+  xy: 1346, 1471
+  size: 199, 575
+  orig: 199, 575
+  offset: 0, 0
+  index: -1
+a138
+  rotate: false
+  xy: 1547, 1836
+  size: 24, 144
+  orig: 24, 144
+  offset: 0, 0
+  index: -1
+a139
+  rotate: false
+  xy: 1547, 1982
+  size: 185, 64
+  orig: 185, 64
+  offset: 0, 0
+  index: -1
+a140
+  rotate: false
+  xy: 1430, 1262
+  size: 10, 68
+  orig: 10, 68
+  offset: 0, 0
+  index: -1
+a141
+  rotate: true
+  xy: 2, 15
+  size: 9, 78
+  orig: 9, 78
+  offset: 0, 0
+  index: -1
+a142
+  rotate: false
+  xy: 2, 2
+  size: 71, 11
+  orig: 71, 11
+  offset: 0, 0
+  index: -1
+a143
+  rotate: false
+  xy: 75, 2
+  size: 60, 11
+  orig: 60, 11
+  offset: 0, 0
+  index: -1
+a221
+  rotate: false
+  xy: 2, 26
+  size: 1342, 2020
+  orig: 1342, 2020
+  offset: 0, 0
+  index: -1

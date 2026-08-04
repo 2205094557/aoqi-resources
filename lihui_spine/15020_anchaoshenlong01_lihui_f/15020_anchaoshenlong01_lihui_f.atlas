@@ -1,0 +1,83 @@
+
+15020_anchaoshenlong01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0
+  rotate: false
+  xy: 2, 308
+  size: 688, 1207
+  orig: 688, 1207
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 2, 1517
+  size: 1393, 512
+  orig: 1393, 512
+  offset: 0, 0
+  index: -1
+a10
+  rotate: false
+  xy: 1397, 1746
+  size: 623, 283
+  orig: 623, 283
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 424, 269
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 1397, 1711
+  size: 118, 33
+  orig: 118, 33
+  offset: 0, 0
+  index: -1
+a4
+  rotate: true
+  xy: 692, 576
+  size: 939, 910
+  orig: 939, 910
+  offset: 0, 0
+  index: -1
+a5
+  rotate: true
+  xy: 692, 106
+  size: 468, 915
+  orig: 468, 915
+  offset: 0, 0
+  index: -1
+a6
+  rotate: true
+  xy: 2, 2
+  size: 304, 420
+  orig: 304, 420
+  offset: 0, 0
+  index: -1
+a7
+  rotate: true
+  xy: 1813, 1004
+  size: 740, 169
+  orig: 740, 169
+  offset: 0, 0
+  index: -1
+a8
+  rotate: true
+  xy: 1604, 888
+  size: 856, 207
+  orig: 856, 207
+  offset: 0, 0
+  index: -1
+a9
+  rotate: true
+  xy: 1609, 107
+  size: 779, 234
+  orig: 779, 234
+  offset: 0, 0
+  index: -1

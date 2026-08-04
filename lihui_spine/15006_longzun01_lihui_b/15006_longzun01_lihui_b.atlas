@@ -1,0 +1,41 @@
+
+15006_longzun01_lihui_b.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 2
+  size: 1283, 1007
+  orig: 1283, 1007
+  offset: 0, 0
+  index: -1
+feiting1
+  rotate: false
+  xy: 1484, 907
+  size: 211, 102
+  orig: 211, 102
+  offset: 0, 0
+  index: -1
+feiting2
+  rotate: true
+  xy: 1287, 248
+  size: 260, 180
+  orig: 260, 180
+  offset: 0, 0
+  index: -1
+wurenji1
+  rotate: false
+  xy: 1287, 510
+  size: 195, 499
+  orig: 195, 499
+  offset: 0, 0
+  index: -1
+wurenji2
+  rotate: false
+  xy: 1287, 26
+  size: 80, 220
+  orig: 80, 220
+  offset: 0, 0
+  index: -1

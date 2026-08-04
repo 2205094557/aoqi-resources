@@ -1,0 +1,139 @@
+
+15006_longzun_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 826, 122
+  size: 119, 316
+  orig: 119, 316
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 1565, 115
+  size: 136, 87
+  orig: 136, 87
+  offset: 0, 0
+  index: -1
+chibang3
+  rotate: true
+  xy: 1622, 204
+  size: 211, 407
+  orig: 211, 407
+  offset: 0, 0
+  index: -1
+di2
+  rotate: true
+  xy: 1700, 417
+  size: 1607, 174
+  orig: 1607, 174
+  offset: 0, 0
+  index: -1
+jianzhu1
+  rotate: true
+  xy: 1876, 1050
+  size: 513, 33
+  orig: 513, 33
+  offset: 0, 0
+  index: -1
+jianzhu2
+  rotate: false
+  xy: 2, 1035
+  size: 1179, 989
+  orig: 1179, 989
+  offset: 0, 0
+  index: -1
+long
+  rotate: true
+  xy: 1180, 432
+  size: 601, 480
+  orig: 601, 480
+  offset: 0, 0
+  index: -1
+long1
+  rotate: true
+  xy: 1876, 430
+  size: 215, 98
+  orig: 215, 98
+  offset: 0, 0
+  index: -1
+long2
+  rotate: true
+  xy: 1876, 1565
+  size: 459, 156
+  orig: 459, 156
+  offset: 0, 0
+  index: -1
+shitou6
+  rotate: false
+  xy: 1144, 25
+  size: 419, 178
+  orig: 419, 178
+  offset: 0, 0
+  index: -1
+texiao10
+  rotate: false
+  xy: 2, 2
+  size: 472, 109
+  orig: 472, 109
+  offset: 0, 0
+  index: -1
+texiao11
+  rotate: true
+  xy: 1876, 647
+  size: 401, 138
+  orig: 401, 138
+  offset: 0, 0
+  index: -1
+texiao25
+  rotate: false
+  xy: 1180, 205
+  size: 440, 225
+  orig: 440, 225
+  offset: 0, 0
+  index: -1
+texiao26
+  rotate: true
+  xy: 476, 22
+  size: 89, 293
+  orig: 89, 293
+  offset: 0, 0
+  index: -1
+texiao27
+  rotate: true
+  xy: 826, 243
+  size: 790, 352
+  orig: 790, 352
+  offset: 0, 0
+  index: -1
+texiao28
+  rotate: false
+  xy: 1183, 1045
+  size: 398, 86
+  orig: 398, 86
+  offset: 0, 0
+  index: -1
+texiao5
+  rotate: true
+  xy: 1911, 1134
+  size: 429, 97
+  orig: 429, 97
+  offset: 0, 0
+  index: -1
+texiao6
+  rotate: true
+  xy: 1183, 1133
+  size: 891, 515
+  orig: 891, 515
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: false
+  xy: 2, 113
+  size: 822, 920
+  orig: 822, 920
+  offset: 0, 0
+  index: -1

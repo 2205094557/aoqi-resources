@@ -1,0 +1,76 @@
+
+14001_shenqinuoya_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+175
+  rotate: true
+  xy: 854, 2
+  size: 444, 618
+  orig: 444, 618
+  offset: 0, 0
+  index: -1
+176
+  rotate: true
+  xy: 1802, 1518
+  size: 503, 120
+  orig: 503, 120
+  offset: 0, 0
+  index: -1
+177
+  rotate: false
+  xy: 2, 16
+  size: 568, 277
+  orig: 568, 277
+  offset: 0, 0
+  index: -1
+178
+  rotate: false
+  xy: 2, 574
+  size: 859, 1447
+  orig: 859, 1447
+  offset: 0, 0
+  index: -1
+179
+  rotate: true
+  xy: 1595, 376
+  size: 785, 331
+  orig: 785, 331
+  offset: 0, 0
+  index: -1
+181
+  rotate: false
+  xy: 1474, 276
+  size: 93, 170
+  orig: 93, 170
+  offset: 0, 0
+  index: -1
+182
+  rotate: true
+  xy: 2, 5
+  size: 9, 194
+  orig: 9, 194
+  offset: 0, 0
+  index: -1
+183
+  rotate: true
+  xy: 2, 295
+  size: 277, 850
+  orig: 277, 850
+  offset: 0, 0
+  index: -1
+184
+  rotate: true
+  xy: 863, 448
+  size: 713, 730
+  orig: 713, 730
+  offset: 0, 0
+  index: -1
+185
+  rotate: false
+  xy: 863, 1163
+  size: 937, 858
+  orig: 937, 858
+  offset: 0, 0
+  index: -1
