@@ -1,0 +1,62 @@
+
+16016_shuangshengshenglong_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b240
+  rotate: true
+  xy: 1407, 1152
+  size: 866, 567
+  orig: 866, 567
+  offset: 0, 0
+  index: -1
+b241
+  rotate: false
+  xy: 773, 34
+  size: 417, 316
+  orig: 417, 316
+  offset: 0, 0
+  index: -1
+b242
+  rotate: false
+  xy: 2, 1125
+  size: 1403, 893
+  orig: 1403, 893
+  offset: 0, 0
+  index: -1
+b243
+  rotate: true
+  xy: 897, 374
+  size: 749, 718
+  orig: 749, 718
+  offset: 0, 0
+  index: -1
+b244
+  rotate: false
+  xy: 2, 2
+  size: 769, 348
+  orig: 769, 348
+  offset: 0, 0
+  index: -1
+b245
+  rotate: true
+  xy: 1192, 72
+  size: 220, 727
+  orig: 220, 727
+  offset: 0, 0
+  index: -1
+b246
+  rotate: false
+  xy: 1617, 294
+  size: 239, 856
+  orig: 239, 856
+  offset: 0, 0
+  index: -1
+b249
+  rotate: false
+  xy: 2, 352
+  size: 893, 771
+  orig: 893, 771
+  offset: 0, 0
+  index: -1

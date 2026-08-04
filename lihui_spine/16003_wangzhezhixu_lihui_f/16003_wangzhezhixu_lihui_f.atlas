@@ -1,0 +1,125 @@
+
+16003_wangzhezhixu_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shangdian1
+  rotate: true
+  xy: 1613, 1344
+  size: 685, 308
+  orig: 685, 308
+  offset: 0, 0
+  index: -1
+shangdian2
+  rotate: false
+  xy: 2, 594
+  size: 685, 1435
+  orig: 685, 1435
+  offset: 0, 0
+  index: -1
+shangdian3
+  rotate: false
+  xy: 689, 803
+  size: 531, 1226
+  orig: 531, 1226
+  offset: 0, 0
+  index: -1
+shitou1
+  rotate: true
+  xy: 689, 652
+  size: 149, 529
+  orig: 149, 529
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: true
+  xy: 2, 2
+  size: 185, 705
+  orig: 185, 705
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: false
+  xy: 1923, 1365
+  size: 83, 284
+  orig: 83, 284
+  offset: 0, 0
+  index: -1
+shitou4
+  rotate: false
+  xy: 1107, 19
+  size: 388, 143
+  orig: 388, 143
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: true
+  xy: 709, 5
+  size: 157, 396
+  orig: 157, 396
+  offset: 0, 0
+  index: -1
+texiao10
+  rotate: true
+  xy: 2, 189
+  size: 403, 679
+  orig: 403, 679
+  offset: 0, 0
+  index: -1
+texiao11
+  rotate: true
+  xy: 709, 164
+  size: 235, 619
+  orig: 235, 619
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: false
+  xy: 1923, 1651
+  size: 114, 378
+  orig: 114, 378
+  offset: 0, 0
+  index: -1
+texiao4
+  rotate: true
+  xy: 1493, 576
+  size: 718, 184
+  orig: 718, 184
+  offset: 0, 0
+  index: -1
+texiao5
+  rotate: false
+  xy: 1222, 1296
+  size: 389, 733
+  orig: 389, 733
+  offset: 0, 0
+  index: -1
+texiao6
+  rotate: true
+  xy: 1679, 559
+  size: 783, 234
+  orig: 783, 234
+  offset: 0, 0
+  index: -1
+texiao7
+  rotate: false
+  xy: 1446, 195
+  size: 199, 379
+  orig: 199, 379
+  offset: 0, 0
+  index: -1
+texiao8
+  rotate: true
+  xy: 1222, 741
+  size: 553, 269
+  orig: 553, 269
+  offset: 0, 0
+  index: -1
+texiao9
+  rotate: false
+  xy: 689, 401
+  size: 755, 249
+  orig: 755, 249
+  offset: 0, 0
+  index: -1
