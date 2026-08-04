@@ -1,0 +1,83 @@
+
+17010_wangzheji_lihui_b.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 3
+  size: 1015, 948
+  orig: 1015, 948
+  offset: 0, 0
+  index: -1
+cvvc224
+  rotate: false
+  xy: 1661, 75
+  size: 128, 298
+  orig: 128, 298
+  offset: 0, 0
+  index: -1
+cvvc226-1
+  rotate: false
+  xy: 1867, 17
+  size: 74, 267
+  orig: 74, 267
+  offset: 0, 0
+  index: -1
+cvvc227
+  rotate: false
+  xy: 1791, 8
+  size: 74, 365
+  orig: 74, 365
+  offset: 0, 0
+  index: -1
+cvvc228
+  rotate: false
+  xy: 1019, 375
+  size: 790, 200
+  orig: 790, 200
+  offset: 0, 0
+  index: -1
+cvvc229-1
+  rotate: true
+  xy: 1019, 2
+  size: 181, 576
+  orig: 181, 576
+  offset: 0, 0
+  index: -1
+cvvc230
+  rotate: false
+  xy: 1654, 615
+  size: 190, 336
+  orig: 190, 336
+  offset: 0, 0
+  index: -1
+cvvc231
+  rotate: false
+  xy: 1846, 631
+  size: 164, 320
+  orig: 164, 320
+  offset: 0, 0
+  index: -1
+cvvc232
+  rotate: false
+  xy: 1019, 577
+  size: 633, 374
+  orig: 633, 374
+  offset: 0, 0
+  index: -1
+cvvc233-1
+  rotate: true
+  xy: 1019, 185
+  size: 188, 640
+  orig: 188, 640
+  offset: 0, 0
+  index: -1
+cvvc234-1
+  rotate: true
+  xy: 1867, 286
+  size: 343, 125
+  orig: 343, 125
+  offset: 0, 0
+  index: -1
