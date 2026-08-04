@@ -1,0 +1,83 @@
+
+11005_zhihuishenghun_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing1
+  rotate: false
+  xy: 2, 35
+  size: 154, 310
+  orig: 154, 310
+  offset: 0, 0
+  index: -1
+qianjing10
+  rotate: false
+  xy: 1903, 549
+  size: 109, 556
+  orig: 109, 556
+  offset: 0, 0
+  index: -1
+qianjing10-1
+  rotate: true
+  xy: 1903, 1107
+  size: 939, 139
+  orig: 939, 139
+  offset: 0, 0
+  index: -1
+qianjing10-2
+  rotate: true
+  xy: 1321, 1091
+  size: 955, 580
+  orig: 955, 580
+  offset: 0, 0
+  index: -1
+qianjing10-3
+  rotate: false
+  xy: 1524, 312
+  size: 357, 777
+  orig: 357, 777
+  offset: 0, 0
+  index: -1
+qianjing4
+  rotate: false
+  xy: 2, 2
+  size: 206, 31
+  orig: 206, 31
+  offset: 0, 0
+  index: -1
+qianjing5
+  rotate: true
+  xy: 158, 84
+  size: 261, 643
+  orig: 261, 643
+  offset: 0, 0
+  index: -1
+qianjing6
+  rotate: true
+  xy: 803, 68
+  size: 385, 516
+  orig: 385, 516
+  offset: 0, 0
+  index: -1
+qianjing7
+  rotate: false
+  xy: 2, 347
+  size: 790, 1699
+  orig: 790, 1699
+  offset: 0, 0
+  index: -1
+qianjing8
+  rotate: false
+  xy: 794, 455
+  size: 474, 1591
+  orig: 474, 1591
+  offset: 0, 0
+  index: -1
+qianjing9
+  rotate: true
+  xy: 1321, 172
+  size: 917, 201
+  orig: 917, 201
+  offset: 0, 0
+  index: -1

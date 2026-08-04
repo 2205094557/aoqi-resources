@@ -1,0 +1,160 @@
+
+11005_zhihuishenghun_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing10
+  rotate: false
+  xy: 1055, 280
+  size: 132, 368
+  orig: 132, 368
+  offset: 0, 0
+  index: -1
+beijing10--2
+  rotate: false
+  xy: 866, 318
+  size: 187, 330
+  orig: 187, 330
+  offset: 0, 0
+  index: -1
+beijing10-1
+  rotate: false
+  xy: 1767, 899
+  size: 205, 688
+  orig: 205, 688
+  offset: 0, 0
+  index: -1
+beijing11
+  rotate: false
+  xy: 1104, 764
+  size: 193, 884
+  orig: 193, 884
+  offset: 0, 0
+  index: -1
+beijing11-1
+  rotate: true
+  xy: 1542, 901
+  size: 686, 223
+  orig: 686, 223
+  offset: 0, 0
+  index: -1
+beijing11-3
+  rotate: true
+  xy: 311, 514
+  size: 1134, 263
+  orig: 1134, 263
+  offset: 0, 0
+  index: -1
+beijing2a
+  rotate: false
+  xy: 388, 118
+  size: 241, 394
+  orig: 241, 394
+  offset: 0, 0
+  index: -1
+beijing3
+  rotate: false
+  xy: 1189, 9
+  size: 136, 753
+  orig: 136, 753
+  offset: 0, 0
+  index: -1
+beijing4
+  rotate: false
+  xy: 1299, 773
+  size: 241, 814
+  orig: 241, 814
+  offset: 0, 0
+  index: -1
+beijing5
+  rotate: false
+  xy: 2, 2
+  size: 215, 436
+  orig: 215, 436
+  offset: 0, 0
+  index: -1
+beijing5-1a
+  rotate: false
+  xy: 219, 17
+  size: 167, 421
+  orig: 167, 421
+  offset: 0, 0
+  index: -1
+beijing5-5
+  rotate: false
+  xy: 1327, 533
+  size: 139, 238
+  orig: 139, 238
+  offset: 0, 0
+  index: -1
+beijing5-6
+  rotate: true
+  xy: 631, 115
+  size: 187, 257
+  orig: 187, 257
+  offset: 0, 0
+  index: -1
+beijing5-7
+  rotate: false
+  xy: 837, 650
+  size: 265, 998
+  orig: 265, 998
+  offset: 0, 0
+  index: -1
+beijing6
+  rotate: false
+  xy: 1327, 293
+  size: 38, 238
+  orig: 38, 238
+  offset: 0, 0
+  index: -1
+beijing7
+  rotate: true
+  xy: 388, 35
+  size: 81, 225
+  orig: 81, 225
+  offset: 0, 0
+  index: -1
+beijing7-1
+  rotate: false
+  xy: 1963, 1722
+  size: 70, 245
+  orig: 70, 245
+  offset: 0, 0
+  index: -1
+beijing8
+  rotate: false
+  xy: 631, 304
+  size: 233, 334
+  orig: 233, 334
+  offset: 0, 0
+  index: -1
+beijing9
+  rotate: true
+  xy: 1343, 1589
+  size: 378, 618
+  orig: 378, 618
+  offset: 0, 0
+  index: -1
+cdcd
+  rotate: false
+  xy: 2, 1650
+  size: 1339, 317
+  orig: 1339, 317
+  offset: 0, 0
+  index: -1
+qianjing1
+  rotate: false
+  xy: 2, 440
+  size: 307, 1208
+  orig: 307, 1208
+  offset: 0, 0
+  index: -1
+qianjing1-1
+  rotate: false
+  xy: 576, 640
+  size: 259, 1008
+  orig: 259, 1008
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+11037_yuanqizhixushenglong_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0
+  rotate: true
+  xy: 473, 2
+  size: 126, 646
+  orig: 126, 646
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 640, 847
+  size: 1185, 402
+  orig: 1185, 402
+  offset: 0, 0
+  index: -1
+a10
+  rotate: true
+  xy: 2, 9
+  size: 38, 105
+  orig: 38, 105
+  offset: 0, 0
+  index: -1
+a11
+  rotate: false
+  xy: 1273, 208
+  size: 681, 133
+  orig: 681, 133
+  offset: 0, 0
+  index: -1
+a12
+  rotate: false
+  xy: 2, 49
+  size: 366, 76
+  orig: 366, 76
+  offset: 0, 0
+  index: -1
+a13
+  rotate: true
+  xy: 1961, 1002
+  size: 247, 69
+  orig: 247, 69
+  offset: 0, 0
+  index: -1
+a14
+  rotate: true
+  xy: 1521, 131
+  size: 75, 200
+  orig: 75, 200
+  offset: 0, 0
+  index: -1
+a15
+  rotate: false
+  xy: 473, 130
+  size: 798, 211
+  orig: 798, 211
+  offset: 0, 0
+  index: -1
+a16
+  rotate: true
+  xy: 1273, 111
+  size: 95, 246
+  orig: 95, 246
+  offset: 0, 0
+  index: -1
+a17
+  rotate: false
+  xy: 370, 59
+  size: 21, 66
+  orig: 21, 66
+  offset: 0, 0
+  index: -1
+a18
+  rotate: true
+  xy: 1460, 371
+  size: 90, 300
+  orig: 90, 300
+  offset: 0, 0
+  index: -1
+a19
+  rotate: true
+  xy: 473, 364
+  size: 44, 137
+  orig: 44, 137
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 2, 127
+  size: 469, 281
+  orig: 469, 281
+  offset: 0, 0
+  index: -1
+a20
+  rotate: true
+  xy: 1827, 847
+  size: 39, 124
+  orig: 39, 124
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 1827, 888
+  size: 132, 361
+  orig: 132, 361
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 640, 608
+  size: 1305, 237
+  orig: 1305, 237
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 2, 410
+  size: 636, 1634
+  orig: 636, 1634
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 1460, 463
+  size: 421, 143
+  orig: 421, 143
+  offset: 0, 0
+  index: -1
+a8
+  rotate: false
+  xy: 640, 343
+  size: 818, 263
+  orig: 818, 263
+  offset: 0, 0
+  index: -1
+a9
+  rotate: false
+  xy: 640, 1251
+  size: 1403, 793
+  orig: 1403, 793
+  offset: 0, 0
+  index: -1
