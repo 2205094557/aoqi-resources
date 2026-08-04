@@ -1,0 +1,104 @@
+
+16033_shenyaowangzheji02_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b158
+  rotate: false
+  xy: 1992, 1508
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+b159
+  rotate: false
+  xy: 807, 196
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+b161
+  rotate: true
+  xy: 1805, 790
+  size: 327, 123
+  orig: 327, 123
+  offset: 0, 0
+  index: -1
+b162
+  rotate: true
+  xy: 968, 2
+  size: 229, 226
+  orig: 229, 226
+  offset: 0, 0
+  index: -1
+b163
+  rotate: true
+  xy: 1805, 1538
+  size: 508, 230
+  orig: 508, 230
+  offset: 0, 0
+  index: -1
+b164
+  rotate: false
+  xy: 1557, 148
+  size: 124, 200
+  orig: 124, 200
+  offset: 0, 0
+  index: -1
+b165
+  rotate: false
+  xy: 968, 233
+  size: 336, 115
+  orig: 336, 115
+  offset: 0, 0
+  index: -1
+b166
+  rotate: false
+  xy: 2, 8
+  size: 434, 340
+  orig: 434, 340
+  offset: 0, 0
+  index: -1
+b167
+  rotate: false
+  xy: 1805, 1119
+  size: 185, 417
+  orig: 185, 417
+  offset: 0, 0
+  index: -1
+b168
+  rotate: true
+  xy: 438, 9
+  size: 106, 126
+  orig: 106, 126
+  offset: 0, 0
+  index: -1
+b169
+  rotate: true
+  xy: 438, 117
+  size: 101, 367
+  orig: 101, 367
+  offset: 0, 0
+  index: -1
+b170
+  rotate: true
+  xy: 1306, 104
+  size: 244, 249
+  orig: 244, 249
+  offset: 0, 0
+  index: -1
+b171
+  rotate: true
+  xy: 438, 220
+  size: 128, 528
+  orig: 128, 528
+  offset: 0, 0
+  index: -1
+b172
+  rotate: false
+  xy: 2, 350
+  size: 1801, 1696
+  orig: 1801, 1696
+  offset: 0, 0
+  index: -1
