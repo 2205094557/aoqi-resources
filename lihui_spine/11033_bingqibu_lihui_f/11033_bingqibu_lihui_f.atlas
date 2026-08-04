@@ -1,0 +1,272 @@
+
+11033_bingqibu_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingqibu_0
+  rotate: false
+  xy: 2, 318
+  size: 571, 704
+  orig: 571, 704
+  offset: 0, 0
+  index: -1
+bingqibu_1
+  rotate: true
+  xy: 2, 2
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+bingqibu_10
+  rotate: false
+  xy: 2, 72
+  size: 285, 244
+  orig: 285, 244
+  offset: 0, 0
+  index: -1
+bingqibu_11
+  rotate: false
+  xy: 435, 107
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+bingqibu_12
+  rotate: true
+  xy: 788, 275
+  size: 79, 46
+  orig: 79, 46
+  offset: 0, 0
+  index: -1
+bingqibu_13
+  rotate: false
+  xy: 190, 2
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+bingqibu_14
+  rotate: false
+  xy: 290, 2
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+bingqibu_15
+  rotate: false
+  xy: 58, 2
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+bingqibu_16
+  rotate: false
+  xy: 986, 447
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+bingqibu_17
+  rotate: true
+  xy: 680, 237
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+bingqibu_18
+  rotate: false
+  xy: 681, 171
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+bingqibu_19
+  rotate: false
+  xy: 681, 93
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+bingqibu_2
+  rotate: true
+  xy: 107, 5
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+bingqibu_20
+  rotate: true
+  xy: 767, 356
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+bingqibu_21
+  rotate: false
+  xy: 575, 440
+  size: 260, 112
+  orig: 260, 112
+  offset: 0, 0
+  index: -1
+bingqibu_22
+  rotate: false
+  xy: 289, 121
+  size: 144, 195
+  orig: 144, 195
+  offset: 0, 0
+  index: -1
+bingqibu_23
+  rotate: false
+  xy: 837, 444
+  size: 147, 108
+  orig: 147, 108
+  offset: 0, 0
+  index: -1
+bingqibu_24
+  rotate: true
+  xy: 575, 554
+  size: 468, 443
+  orig: 468, 443
+  offset: 0, 0
+  index: -1
+bingqibu_25
+  rotate: false
+  xy: 162, 6
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+bingqibu_26
+  rotate: true
+  xy: 429, 80
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+bingqibu_27
+  rotate: true
+  xy: 1009, 459
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+bingqibu_28
+  rotate: false
+  xy: 460, 86
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+bingqibu_29
+  rotate: true
+  xy: 759, 100
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+bingqibu_3
+  rotate: false
+  xy: 2, 39
+  size: 186, 31
+  orig: 186, 31
+  offset: 0, 0
+  index: -1
+bingqibu_30
+  rotate: false
+  xy: 289, 73
+  size: 102, 46
+  orig: 102, 46
+  offset: 0, 0
+  index: -1
+bingqibu_31
+  rotate: true
+  xy: 583, 93
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+bingqibu_32
+  rotate: true
+  xy: 248, 3
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+bingqibu_33
+  rotate: false
+  xy: 393, 80
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+bingqibu_34
+  rotate: false
+  xy: 644, 95
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+bingqibu_35
+  rotate: false
+  xy: 435, 150
+  size: 146, 166
+  orig: 146, 166
+  offset: 0, 0
+  index: -1
+bingqibu_36
+  rotate: true
+  xy: 509, 88
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+bingqibu_37
+  rotate: true
+  xy: 334, 4
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+bingqibu_4
+  rotate: true
+  xy: 759, 129
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+bingqibu_5
+  rotate: false
+  xy: 583, 224
+  size: 95, 120
+  orig: 95, 120
+  offset: 0, 0
+  index: -1
+bingqibu_6
+  rotate: true
+  xy: 583, 136
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+bingqibu_7
+  rotate: true
+  xy: 575, 346
+  size: 92, 190
+  orig: 92, 190
+  offset: 0, 0
+  index: -1
+bingqibu_8
+  rotate: false
+  xy: 788, 235
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+bingqibu_9
+  rotate: true
+  xy: 986, 487
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1

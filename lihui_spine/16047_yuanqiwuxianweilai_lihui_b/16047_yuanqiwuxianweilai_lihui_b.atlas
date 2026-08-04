@@ -1,0 +1,90 @@
+
+16047_yuanqiwuxianweilai_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_1
+  rotate: false
+  xy: 1553, 232
+  size: 203, 154
+  orig: 203, 154
+  offset: 0, 0
+  index: -1
+beijing_2
+  rotate: false
+  xy: 1917, 1615
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+beijing_3
+  rotate: false
+  xy: 2, 388
+  size: 1752, 1643
+  orig: 1752, 1643
+  offset: 0, 0
+  index: -1
+qianjing_10
+  rotate: false
+  xy: 2, 2
+  size: 757, 384
+  orig: 757, 384
+  offset: 0, 0
+  index: -1
+qianjing_14
+  rotate: false
+  xy: 1756, 1258
+  size: 144, 356
+  orig: 144, 356
+  offset: 0, 0
+  index: -1
+qianjing_16
+  rotate: false
+  xy: 1756, 1616
+  size: 159, 415
+  orig: 159, 415
+  offset: 0, 0
+  index: -1
+qianjing_17
+  rotate: true
+  xy: 1182, 135
+  size: 89, 265
+  orig: 89, 265
+  offset: 0, 0
+  index: -1
+qianjing_66
+  rotate: false
+  xy: 1756, 749
+  size: 91, 241
+  orig: 91, 241
+  offset: 0, 0
+  index: -1
+qianjing_67
+  rotate: true
+  xy: 761, 92
+  size: 294, 419
+  orig: 294, 419
+  offset: 0, 0
+  index: -1
+qianjing_7
+  rotate: true
+  xy: 1756, 992
+  size: 264, 89
+  orig: 264, 89
+  offset: 0, 0
+  index: -1
+qianjing_8
+  rotate: true
+  xy: 1182, 226
+  size: 160, 369
+  orig: 160, 369
+  offset: 0, 0
+  index: -1
+qianjing_9
+  rotate: false
+  xy: 1917, 1712
+  size: 123, 319
+  orig: 123, 319
+  offset: 0, 0
+  index: -1
