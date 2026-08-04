@@ -1,0 +1,160 @@
+
+15007_xingluo_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoc0
+  rotate: true
+  xy: 1395, 244
+  size: 84, 331
+  orig: 84, 331
+  offset: 0, 0
+  index: -1
+xiaoc12
+  rotate: true
+  xy: 645, 211
+  size: 144, 748
+  orig: 144, 748
+  offset: 0, 0
+  index: -1
+xiaoc18
+  rotate: false
+  xy: 1609, 761
+  size: 383, 231
+  orig: 383, 231
+  offset: 0, 0
+  index: -1
+xiaoc19
+  rotate: true
+  xy: 1928, 1096
+  size: 161, 101
+  orig: 161, 101
+  offset: 0, 0
+  index: -1
+xiaoc20
+  rotate: true
+  xy: 1609, 994
+  size: 1048, 317
+  orig: 1048, 317
+  offset: 0, 0
+  index: -1
+xiaoc21
+  rotate: false
+  xy: 1665, 37
+  size: 207, 205
+  orig: 207, 205
+  offset: 0, 0
+  index: -1
+xiaoc22
+  rotate: false
+  xy: 1101, 44
+  size: 283, 165
+  orig: 283, 165
+  offset: 0, 0
+  index: -1
+xiaoc23
+  rotate: true
+  xy: 1874, 162
+  size: 147, 126
+  orig: 147, 126
+  offset: 0, 0
+  index: -1
+xiaoc24
+  rotate: false
+  xy: 2, 2
+  size: 287, 66
+  orig: 287, 66
+  offset: 0, 0
+  index: -1
+xiaoc25
+  rotate: true
+  xy: 1852, 311
+  size: 168, 136
+  orig: 168, 136
+  offset: 0, 0
+  index: -1
+xiaoc26
+  rotate: false
+  xy: 1422, 630
+  size: 523, 129
+  orig: 523, 129
+  offset: 0, 0
+  index: -1
+xiaoc27
+  rotate: false
+  xy: 1505, 481
+  size: 467, 147
+  orig: 467, 147
+  offset: 0, 0
+  index: -1
+xiaoc28
+  rotate: false
+  xy: 1395, 112
+  size: 268, 130
+  orig: 268, 130
+  offset: 0, 0
+  index: -1
+xiaoc29
+  rotate: false
+  xy: 433, 252
+  size: 178, 54
+  orig: 178, 54
+  offset: 0, 0
+  index: -1
+xiaoc30
+  rotate: true
+  xy: 1928, 1259
+  size: 783, 81
+  orig: 783, 81
+  offset: 0, 0
+  index: -1
+xiaoc31
+  rotate: false
+  xy: 2, 70
+  size: 429, 236
+  orig: 429, 236
+  offset: 0, 0
+  index: -1
+xiaoc32
+  rotate: false
+  xy: 645, 357
+  size: 858, 196
+  orig: 858, 196
+  offset: 0, 0
+  index: -1
+xiaoc33
+  rotate: false
+  xy: 433, 68
+  size: 666, 141
+  orig: 666, 141
+  offset: 0, 0
+  index: -1
+xiaoc34
+  rotate: false
+  xy: 2, 308
+  size: 641, 1734
+  orig: 641, 1734
+  offset: 0, 0
+  index: -1
+xiaoc35
+  rotate: false
+  xy: 645, 555
+  size: 775, 1487
+  orig: 775, 1487
+  offset: 0, 0
+  index: -1
+xiaoc8
+  rotate: false
+  xy: 1505, 330
+  size: 345, 149
+  orig: 345, 149
+  offset: 0, 0
+  index: -1
+xiaoc9
+  rotate: true
+  xy: 1422, 768
+  size: 1274, 185
+  orig: 1274, 185
+  offset: 0, 0
+  index: -1

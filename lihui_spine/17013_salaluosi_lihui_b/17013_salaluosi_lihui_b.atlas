@@ -1,0 +1,146 @@
+
+17013_salaluosi_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bggg1-1
+  rotate: false
+  xy: 1846, 845
+  size: 149, 568
+  orig: 149, 568
+  offset: 0, 0
+  index: -1
+bggg10
+  rotate: true
+  xy: 1927, 1689
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+bggg11
+  rotate: false
+  xy: 1927, 1796
+  size: 83, 116
+  orig: 83, 116
+  offset: 0, 0
+  index: -1
+bggg12
+  rotate: false
+  xy: 1706, 1249
+  size: 94, 41
+  orig: 94, 41
+  offset: 0, 0
+  index: -1
+bggg13-1
+  rotate: false
+  xy: 898, 120
+  size: 616, 207
+  orig: 616, 207
+  offset: 0, 0
+  index: -1
+bggg14-1
+  rotate: true
+  xy: 1846, 646
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+bggg15
+  rotate: true
+  xy: 2, 2
+  size: 118, 91
+  orig: 118, 91
+  offset: 0, 0
+  index: -1
+bggg16
+  rotate: false
+  xy: 2012, 1809
+  size: 34, 103
+  orig: 34, 103
+  offset: 0, 0
+  index: -1
+bggg17-1
+  rotate: false
+  xy: 1706, 1415
+  size: 219, 631
+  orig: 219, 631
+  offset: 0, 0
+  index: -1
+bggg18
+  rotate: false
+  xy: 1554, 77
+  size: 130, 529
+  orig: 130, 529
+  offset: 0, 0
+  index: -1
+bggg19
+  rotate: false
+  xy: 1554, 608
+  size: 135, 612
+  orig: 135, 612
+  offset: 0, 0
+  index: -1
+bggg2-1
+  rotate: false
+  xy: 1691, 645
+  size: 153, 575
+  orig: 153, 575
+  offset: 0, 0
+  index: -1
+bggg20-1
+  rotate: false
+  xy: 2, 329
+  size: 1550, 1717
+  orig: 1550, 1717
+  offset: 0, 0
+  index: -1
+bggg3-1
+  rotate: false
+  xy: 2, 122
+  size: 894, 205
+  orig: 894, 205
+  offset: 0, 0
+  index: -1
+bggg4-1
+  rotate: true
+  xy: 1554, 1222
+  size: 824, 150
+  orig: 824, 150
+  offset: 0, 0
+  index: -1
+bggg5
+  rotate: true
+  xy: 95, 34
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+bggg6-1
+  rotate: true
+  xy: 231, 25
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+bggg7
+  rotate: true
+  xy: 1706, 1292
+  size: 121, 138
+  orig: 121, 138
+  offset: 0, 0
+  index: -1
+bggg8
+  rotate: true
+  xy: 1927, 1914
+  size: 132, 110
+  orig: 132, 110
+  offset: 0, 0
+  index: -1
+bggg9
+  rotate: false
+  xy: 1846, 689
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1
