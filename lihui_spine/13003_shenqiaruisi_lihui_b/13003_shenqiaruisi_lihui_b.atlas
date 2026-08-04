@@ -1,0 +1,76 @@
+
+13003_shenqiaruisi_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc100
+  rotate: true
+  xy: 1768, 1301
+  size: 741, 206
+  orig: 741, 206
+  offset: 0, 0
+  index: -1
+xc101
+  rotate: false
+  xy: 884, 244
+  size: 723, 208
+  orig: 723, 208
+  offset: 0, 0
+  index: -1
+xc102
+  rotate: false
+  xy: 1456, 1117
+  size: 310, 925
+  orig: 310, 925
+  offset: 0, 0
+  index: -1
+xc103
+  rotate: true
+  xy: 1456, 1033
+  size: 82, 543
+  orig: 82, 543
+  offset: 0, 0
+  index: -1
+xc104
+  rotate: true
+  xy: 859, 35
+  size: 207, 737
+  orig: 207, 737
+  offset: 0, 0
+  index: -1
+xc105
+  rotate: true
+  xy: 2, 2
+  size: 177, 536
+  orig: 177, 536
+  offset: 0, 0
+  index: -1
+xc106
+  rotate: false
+  xy: 2, 846
+  size: 1452, 1196
+  orig: 1452, 1196
+  offset: 0, 0
+  index: -1
+xc107
+  rotate: true
+  xy: 2, 427
+  size: 417, 880
+  orig: 417, 880
+  offset: 0, 0
+  index: -1
+xc108
+  rotate: false
+  xy: 884, 454
+  size: 648, 390
+  orig: 648, 390
+  offset: 0, 0
+  index: -1
+xc99
+  rotate: false
+  xy: 2, 181
+  size: 855, 244
+  orig: 855, 244
+  offset: 0, 0
+  index: -1

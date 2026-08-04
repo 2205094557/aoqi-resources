@@ -1,0 +1,153 @@
+
+12002_shenqilongyan_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chiban15
+  rotate: true
+  xy: 2, 438
+  size: 465, 1050
+  orig: 465, 1050
+  offset: 0, 0
+  index: -1
+chiban16
+  rotate: false
+  xy: 1144, 993
+  size: 387, 1022
+  orig: 387, 1022
+  offset: 0, 0
+  index: -1
+chiban17
+  rotate: false
+  xy: 1054, 354
+  size: 218, 549
+  orig: 218, 549
+  offset: 0, 0
+  index: -1
+chiban18
+  rotate: false
+  xy: 1205, 57
+  size: 145, 295
+  orig: 145, 295
+  offset: 0, 0
+  index: -1
+chiban19
+  rotate: false
+  xy: 1870, 1698
+  size: 176, 317
+  orig: 176, 317
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 2, 37
+  size: 399, 757
+  orig: 399, 757
+  offset: 0, 0
+  index: -1
+jianzhu
+  rotate: false
+  xy: 2, 905
+  size: 1140, 1110
+  orig: 1140, 1110
+  offset: 0, 0
+  index: -1
+long1a
+  rotate: false
+  xy: 1533, 1336
+  size: 335, 679
+  orig: 335, 679
+  offset: 0, 0
+  index: -1
+long2
+  rotate: true
+  xy: 1533, 646
+  size: 688, 324
+  orig: 688, 324
+  offset: 0, 0
+  index: -1
+longzhua1
+  rotate: true
+  xy: 1274, 648
+  size: 95, 203
+  orig: 95, 203
+  offset: 0, 0
+  index: -1
+longzhua2
+  rotate: false
+  xy: 1553, 2
+  size: 91, 154
+  orig: 91, 154
+  offset: 0, 0
+  index: -1
+longzhua3
+  rotate: false
+  xy: 1352, 261
+  size: 265, 111
+  orig: 265, 111
+  offset: 0, 0
+  index: -1
+longzhua4
+  rotate: false
+  xy: 1859, 1177
+  size: 107, 157
+  orig: 107, 157
+  offset: 0, 0
+  index: -1
+longzhua5
+  rotate: false
+  xy: 1619, 266
+  size: 227, 106
+  orig: 227, 106
+  offset: 0, 0
+  index: -1
+longzhua6
+  rotate: true
+  xy: 1352, 12
+  size: 144, 199
+  orig: 144, 199
+  offset: 0, 0
+  index: -1
+longzhua7
+  rotate: true
+  xy: 1870, 1342
+  size: 354, 169
+  orig: 354, 169
+  offset: 0, 0
+  index: -1
+longzhua8
+  rotate: false
+  xy: 761, 17
+  size: 244, 419
+  orig: 244, 419
+  offset: 0, 0
+  index: -1
+longzhua9a
+  rotate: true
+  xy: 1352, 158
+  size: 101, 254
+  orig: 101, 254
+  offset: 0, 0
+  index: -1
+texiao4
+  rotate: true
+  xy: 1007, 16
+  size: 336, 196
+  orig: 336, 196
+  offset: 0, 0
+  index: -1
+texiao5
+  rotate: false
+  xy: 1274, 745
+  size: 236, 246
+  orig: 236, 246
+  offset: 0, 0
+  index: -1
+texiao6
+  rotate: true
+  xy: 1274, 374
+  size: 270, 581
+  orig: 270, 581
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+17016_quantianshi01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cccxc0
+  rotate: false
+  xy: 2, 276
+  size: 767, 780
+  orig: 767, 780
+  offset: 0, 0
+  index: -1
+cccxc1
+  rotate: false
+  xy: 771, 38
+  size: 479, 394
+  orig: 479, 394
+  offset: 0, 0
+  index: -1
+cccxc2
+  rotate: true
+  xy: 2, 60
+  size: 214, 172
+  orig: 214, 172
+  offset: 0, 0
+  index: -1
+cccxc3
+  rotate: false
+  xy: 1252, 343
+  size: 127, 89
+  orig: 127, 89
+  offset: 0, 0
+  index: -1
+cccxc4
+  rotate: true
+  xy: 1252, 2
+  size: 300, 486
+  orig: 300, 486
+  offset: 0, 0
+  index: -1
+cccxc5
+  rotate: false
+  xy: 1740, 55
+  size: 247, 247
+  orig: 247, 247
+  offset: 0, 0
+  index: -1
+cccxc6
+  rotate: false
+  xy: 771, 434
+  size: 646, 622
+  orig: 646, 622
+  offset: 0, 0
+  index: -1
+cccxc7
+  rotate: true
+  xy: 1419, 304
+  size: 641, 623
+  orig: 641, 623
+  offset: 0, 0
+  index: -1
+cccxc8
+  rotate: false
+  xy: 2, 1058
+  size: 1425, 985
+  orig: 1425, 985
+  offset: 0, 0
+  index: -1
+cccxc9
+  rotate: true
+  xy: 1429, 947
+  size: 1096, 564
+  orig: 1096, 564
+  offset: 0, 0
+  index: -1

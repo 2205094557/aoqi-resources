@@ -1,0 +1,125 @@
+
+12002_shenqilongyan_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+longtou1
+  rotate: true
+  xy: 1864, 542
+  size: 429, 149
+  orig: 429, 149
+  offset: 0, 0
+  index: -1
+longtou10
+  rotate: true
+  xy: 1718, 209
+  size: 662, 144
+  orig: 662, 144
+  offset: 0, 0
+  index: -1
+longtou11
+  rotate: false
+  xy: 507, 624
+  size: 1025, 212
+  orig: 1025, 212
+  offset: 0, 0
+  index: -1
+longtou12
+  rotate: false
+  xy: 2, 301
+  size: 925, 321
+  orig: 925, 321
+  offset: 0, 0
+  index: -1
+longtou2
+  rotate: true
+  xy: 1863, 973
+  size: 487, 157
+  orig: 487, 157
+  offset: 0, 0
+  index: -1
+longtou3
+  rotate: false
+  xy: 507, 1728
+  size: 1179, 315
+  orig: 1179, 315
+  offset: 0, 0
+  index: -1
+longtou4
+  rotate: false
+  xy: 2, 2
+  size: 265, 73
+  orig: 265, 73
+  offset: 0, 0
+  index: -1
+longtou5
+  rotate: false
+  xy: 507, 838
+  size: 945, 427
+  orig: 945, 427
+  offset: 0, 0
+  index: -1
+longtou6
+  rotate: true
+  xy: 1549, 196
+  size: 675, 167
+  orig: 675, 167
+  offset: 0, 0
+  index: -1
+longtou7
+  rotate: true
+  xy: 1863, 1462
+  size: 581, 128
+  orig: 581, 128
+  offset: 0, 0
+  index: -1
+longtou8
+  rotate: true
+  xy: 1485, 873
+  size: 853, 376
+  orig: 853, 376
+  offset: 0, 0
+  index: -1
+longtou9
+  rotate: false
+  xy: 2, 77
+  size: 940, 222
+  orig: 940, 222
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 2, 635
+  size: 503, 1408
+  orig: 503, 1408
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 944, 40
+  size: 603, 582
+  orig: 603, 582
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: false
+  xy: 507, 1267
+  size: 976, 459
+  orig: 976, 459
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 1549, 147
+  size: 158, 47
+  orig: 158, 47
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 1454, 1122
+  size: 143, 20
+  orig: 143, 20
+  offset: 0, 0
+  index: -1
