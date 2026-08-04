@@ -1,0 +1,160 @@
+
+11006_shenqidishitian_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chengbao
+  rotate: false
+  xy: 2, 1190
+  size: 755, 856
+  orig: 755, 856
+  offset: 0, 0
+  index: -1
+chengbao1
+  rotate: false
+  xy: 2, 52
+  size: 239, 74
+  orig: 239, 74
+  offset: 0, 0
+  index: -1
+chengbao2
+  rotate: true
+  xy: 842, 372
+  size: 62, 146
+  orig: 62, 146
+  offset: 0, 0
+  index: -1
+chengbao3
+  rotate: true
+  xy: 466, 2
+  size: 108, 77
+  orig: 108, 77
+  offset: 0, 0
+  index: -1
+chengbao4
+  rotate: true
+  xy: 243, 57
+  size: 69, 221
+  orig: 69, 221
+  offset: 0, 0
+  index: -1
+chengbao5
+  rotate: false
+  xy: 1860, 491
+  size: 166, 66
+  orig: 166, 66
+  offset: 0, 0
+  index: -1
+chengbao7
+  rotate: false
+  xy: 1716, 382
+  size: 107, 59
+  orig: 107, 59
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 1501, 92
+  size: 184, 244
+  orig: 184, 244
+  offset: 0, 0
+  index: -1
+guenggueng1
+  rotate: true
+  xy: 1263, 559
+  size: 648, 214
+  orig: 648, 214
+  offset: 0, 0
+  index: -1
+guenggueng2
+  rotate: false
+  xy: 1479, 589
+  size: 240, 618
+  orig: 240, 618
+  offset: 0, 0
+  index: -1
+guenggueng3
+  rotate: true
+  xy: 1263, 278
+  size: 163, 451
+  orig: 163, 451
+  offset: 0, 0
+  index: -1
+guenggueng4
+  rotate: true
+  xy: 1724, 751
+  size: 1295, 282
+  orig: 1295, 282
+  offset: 0, 0
+  index: -1
+hotaitexiao1
+  rotate: false
+  xy: 2, 128
+  size: 477, 1060
+  orig: 477, 1060
+  offset: 0, 0
+  index: -1
+hotaitexiao6
+  rotate: false
+  xy: 1008, 90
+  size: 210, 344
+  orig: 210, 344
+  offset: 0, 0
+  index: -1
+hotaitexiao7
+  rotate: false
+  xy: 481, 112
+  size: 525, 252
+  orig: 525, 252
+  offset: 0, 0
+  index: -1
+shijing1
+  rotate: false
+  xy: 759, 1573
+  size: 945, 473
+  orig: 945, 473
+  offset: 0, 0
+  index: -1
+shitoho1
+  rotate: false
+  xy: 1721, 559
+  size: 288, 190
+  orig: 288, 190
+  offset: 0, 0
+  index: -1
+shitoho2
+  rotate: false
+  xy: 842, 436
+  size: 419, 771
+  orig: 419, 771
+  offset: 0, 0
+  index: -1
+shitoho3
+  rotate: true
+  xy: 481, 366
+  size: 822, 359
+  orig: 822, 359
+  offset: 0, 0
+  index: -1
+shitoho4
+  rotate: false
+  xy: 1220, 121
+  size: 279, 155
+  orig: 279, 155
+  offset: 0, 0
+  index: -1
+yu1
+  rotate: true
+  xy: 759, 1209
+  size: 362, 963
+  orig: 362, 963
+  offset: 0, 0
+  index: -1
+yuanban
+  rotate: false
+  xy: 1263, 443
+  size: 595, 114
+  orig: 595, 114
+  offset: 0, 0
+  index: -1

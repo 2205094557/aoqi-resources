@@ -1,0 +1,125 @@
+
+11006_shenqidishitian01_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoc0
+  rotate: true
+  xy: 367, 547
+  size: 50, 85
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+xiaoc1
+  rotate: false
+  xy: 311, 460
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+xiaoc10
+  rotate: false
+  xy: 367, 599
+  size: 177, 140
+  orig: 177, 140
+  offset: 0, 0
+  index: -1
+xiaoc11
+  rotate: true
+  xy: 2, 741
+  size: 26, 1003
+  orig: 26, 1003
+  offset: 0, 0
+  index: -1
+xiaoc12
+  rotate: true
+  xy: 2, 2
+  size: 185, 220
+  orig: 185, 220
+  offset: 0, 0
+  index: -1
+xiaoc13
+  rotate: false
+  xy: 136, 192
+  size: 47, 547
+  orig: 47, 547
+  offset: 0, 0
+  index: -1
+xiaoc14
+  rotate: true
+  xy: 546, 604
+  size: 135, 171
+  orig: 135, 171
+  offset: 0, 0
+  index: -1
+xiaoc15
+  rotate: true
+  xy: 185, 307
+  size: 225, 105
+  orig: 225, 105
+  offset: 0, 0
+  index: -1
+xiaoc16
+  rotate: false
+  xy: 185, 534
+  size: 180, 205
+  orig: 180, 205
+  offset: 0, 0
+  index: -1
+xiaoc2
+  rotate: true
+  xy: 719, 621
+  size: 118, 138
+  orig: 118, 138
+  offset: 0, 0
+  index: -1
+xiaoc3
+  rotate: true
+  xy: 185, 205
+  size: 100, 128
+  orig: 100, 128
+  offset: 0, 0
+  index: -1
+xiaoc4
+  rotate: false
+  xy: 859, 637
+  size: 141, 102
+  orig: 141, 102
+  offset: 0, 0
+  index: -1
+xiaoc5
+  rotate: false
+  xy: 2, 189
+  size: 132, 550
+  orig: 132, 550
+  offset: 0, 0
+  index: -1
+xiaoc6
+  rotate: false
+  xy: 2, 769
+  size: 810, 253
+  orig: 810, 253
+  offset: 0, 0
+  index: -1
+xiaoc7
+  rotate: true
+  xy: 814, 773
+  size: 249, 188
+  orig: 249, 188
+  offset: 0, 0
+  index: -1
+xiaoc8
+  rotate: false
+  xy: 292, 343
+  size: 17, 189
+  orig: 17, 189
+  offset: 0, 0
+  index: -1
+xiaoc9
+  rotate: false
+  xy: 1004, 808
+  size: 17, 214
+  orig: 17, 214
+  offset: 0, 0
+  index: -1
