@@ -1,0 +1,34 @@
+
+12019_shenyaochiyanlong_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lxc141
+  rotate: true
+  xy: 2, 2
+  size: 352, 877
+  orig: 352, 877
+  offset: 0, 0
+  index: -1
+lxc142
+  rotate: false
+  xy: 881, 156
+  size: 842, 198
+  orig: 842, 198
+  offset: 0, 0
+  index: -1
+lxc143
+  rotate: false
+  xy: 1850, 1905
+  size: 176, 83
+  orig: 176, 83
+  offset: 0, 0
+  index: -1
+lxc144
+  rotate: false
+  xy: 2, 356
+  size: 1846, 1632
+  orig: 1846, 1632
+  offset: 0, 0
+  index: -1

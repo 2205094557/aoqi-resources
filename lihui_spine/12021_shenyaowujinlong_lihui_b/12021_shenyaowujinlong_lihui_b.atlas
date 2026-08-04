@@ -1,0 +1,69 @@
+
+12021_shenyaowujinlong_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bxc155
+  rotate: true
+  xy: 1373, 216
+  size: 329, 483
+  orig: 329, 483
+  offset: 0, 0
+  index: -1
+bxc156
+  rotate: false
+  xy: 781, 283
+  size: 590, 262
+  orig: 590, 262
+  offset: 0, 0
+  index: -1
+bxc157
+  rotate: false
+  xy: 2, 173
+  size: 777, 372
+  orig: 777, 372
+  offset: 0, 0
+  index: -1
+bxc158
+  rotate: false
+  xy: 1843, 1712
+  size: 161, 306
+  orig: 161, 306
+  offset: 0, 0
+  index: -1
+bxc159
+  rotate: true
+  xy: 781, 2
+  size: 279, 523
+  orig: 279, 523
+  offset: 0, 0
+  index: -1
+bxc160
+  rotate: true
+  xy: 1306, 69
+  size: 212, 26
+  orig: 212, 26
+  offset: 0, 0
+  index: -1
+bxc161
+  rotate: false
+  xy: 2, 93
+  size: 626, 78
+  orig: 626, 78
+  offset: 0, 0
+  index: -1
+bxc162
+  rotate: false
+  xy: 2, 547
+  size: 1839, 1471
+  orig: 1839, 1471
+  offset: 0, 0
+  index: -1
+bxc163
+  rotate: false
+  xy: 2, 8
+  size: 342, 83
+  orig: 342, 83
+  offset: 0, 0
+  index: -1
