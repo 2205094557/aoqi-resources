@@ -1,0 +1,258 @@
+
+12007_liexin_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images2/xiaoc25
+  rotate: false
+  xy: 2, 712
+  size: 447, 306
+  orig: 447, 306
+  offset: 0, 0
+  index: -1
+images2/xiaoc26
+  rotate: false
+  xy: 504, 564
+  size: 168, 242
+  orig: 168, 242
+  offset: 0, 0
+  index: -1
+images2/xiaoc29
+  rotate: true
+  xy: 299, 2
+  size: 260, 182
+  orig: 260, 182
+  offset: 0, 0
+  index: -1
+images2/xiaoc33
+  rotate: true
+  xy: 451, 808
+  size: 210, 406
+  orig: 210, 406
+  offset: 0, 0
+  index: -1
+images2/xiaoc38
+  rotate: false
+  xy: 521, 222
+  size: 174, 198
+  orig: 174, 198
+  offset: 0, 0
+  index: -1
+images2/xiaoc45
+  rotate: false
+  xy: 859, 808
+  size: 149, 210
+  orig: 149, 210
+  offset: 0, 0
+  index: -1
+images2/xiaoc57
+  rotate: true
+  xy: 2, 248
+  size: 462, 275
+  orig: 462, 275
+  offset: 0, 0
+  index: -1
+images2/xiaoc69
+  rotate: true
+  xy: 279, 408
+  size: 302, 223
+  orig: 302, 223
+  offset: 0, 0
+  index: -1
+images2/xiaoc73
+  rotate: true
+  xy: 504, 422
+  size: 140, 174
+  orig: 140, 174
+  offset: 0, 0
+  index: -1
+xiaoc0
+  rotate: false
+  xy: 908, 447
+  size: 38, 122
+  orig: 38, 122
+  offset: 0, 0
+  index: -1
+xiaoc1
+  rotate: false
+  xy: 949, 701
+  size: 73, 105
+  orig: 73, 105
+  offset: 0, 0
+  index: -1
+xiaoc10
+  rotate: false
+  xy: 697, 242
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+xiaoc11
+  rotate: false
+  xy: 680, 439
+  size: 146, 126
+  orig: 146, 126
+  offset: 0, 0
+  index: -1
+xiaoc12
+  rotate: false
+  xy: 451, 714
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+xiaoc13
+  rotate: false
+  xy: 796, 354
+  size: 103, 79
+  orig: 103, 79
+  offset: 0, 0
+  index: -1
+xiaoc14
+  rotate: false
+  xy: 674, 567
+  size: 137, 106
+  orig: 137, 106
+  offset: 0, 0
+  index: -1
+xiaoc15a
+  rotate: true
+  xy: 451, 729
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+xiaoc16a
+  rotate: false
+  xy: 483, 143
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+xiaoc17
+  rotate: true
+  xy: 615, 175
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+xiaoc18
+  rotate: false
+  xy: 2, 5
+  size: 295, 241
+  orig: 295, 241
+  offset: 0, 0
+  index: -1
+xiaoc19
+  rotate: false
+  xy: 663, 192
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+xiaoc2
+  rotate: false
+  xy: 483, 227
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+xiaoc20
+  rotate: true
+  xy: 948, 466
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+xiaoc21a
+  rotate: false
+  xy: 697, 340
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+xiaoc22a
+  rotate: false
+  xy: 483, 82
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+xiaoc23a
+  rotate: false
+  xy: 954, 647
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+xiaoc24a
+  rotate: false
+  xy: 561, 177
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+xiaoc3
+  rotate: false
+  xy: 697, 224
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+xiaoc36
+  rotate: false
+  xy: 279, 264
+  size: 240, 142
+  orig: 240, 142
+  offset: 0, 0
+  index: -1
+xiaoc37
+  rotate: true
+  xy: 674, 675
+  size: 131, 273
+  orig: 131, 273
+  offset: 0, 0
+  index: -1
+xiaoc4
+  rotate: false
+  xy: 525, 100
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+xiaoc5
+  rotate: true
+  xy: 561, 152
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+xiaoc6
+  rotate: false
+  xy: 828, 435
+  size: 78, 134
+  orig: 78, 134
+  offset: 0, 0
+  index: -1
+xiaoc7a
+  rotate: true
+  xy: 813, 571
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+xiaoc8
+  rotate: true
+  xy: 483, 20
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+xiaoc9
+  rotate: true
+  xy: 954, 567
+  size: 78, 66
+  orig: 78, 66
+  offset: 0, 0
+  index: -1

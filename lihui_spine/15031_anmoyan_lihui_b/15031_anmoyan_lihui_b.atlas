@@ -1,0 +1,55 @@
+
+15031_anmoyan_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ggxc193
+  rotate: true
+  xy: 1465, 812
+  size: 503, 332
+  orig: 503, 332
+  offset: 0, 0
+  index: -1
+ggxc195
+  rotate: false
+  xy: 2, 52
+  size: 715, 605
+  orig: 715, 605
+  offset: 0, 0
+  index: -1
+ggxc196
+  rotate: true
+  xy: 1465, 1317
+  size: 663, 495
+  orig: 663, 495
+  offset: 0, 0
+  index: -1
+ggxc197
+  rotate: true
+  xy: 1475, 147
+  size: 663, 429
+  orig: 663, 429
+  offset: 0, 0
+  index: -1
+ggxc198
+  rotate: false
+  xy: 719, 2
+  size: 266, 265
+  orig: 266, 265
+  offset: 0, 0
+  index: -1
+ggxc199
+  rotate: false
+  xy: 2, 659
+  size: 1461, 1321
+  orig: 1461, 1321
+  offset: 0, 0
+  index: -1
+ggxc200
+  rotate: true
+  xy: 719, 269
+  size: 388, 754
+  orig: 388, 754
+  offset: 0, 0
+  index: -1

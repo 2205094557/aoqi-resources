@@ -1,0 +1,69 @@
+
+13001_mizong_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoc137
+  rotate: false
+  xy: 198, 1027
+  size: 220, 310
+  orig: 220, 310
+  offset: 0, 0
+  index: -1
+xiaoc138
+  rotate: true
+  xy: 2, 343
+  size: 121, 55
+  orig: 121, 55
+  offset: 0, 0
+  index: -1
+xiaoc139
+  rotate: false
+  xy: 2, 763
+  size: 194, 574
+  orig: 194, 574
+  offset: 0, 0
+  index: -1
+xiaoc140
+  rotate: false
+  xy: 96, 731
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+xiaoc141
+  rotate: false
+  xy: 198, 778
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+xiaoc142
+  rotate: false
+  xy: 198, 836
+  size: 121, 189
+  orig: 121, 189
+  offset: 0, 0
+  index: -1
+xiaoc143
+  rotate: false
+  xy: 420, 1151
+  size: 45, 186
+  orig: 45, 186
+  offset: 0, 0
+  index: -1
+xiaoc144
+  rotate: true
+  xy: 2, 466
+  size: 295, 92
+  orig: 295, 92
+  offset: 0, 0
+  index: -1
+xiaoc145
+  rotate: false
+  xy: 2, 1339
+  size: 2020, 681
+  orig: 2020, 681
+  offset: 0, 0
+  index: -1

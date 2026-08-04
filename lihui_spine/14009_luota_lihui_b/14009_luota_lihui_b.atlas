@@ -1,0 +1,139 @@
+
+14009_luota_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lt
+  rotate: true
+  xy: 1985, 1368
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+xc78
+  rotate: false
+  xy: 759, 42
+  size: 307, 226
+  orig: 307, 226
+  offset: 0, 0
+  index: -1
+xc79
+  rotate: true
+  xy: 1386, 835
+  size: 379, 173
+  orig: 379, 173
+  offset: 0, 0
+  index: -1
+xc80
+  rotate: false
+  xy: 1635, 1226
+  size: 348, 218
+  orig: 348, 218
+  offset: 0, 0
+  index: -1
+xc81
+  rotate: true
+  xy: 1561, 973
+  size: 241, 179
+  orig: 241, 179
+  offset: 0, 0
+  index: -1
+xc82
+  rotate: false
+  xy: 1421, 395
+  size: 88, 139
+  orig: 88, 139
+  offset: 0, 0
+  index: -1
+xc83
+  rotate: false
+  xy: 1561, 782
+  size: 203, 189
+  orig: 203, 189
+  offset: 0, 0
+  index: -1
+xc84
+  rotate: false
+  xy: 2, 34
+  size: 449, 234
+  orig: 449, 234
+  offset: 0, 0
+  index: -1
+xc85
+  rotate: false
+  xy: 2, 270
+  size: 1025, 439
+  orig: 1025, 439
+  offset: 0, 0
+  index: -1
+xc86
+  rotate: false
+  xy: 1386, 1216
+  size: 247, 825
+  orig: 247, 825
+  offset: 0, 0
+  index: -1
+xc87
+  rotate: false
+  xy: 1742, 1007
+  size: 178, 217
+  orig: 178, 217
+  offset: 0, 0
+  index: -1
+xc88
+  rotate: true
+  xy: 453, 2
+  size: 266, 304
+  orig: 266, 304
+  offset: 0, 0
+  index: -1
+xc89
+  rotate: true
+  xy: 1386, 730
+  size: 103, 165
+  orig: 103, 165
+  offset: 0, 0
+  index: -1
+xc90
+  rotate: false
+  xy: 2, 711
+  size: 1382, 1330
+  orig: 1382, 1330
+  offset: 0, 0
+  index: -1
+xc91
+  rotate: false
+  xy: 1068, 113
+  size: 337, 158
+  orig: 337, 158
+  offset: 0, 0
+  index: -1
+xc92
+  rotate: false
+  xy: 1029, 273
+  size: 390, 436
+  orig: 390, 436
+  offset: 0, 0
+  index: -1
+xc93
+  rotate: true
+  xy: 1421, 536
+  size: 192, 123
+  orig: 192, 123
+  offset: 0, 0
+  index: -1
+xc94
+  rotate: false
+  xy: 1766, 783
+  size: 125, 222
+  orig: 125, 222
+  offset: 0, 0
+  index: -1
+xc95
+  rotate: false
+  xy: 1635, 1446
+  size: 397, 595
+  orig: 397, 595
+  offset: 0, 0
+  index: -1

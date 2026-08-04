@@ -1,0 +1,83 @@
+
+14008_guanglun_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoc119
+  rotate: true
+  xy: 1955, 1563
+  size: 471, 55
+  orig: 471, 55
+  offset: 0, 0
+  index: -1
+xiaoc121
+  rotate: false
+  xy: 1206, 1268
+  size: 463, 255
+  orig: 463, 255
+  offset: 0, 0
+  index: -1
+xiaoc122
+  rotate: true
+  xy: 397, 373
+  size: 776, 124
+  orig: 776, 124
+  offset: 0, 0
+  index: -1
+xiaoc123
+  rotate: true
+  xy: 523, 583
+  size: 566, 177
+  orig: 566, 177
+  offset: 0, 0
+  index: -1
+xiaoc124
+  rotate: false
+  xy: 1671, 1300
+  size: 211, 242
+  orig: 211, 242
+  offset: 0, 0
+  index: -1
+xiaoc125
+  rotate: false
+  xy: 2, 2
+  size: 223, 185
+  orig: 223, 185
+  offset: 0, 0
+  index: -1
+xiaoc126
+  rotate: false
+  xy: 2, 1151
+  size: 704, 883
+  orig: 704, 883
+  offset: 0, 0
+  index: -1
+xiaoc127
+  rotate: false
+  xy: 1552, 1544
+  size: 401, 490
+  orig: 401, 490
+  offset: 0, 0
+  index: -1
+xiaoc128
+  rotate: true
+  xy: 2, 189
+  size: 960, 393
+  orig: 960, 393
+  offset: 0, 0
+  index: -1
+xiaoc129
+  rotate: false
+  xy: 708, 1525
+  size: 842, 509
+  orig: 842, 509
+  offset: 0, 0
+  index: -1
+xiaoc130
+  rotate: false
+  xy: 708, 1237
+  size: 496, 286
+  orig: 496, 286
+  offset: 0, 0
+  index: -1

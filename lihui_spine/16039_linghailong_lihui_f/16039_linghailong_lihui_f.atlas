@@ -1,0 +1,181 @@
+
+16039_linghailong_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cs0
+  rotate: true
+  xy: 1473, 270
+  size: 280, 169
+  orig: 280, 169
+  offset: 0, 0
+  index: -1
+cs1
+  rotate: false
+  xy: 1398, 79
+  size: 159, 189
+  orig: 159, 189
+  offset: 0, 0
+  index: -1
+cs10
+  rotate: true
+  xy: 401, 949
+  size: 250, 963
+  orig: 250, 963
+  offset: 0, 0
+  index: -1
+cs11
+  rotate: true
+  xy: 401, 595
+  size: 164, 720
+  orig: 164, 720
+  offset: 0, 0
+  index: -1
+cs12
+  rotate: false
+  xy: 2, 4
+  size: 231, 667
+  orig: 231, 667
+  offset: 0, 0
+  index: -1
+cs13
+  rotate: false
+  xy: 401, 1201
+  size: 826, 398
+  orig: 826, 398
+  offset: 0, 0
+  index: -1
+cs2
+  rotate: true
+  xy: 1700, 1269
+  size: 217, 265
+  orig: 217, 265
+  offset: 0, 0
+  index: -1
+cs3
+  rotate: true
+  xy: 1401, 1650
+  size: 359, 504
+  orig: 359, 504
+  offset: 0, 0
+  index: -1
+cs30
+  rotate: true
+  xy: 951, 25
+  size: 311, 445
+  orig: 311, 445
+  offset: 0, 0
+  index: -1
+cs31
+  rotate: false
+  xy: 1229, 1259
+  size: 469, 227
+  orig: 469, 227
+  offset: 0, 0
+  index: -1
+cs32
+  rotate: true
+  xy: 1907, 1683
+  size: 326, 137
+  orig: 326, 137
+  offset: 0, 0
+  index: -1
+cs33
+  rotate: true
+  xy: 1366, 959
+  size: 94, 445
+  orig: 94, 445
+  offset: 0, 0
+  index: -1
+cs34
+  rotate: true
+  xy: 947, 338
+  size: 212, 524
+  orig: 212, 524
+  offset: 0, 0
+  index: -1
+cs35
+  rotate: false
+  xy: 401, 1601
+  size: 998, 408
+  orig: 998, 408
+  offset: 0, 0
+  index: -1
+cs36
+  rotate: false
+  xy: 1401, 1488
+  size: 503, 160
+  orig: 503, 160
+  offset: 0, 0
+  index: -1
+cs37
+  rotate: false
+  xy: 1559, 83
+  size: 86, 185
+  orig: 86, 185
+  offset: 0, 0
+  index: -1
+cs38
+  rotate: false
+  xy: 235, 259
+  size: 710, 334
+  orig: 710, 334
+  offset: 0, 0
+  index: -1
+cs39
+  rotate: false
+  xy: 2, 673
+  size: 397, 1336
+  orig: 397, 1336
+  offset: 0, 0
+  index: -1
+cs4
+  rotate: false
+  xy: 1667, 620
+  size: 342, 156
+  orig: 342, 156
+  offset: 0, 0
+  index: -1
+cs40
+  rotate: true
+  xy: 1366, 1055
+  size: 202, 421
+  orig: 202, 421
+  offset: 0, 0
+  index: -1
+cs5
+  rotate: true
+  xy: 1789, 1073
+  size: 194, 178
+  orig: 194, 178
+  offset: 0, 0
+  index: -1
+cs6
+  rotate: true
+  xy: 401, 761
+  size: 186, 1139
+  orig: 186, 1139
+  offset: 0, 0
+  index: -1
+cs7
+  rotate: true
+  xy: 1123, 552
+  size: 207, 542
+  orig: 207, 542
+  offset: 0, 0
+  index: -1
+cs8
+  rotate: true
+  xy: 235, 2
+  size: 255, 714
+  orig: 255, 714
+  offset: 0, 0
+  index: -1
+cs9
+  rotate: true
+  xy: 1542, 778
+  size: 179, 484
+  orig: 179, 484
+  offset: 0, 0
+  index: -1

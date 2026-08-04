@@ -1,0 +1,146 @@
+
+17000_yi01_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaozhui1
+  rotate: true
+  xy: 1199, 76
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1
+diaozhui2
+  rotate: true
+  xy: 901, 53
+  size: 11, 636
+  orig: 11, 636
+  offset: 0, 0
+  index: -1
+guang1s
+  rotate: false
+  xy: 651, 66
+  size: 546, 138
+  orig: 546, 138
+  offset: 0, 0
+  index: -1
+guang2s
+  rotate: false
+  xy: 1539, 17
+  size: 307, 78
+  orig: 307, 78
+  offset: 0, 0
+  index: -1
+guang3s
+  rotate: false
+  xy: 1539, 97
+  size: 484, 122
+  orig: 484, 122
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: true
+  xy: 830, 935
+  size: 328, 154
+  orig: 328, 154
+  offset: 0, 0
+  index: -1
+huaban1
+  rotate: false
+  xy: 1323, 11
+  size: 83, 40
+  orig: 83, 40
+  offset: 0, 0
+  index: -1
+huaban2
+  rotate: false
+  xy: 1408, 15
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+huaban4
+  rotate: true
+  xy: 1177, 18
+  size: 33, 144
+  orig: 33, 144
+  offset: 0, 0
+  index: -1
+sha1
+  rotate: false
+  xy: 2, 206
+  size: 1126, 516
+  orig: 1126, 516
+  offset: 0, 0
+  index: -1
+sha8
+  rotate: false
+  xy: 1130, 221
+  size: 817, 745
+  orig: 817, 745
+  offset: 0, 0
+  index: -1
+sha9
+  rotate: false
+  xy: 830, 1265
+  size: 556, 774
+  orig: 556, 774
+  offset: 0, 0
+  index: -1
+suipian1
+  rotate: true
+  xy: 1848, 24
+  size: 71, 198
+  orig: 71, 198
+  offset: 0, 0
+  index: -1
+suipian10
+  rotate: false
+  xy: 1053, 10
+  size: 122, 41
+  orig: 122, 41
+  offset: 0, 0
+  index: -1
+suipian2
+  rotate: false
+  xy: 1539, 968
+  size: 424, 1071
+  orig: 424, 1071
+  offset: 0, 0
+  index: -1
+suipian3
+  rotate: true
+  xy: 901, 7
+  size: 44, 150
+  orig: 44, 150
+  offset: 0, 0
+  index: -1
+suipian4
+  rotate: false
+  xy: 2, 724
+  size: 473, 1315
+  orig: 473, 1315
+  offset: 0, 0
+  index: -1
+suipian6
+  rotate: true
+  xy: 477, 782
+  size: 1257, 351
+  orig: 1257, 351
+  offset: 0, 0
+  index: -1
+suipian8
+  rotate: false
+  xy: 2, 6
+  size: 647, 198
+  orig: 647, 198
+  offset: 0, 0
+  index: -1
+suipian9
+  rotate: false
+  xy: 651, 2
+  size: 248, 62
+  orig: 248, 62
+  offset: 0, 0
+  index: -1

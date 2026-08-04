@@ -1,0 +1,160 @@
+
+10097_moyan01_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaiming0
+  rotate: false
+  xy: 1902, 972
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+gaiming1
+  rotate: true
+  xy: 1906, 1381
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+gaiming10
+  rotate: false
+  xy: 716, 2
+  size: 246, 179
+  orig: 246, 179
+  offset: 0, 0
+  index: -1
+gaiming11
+  rotate: true
+  xy: 1902, 1063
+  size: 281, 142
+  orig: 281, 142
+  offset: 0, 0
+  index: -1
+gaiming12
+  rotate: true
+  xy: 1688, 972
+  size: 372, 212
+  orig: 372, 212
+  offset: 0, 0
+  index: -1
+gaiming13
+  rotate: false
+  xy: 1201, 23
+  size: 355, 158
+  orig: 355, 158
+  offset: 0, 0
+  index: -1
+gaiming14
+  rotate: true
+  xy: 528, 519
+  size: 326, 1266
+  orig: 326, 1266
+  offset: 0, 0
+  index: -1
+gaiming145
+  rotate: false
+  xy: 2, 134
+  size: 712, 382
+  orig: 712, 382
+  offset: 0, 0
+  index: -1
+gaiming146
+  rotate: false
+  xy: 528, 847
+  size: 1158, 1195
+  orig: 1158, 1195
+  offset: 0, 0
+  index: -1
+gaiming147
+  rotate: true
+  xy: 1688, 1638
+  size: 404, 269
+  orig: 404, 269
+  offset: 0, 0
+  index: -1
+gaiming148
+  rotate: false
+  xy: 1796, 554
+  size: 150, 301
+  orig: 150, 301
+  offset: 0, 0
+  index: -1
+gaiming149
+  rotate: true
+  xy: 1688, 1346
+  size: 290, 216
+  orig: 290, 216
+  offset: 0, 0
+  index: -1
+gaiming151
+  rotate: false
+  xy: 2, 518
+  size: 524, 1524
+  orig: 524, 1524
+  offset: 0, 0
+  index: -1
+gaiming152
+  rotate: false
+  xy: 716, 183
+  size: 1302, 334
+  orig: 1302, 334
+  offset: 0, 0
+  index: -1
+gaiming2
+  rotate: false
+  xy: 1688, 857
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+gaiming3
+  rotate: false
+  xy: 1921, 940
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+gaiming4
+  rotate: true
+  xy: 1976, 1363
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+gaiming5
+  rotate: false
+  xy: 1906, 1475
+  size: 72, 161
+  orig: 72, 161
+  offset: 0, 0
+  index: -1
+gaiming6
+  rotate: true
+  xy: 1921, 879
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+gaiming7
+  rotate: false
+  xy: 1906, 1432
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+gaiming8
+  rotate: true
+  xy: 1803, 858
+  size: 112, 116
+  orig: 112, 116
+  offset: 0, 0
+  index: -1
+gaiming9
+  rotate: false
+  xy: 964, 2
+  size: 235, 179
+  orig: 235, 179
+  offset: 0, 0
+  index: -1

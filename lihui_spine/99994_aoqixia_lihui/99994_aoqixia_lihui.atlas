@@ -1,0 +1,48 @@
+
+99994_aoqixia_lihui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 2, 2
+  size: 547, 964
+  orig: 547, 964
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 721, 863
+  size: 136, 103
+  orig: 136, 103
+  offset: 0, 0
+  index: -1
+dy
+  rotate: false
+  xy: 621, 723
+  size: 95, 125
+  orig: 95, 125
+  offset: 0, 0
+  index: -1
+jd
+  rotate: false
+  xy: 551, 850
+  size: 168, 116
+  orig: 168, 116
+  offset: 0, 0
+  index: -1
+wy
+  rotate: false
+  xy: 859, 865
+  size: 133, 101
+  orig: 133, 101
+  offset: 0, 0
+  index: -1
+yj
+  rotate: true
+  xy: 551, 669
+  size: 179, 68
+  orig: 179, 68
+  offset: 0, 0
+  index: -1

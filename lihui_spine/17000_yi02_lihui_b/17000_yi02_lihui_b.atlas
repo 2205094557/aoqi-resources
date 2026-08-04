@@ -1,0 +1,69 @@
+
+17000_yi02_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 2, 508
+  size: 821, 543
+  orig: 821, 543
+  offset: 0, 0
+  index: -1
+jianzhu1
+  rotate: true
+  xy: 1572, 1750
+  size: 285, 363
+  orig: 285, 363
+  offset: 0, 0
+  index: -1
+shitou9
+  rotate: false
+  xy: 708, 1732
+  size: 862, 303
+  orig: 862, 303
+  offset: 0, 0
+  index: -1
+texiao12999999999
+  rotate: false
+  xy: 547, 653
+  size: 187, 676
+  orig: 187, 676
+  offset: 0, 0
+  index: -1
+texiao13
+  rotate: true
+  xy: 708, 1376
+  size: 354, 656
+  orig: 354, 656
+  offset: 0, 0
+  index: -1
+wei4
+  rotate: false
+  xy: 1366, 1440
+  size: 123, 290
+  orig: 123, 290
+  offset: 0, 0
+  index: -1
+wei5
+  rotate: false
+  xy: 736, 1278
+  size: 539, 96
+  orig: 539, 96
+  offset: 0, 0
+  index: -1
+xinqiu
+  rotate: false
+  xy: 2, 1331
+  size: 704, 704
+  orig: 704, 704
+  offset: 0, 0
+  index: -1
+xinxin
+  rotate: false
+  xy: 2, 2
+  size: 501, 504
+  orig: 501, 504
+  offset: 0, 0
+  index: -1

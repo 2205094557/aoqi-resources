@@ -1,0 +1,83 @@
+
+12008_yanshen_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc131
+  rotate: true
+  xy: 564, 844
+  size: 307, 836
+  orig: 307, 836
+  offset: 0, 0
+  index: -1
+xc132
+  rotate: false
+  xy: 194, 540
+  size: 368, 1506
+  orig: 368, 1506
+  offset: 0, 0
+  index: -1
+xc133
+  rotate: false
+  xy: 564, 394
+  size: 810, 184
+  orig: 810, 184
+  offset: 0, 0
+  index: -1
+xc134
+  rotate: true
+  xy: 564, 580
+  size: 262, 761
+  orig: 262, 761
+  offset: 0, 0
+  index: -1
+xc135
+  rotate: false
+  xy: 564, 1153
+  size: 883, 339
+  orig: 883, 339
+  offset: 0, 0
+  index: -1
+xc136
+  rotate: false
+  xy: 1726, 1553
+  size: 140, 493
+  orig: 140, 493
+  offset: 0, 0
+  index: -1
+xc137
+  rotate: false
+  xy: 2, 2
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+xc138
+  rotate: false
+  xy: 1449, 1216
+  size: 66, 276
+  orig: 66, 276
+  offset: 0, 0
+  index: -1
+xc139
+  rotate: false
+  xy: 564, 1494
+  size: 1160, 552
+  orig: 1160, 552
+  offset: 0, 0
+  index: -1
+xc140
+  rotate: false
+  xy: 194, 58
+  size: 106, 480
+  orig: 106, 480
+  offset: 0, 0
+  index: -1
+xc141
+  rotate: false
+  xy: 2, 49
+  size: 190, 1997
+  orig: 190, 1997
+  offset: 0, 0
+  index: -1

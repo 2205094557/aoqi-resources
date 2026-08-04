@@ -1,0 +1,55 @@
+
+14009_luota_lihui_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xc0
+  rotate: true
+  xy: 478, 237
+  size: 620, 215
+  orig: 620, 215
+  offset: 0, 0
+  index: -1
+xc1
+  rotate: false
+  xy: 472, 59
+  size: 251, 176
+  orig: 251, 176
+  offset: 0, 0
+  index: -1
+xc2
+  rotate: false
+  xy: 695, 275
+  size: 195, 582
+  orig: 195, 582
+  offset: 0, 0
+  index: -1
+xc3
+  rotate: false
+  xy: 2, 118
+  size: 468, 238
+  orig: 468, 238
+  offset: 0, 0
+  index: -1
+xc4
+  rotate: false
+  xy: 892, 481
+  size: 126, 376
+  orig: 126, 376
+  offset: 0, 0
+  index: -1
+xc5
+  rotate: true
+  xy: 2, 2
+  size: 114, 354
+  orig: 114, 354
+  offset: 0, 0
+  index: -1
+xc6
+  rotate: false
+  xy: 2, 358
+  size: 474, 499
+  orig: 474, 499
+  offset: 0, 0
+  index: -1

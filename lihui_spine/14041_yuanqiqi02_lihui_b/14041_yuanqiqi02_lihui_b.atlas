@@ -1,0 +1,111 @@
+
+14041_yuanqiqi02_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a10
+  rotate: true
+  xy: 2032, 2035
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+a11
+  rotate: false
+  xy: 2, 2
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+a12
+  rotate: true
+  xy: 144, 13
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+a13
+  rotate: true
+  xy: 110, 6
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+a14
+  rotate: true
+  xy: 60, 4
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+a15
+  rotate: false
+  xy: 1852, 870
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+a18
+  rotate: false
+  xy: 2, 47
+  size: 1002, 673
+  orig: 1002, 673
+  offset: 0, 0
+  index: -1
+a255
+  rotate: false
+  xy: 1852, 944
+  size: 139, 216
+  orig: 139, 216
+  offset: 0, 0
+  index: -1
+a256
+  rotate: false
+  xy: 2, 722
+  size: 970, 1320
+  orig: 970, 1320
+  offset: 0, 0
+  index: -1
+a257
+  rotate: false
+  xy: 1852, 1644
+  size: 180, 124
+  orig: 180, 124
+  offset: 0, 0
+  index: -1
+a258
+  rotate: false
+  xy: 1852, 1162
+  size: 143, 209
+  orig: 143, 209
+  offset: 0, 0
+  index: -1
+a259
+  rotate: true
+  xy: 974, 1770
+  size: 272, 1056
+  orig: 272, 1056
+  offset: 0, 0
+  index: -1
+a260
+  rotate: true
+  xy: 1852, 1373
+  size: 269, 159
+  orig: 269, 159
+  offset: 0, 0
+  index: -1
+a261
+  rotate: true
+  xy: 1006, 235
+  size: 285, 528
+  orig: 285, 528
+  offset: 0, 0
+  index: -1
+a262
+  rotate: true
+  xy: 1006, 522
+  size: 1246, 844
+  orig: 1246, 844
+  offset: 0, 0
+  index: -1
