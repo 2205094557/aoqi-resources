@@ -1,0 +1,181 @@
+
+14034_shenyaoluoshiqi03_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j0
+  rotate: false
+  xy: 815, 186
+  size: 416, 484
+  orig: 416, 484
+  offset: 0, 0
+  index: -1
+j1
+  rotate: false
+  xy: 1160, 1359
+  size: 504, 212
+  orig: 504, 212
+  offset: 0, 0
+  index: -1
+j100
+  rotate: true
+  xy: 1717, 1525
+  size: 512, 135
+  orig: 512, 135
+  offset: 0, 0
+  index: -1
+j101
+  rotate: true
+  xy: 815, 672
+  size: 579, 352
+  orig: 579, 352
+  offset: 0, 0
+  index: -1
+j102
+  rotate: false
+  xy: 815, 1253
+  size: 343, 784
+  orig: 343, 784
+  offset: 0, 0
+  index: -1
+j103
+  rotate: false
+  xy: 1160, 1573
+  size: 555, 464
+  orig: 555, 464
+  offset: 0, 0
+  index: -1
+j112
+  rotate: false
+  xy: 1169, 685
+  size: 104, 217
+  orig: 104, 217
+  offset: 0, 0
+  index: -1
+j113
+  rotate: true
+  xy: 815, 140
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+j114
+  rotate: false
+  xy: 1169, 904
+  size: 254, 120
+  orig: 254, 120
+  offset: 0, 0
+  index: -1
+j115
+  rotate: true
+  xy: 1854, 1689
+  size: 348, 103
+  orig: 348, 103
+  offset: 0, 0
+  index: -1
+j116
+  rotate: false
+  xy: 183, 63
+  size: 81, 61
+  orig: 81, 61
+  offset: 0, 0
+  index: -1
+j117
+  rotate: false
+  xy: 1666, 1514
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+j118
+  rotate: false
+  xy: 1425, 1010
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+j119
+  rotate: false
+  xy: 1854, 1630
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+j120
+  rotate: true
+  xy: 1502, 1147
+  size: 210, 132
+  orig: 210, 132
+  offset: 0, 0
+  index: -1
+j121
+  rotate: false
+  xy: 1959, 1986
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+j122
+  rotate: false
+  xy: 1169, 1026
+  size: 331, 331
+  orig: 331, 331
+  offset: 0, 0
+  index: -1
+j145
+  rotate: true
+  xy: 1169, 672
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+j2
+  rotate: true
+  xy: 390, 134
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+j3
+  rotate: false
+  xy: 183, 126
+  size: 205, 1911
+  orig: 205, 1911
+  offset: 0, 0
+  index: -1
+j4
+  rotate: false
+  xy: 390, 168
+  size: 169, 1869
+  orig: 169, 1869
+  offset: 0, 0
+  index: -1
+j5
+  rotate: false
+  xy: 561, 148
+  size: 145, 1889
+  orig: 145, 1889
+  offset: 0, 0
+  index: -1
+j6
+  rotate: false
+  xy: 708, 136
+  size: 105, 1901
+  orig: 105, 1901
+  offset: 0, 0
+  index: -1
+j7
+  rotate: false
+  xy: 2, 2
+  size: 179, 2035
+  orig: 179, 2035
+  offset: 0, 0
+  index: -1
+j99
+  rotate: false
+  xy: 1275, 736
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1

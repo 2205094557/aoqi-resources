@@ -1,0 +1,258 @@
+
+14033_shenyaowangzhenuoyamm_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fkqiu1_guang
+  rotate: true
+  xy: 779, 1058
+  size: 320, 288
+  orig: 320, 288
+  offset: 0, 0
+  index: -1
+fkqiu1_huan1_h
+  rotate: true
+  xy: 480, 96
+  size: 456, 66
+  orig: 456, 66
+  offset: 0, 0
+  index: -1
+fkqiu1_huan1_q
+  rotate: false
+  xy: 642, 27
+  size: 622, 84
+  orig: 622, 84
+  offset: 0, 0
+  index: -1
+fkqiu1_huan2_h
+  rotate: false
+  xy: 1678, 5
+  size: 50, 401
+  orig: 50, 401
+  offset: 0, 0
+  index: -1
+fkqiu1_huan2_q
+  rotate: true
+  xy: 538, 1685
+  size: 68, 549
+  orig: 68, 549
+  offset: 0, 0
+  index: -1
+fkqiu1_qiu
+  rotate: false
+  xy: 1829, 1456
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: -1
+fkqiu1_qiu_guang
+  rotate: false
+  xy: 407, 640
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+fkqiu2_huan1_h
+  rotate: false
+  xy: 1386, 853
+  size: 643, 123
+  orig: 643, 123
+  offset: 0, 0
+  index: -1
+fkqiu2_huan1_q
+  rotate: true
+  xy: 1266, 107
+  size: 869, 118
+  orig: 869, 118
+  offset: 0, 0
+  index: -1
+fkqiu2_huan2_h
+  rotate: false
+  xy: 348, 60
+  size: 71, 566
+  orig: 71, 566
+  offset: 0, 0
+  index: -1
+fkqiu2_huan2_q
+  rotate: false
+  xy: 548, 2
+  size: 92, 771
+  orig: 92, 771
+  offset: 0, 0
+  index: -1
+fkqiu2_qiu
+  rotate: false
+  xy: 779, 1380
+  size: 303, 303
+  orig: 303, 303
+  offset: 0, 0
+  index: -1
+fkqiu2_qiu_guang
+  rotate: false
+  xy: 1844, 1675
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+fkqiu3_huan1_h
+  rotate: true
+  xy: 1730, 12
+  size: 394, 58
+  orig: 394, 58
+  offset: 0, 0
+  index: -1
+fkqiu3_huan1_q
+  rotate: false
+  xy: 2, 1681
+  size: 534, 72
+  orig: 534, 72
+  offset: 0, 0
+  index: -1
+fkqiu3_huan2_h
+  rotate: false
+  xy: 1772, 1304
+  size: 55, 347
+  orig: 55, 347
+  offset: 0, 0
+  index: -1
+fkqiu3_huan2_q
+  rotate: false
+  xy: 421, 80
+  size: 57, 472
+  orig: 57, 472
+  offset: 0, 0
+  index: -1
+fkqiu3_qiu
+  rotate: false
+  xy: 1844, 1856
+  size: 187, 185
+  orig: 187, 185
+  offset: 0, 0
+  index: -1
+fkqiu3_qiu_guang
+  rotate: false
+  xy: 1772, 1079
+  size: 223, 223
+  orig: 223, 223
+  offset: 0, 0
+  index: -1
+fkqiu4_guang
+  rotate: false
+  xy: 779, 491
+  size: 485, 540
+  orig: 485, 540
+  offset: 0, 0
+  index: -1
+fkqiu4_huan1_h
+  rotate: false
+  xy: 1266, 47
+  size: 410, 58
+  orig: 410, 58
+  offset: 0, 0
+  index: -1
+fkqiu4_huan1_q
+  rotate: false
+  xy: 1089, 1653
+  size: 738, 100
+  orig: 738, 100
+  offset: 0, 0
+  index: -1
+fkqiu4_huan2_h
+  rotate: true
+  xy: 1069, 1033
+  size: 90, 680
+  orig: 90, 680
+  offset: 0, 0
+  index: -1
+fkqiu4_huan2_q
+  rotate: false
+  xy: 453, 775
+  size: 324, 898
+  orig: 324, 898
+  offset: 0, 0
+  index: -1
+fkqiu4_qiu
+  rotate: true
+  xy: 772, 120
+  size: 369, 461
+  orig: 369, 461
+  offset: 0, 0
+  index: -1
+fkqiu4_qiu_guang
+  rotate: false
+  xy: 1386, 408
+  size: 443, 443
+  orig: 443, 443
+  offset: 0, 0
+  index: -1
+guanghuan3
+  rotate: true
+  xy: 642, 113
+  size: 660, 128
+  orig: 660, 128
+  offset: 0, 0
+  index: -1
+q_liuguang1
+  rotate: false
+  xy: 407, 774
+  size: 44, 899
+  orig: 44, 899
+  offset: 0, 0
+  index: -1
+q_liuguang2
+  rotate: true
+  xy: 1266, 978
+  size: 53, 777
+  orig: 53, 777
+  offset: 0, 0
+  index: -1
+q_liuguang3
+  rotate: true
+  xy: 2, 7
+  size: 27, 544
+  orig: 27, 544
+  offset: 0, 0
+  index: -1
+q_liuguang4
+  rotate: false
+  xy: 261, 628
+  size: 144, 1045
+  orig: 144, 1045
+  offset: 0, 0
+  index: -1
+q_liuguang5
+  rotate: false
+  xy: 2, 36
+  size: 344, 569
+  orig: 344, 569
+  offset: 0, 0
+  index: -1
+q_liuguang_heidi
+  rotate: false
+  xy: 1084, 1125
+  size: 686, 526
+  orig: 686, 526
+  offset: 0, 0
+  index: -1
+qianhuan
+  rotate: true
+  xy: 2, 607
+  size: 1066, 257
+  orig: 1066, 257
+  offset: 0, 0
+  index: -1
+qianhuan_dian
+  rotate: false
+  xy: 421, 554
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+qianhuan_qian
+  rotate: false
+  xy: 2, 1755
+  size: 1840, 286
+  orig: 1840, 286
+  offset: 0, 0
+  index: -1
