@@ -1,0 +1,230 @@
+
+15017_shenyaoyueyingwang_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0
+  rotate: false
+  xy: 2016, 424
+  size: 12, 56
+  orig: 12, 56
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 1723, 355
+  size: 291, 296
+  orig: 291, 296
+  offset: 0, 0
+  index: -1
+a10
+  rotate: true
+  xy: 1979, 1390
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+a11
+  rotate: true
+  xy: 1941, 1907
+  size: 131, 90
+  orig: 131, 90
+  offset: 0, 0
+  index: -1
+a12
+  rotate: true
+  xy: 1153, 1450
+  size: 111, 187
+  orig: 111, 187
+  offset: 0, 0
+  index: -1
+a13
+  rotate: false
+  xy: 1889, 20
+  size: 154, 89
+  orig: 154, 89
+  offset: 0, 0
+  index: -1
+a14
+  rotate: false
+  xy: 1011, 1271
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+a15
+  rotate: false
+  xy: 1889, 111
+  size: 150, 242
+  orig: 150, 242
+  offset: 0, 0
+  index: -1
+a16
+  rotate: false
+  xy: 2, 1449
+  size: 1149, 170
+  orig: 1149, 170
+  offset: 0, 0
+  index: -1
+a17
+  rotate: false
+  xy: 2, 178
+  size: 892, 371
+  orig: 892, 371
+  offset: 0, 0
+  index: -1
+a18
+  rotate: true
+  xy: 2, 2
+  size: 174, 719
+  orig: 174, 719
+  offset: 0, 0
+  index: -1
+a19
+  rotate: false
+  xy: 1941, 1478
+  size: 73, 241
+  orig: 73, 241
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 2016, 412
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+a20
+  rotate: false
+  xy: 1723, 13
+  size: 164, 340
+  orig: 164, 340
+  offset: 0, 0
+  index: -1
+a21
+  rotate: true
+  xy: 980, 31
+  size: 837, 325
+  orig: 837, 325
+  offset: 0, 0
+  index: -1
+a22
+  rotate: true
+  xy: 1341, 55
+  size: 1188, 380
+  orig: 1188, 380
+  offset: 0, 0
+  index: -1
+a23
+  rotate: true
+  xy: 1549, 1245
+  size: 793, 390
+  orig: 793, 390
+  offset: 0, 0
+  index: -1
+a24
+  rotate: false
+  xy: 1173, 1300
+  size: 285, 32
+  orig: 285, 32
+  offset: 0, 0
+  index: -1
+a25
+  rotate: true
+  xy: 2, 870
+  size: 373, 1337
+  orig: 373, 1337
+  offset: 0, 0
+  index: -1
+a26
+  rotate: false
+  xy: 2, 551
+  size: 976, 317
+  orig: 976, 317
+  offset: 0, 0
+  index: -1
+a27
+  rotate: false
+  xy: 2, 1621
+  size: 1545, 417
+  orig: 1545, 417
+  offset: 0, 0
+  index: -1
+a28
+  rotate: false
+  xy: 2, 1281
+  size: 1007, 166
+  orig: 1007, 166
+  offset: 0, 0
+  index: -1
+a29
+  rotate: true
+  xy: 2016, 482
+  size: 169, 30
+  orig: 169, 30
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 1011, 1334
+  size: 465, 113
+  orig: 465, 113
+  offset: 0, 0
+  index: -1
+a30
+  rotate: true
+  xy: 1723, 653
+  size: 590, 319
+  orig: 590, 319
+  offset: 0, 0
+  index: -1
+a31
+  rotate: true
+  xy: 1153, 1563
+  size: 56, 386
+  orig: 56, 386
+  offset: 0, 0
+  index: -1
+a4
+  rotate: true
+  xy: 1478, 1323
+  size: 238, 57
+  orig: 238, 57
+  offset: 0, 0
+  index: -1
+a5
+  rotate: true
+  xy: 1941, 1721
+  size: 184, 87
+  orig: 184, 87
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 1941, 1273
+  size: 36, 203
+  orig: 36, 203
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 1105, 1273
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+a8
+  rotate: true
+  xy: 1979, 1304
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+a9
+  rotate: true
+  xy: 1342, 1489
+  size: 72, 123
+  orig: 72, 123
+  offset: 0, 0
+  index: -1
