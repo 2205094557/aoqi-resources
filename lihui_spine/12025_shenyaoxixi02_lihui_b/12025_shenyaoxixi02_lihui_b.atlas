@@ -1,0 +1,76 @@
+
+12025_shenyaoxixi02_lihui_b.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+npxxl245
+  rotate: true
+  xy: 2, 2
+  size: 43, 102
+  orig: 43, 102
+  offset: 0, 0
+  index: -1
+npxxl246
+  rotate: false
+  xy: 1470, 1100
+  size: 90, 209
+  orig: 90, 209
+  offset: 0, 0
+  index: -1
+npxxl247
+  rotate: true
+  xy: 2, 47
+  size: 734, 1111
+  orig: 734, 1111
+  offset: 0, 0
+  index: -1
+npxxl248
+  rotate: false
+  xy: 1470, 1311
+  size: 402, 727
+  orig: 402, 727
+  offset: 0, 0
+  index: -1
+npxxl249
+  rotate: false
+  xy: 1470, 1038
+  size: 88, 60
+  orig: 88, 60
+  offset: 0, 0
+  index: -1
+npxxl250
+  rotate: false
+  xy: 1874, 1921
+  size: 88, 117
+  orig: 88, 117
+  offset: 0, 0
+  index: -1
+npxxl251
+  rotate: false
+  xy: 1429, 731
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+npxxl252
+  rotate: false
+  xy: 1115, 604
+  size: 115, 85
+  orig: 115, 85
+  offset: 0, 0
+  index: -1
+npxxl255
+  rotate: false
+  xy: 1115, 691
+  size: 312, 90
+  orig: 312, 90
+  offset: 0, 0
+  index: -1
+npxxl256
+  rotate: false
+  xy: 2, 783
+  size: 1466, 1255
+  orig: 1466, 1255
+  offset: 0, 0
+  index: -1
